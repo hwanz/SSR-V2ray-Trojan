@@ -60,7 +60,8 @@ TG频道和群：有，人不多
 套餐是否包含手续费：是   
 试用: 有      
 国外能否使用：否
-此机场适合推荐人群： 稳定且无特殊需求     
+此机场适合推荐人群： 稳定且无特殊需求
+小白一键客户端: 有，windows+Mac   
 <a href="https://jichangpingce.com/便宜SS机场推荐之悠兔.html" target="_blank">ChatGPT、流媒体历史测速结果合集</a>
 
 
