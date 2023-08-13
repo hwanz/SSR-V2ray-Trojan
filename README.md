@@ -864,7 +864,7 @@ TG频道和群组：已私有
     
     **10块/月以下**：大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、EdNovas云(10块/每月50G)、翼游(10块/月50G)
     
-    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、老猫云(15块/每月50G)、Flyingbird(15块/月100G)、跑路云(19.8块/月125G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
+    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、跑路云(19.8块/月125G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
     
     **20-30块/月**：云翼网络(22.8块/月108G)、kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)
     
@@ -878,15 +878,15 @@ TG频道和群组：已私有
 
 
 2. **协议分类：**
-    支持SS协议：悠兔、TAG、WgetCloud、老猫云、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达
+    支持SS协议：悠兔、TAG、WgetCloud、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达
     支持SSR协议：翼游
     支持Trojan协议：WgetCloud、大哥云
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock
 
 3.**屏蔽限制区分：**
-  未屏蔽22端口：老猫云、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游
-  可用第三方软件发邮件：WgetCloud、老猫云、Kycloud、EdNovas云、大哥云、Just my sock、芬达
-  审计较少：Just my sock、老猫云、Kycloud、大哥云、EdNovas云
+  未屏蔽22端口：SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游
+  可用第三方软件发邮件：WgetCloud、Kycloud、EdNovas云、大哥云、Just my sock、芬达
+  审计较少：Just my sock、Kycloud、大哥云、EdNovas云
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云也有部分冷门节点；
@@ -905,7 +905,7 @@ TG频道和群组：已私有
 
 11.  需要回国线路：EdNovas云
 
-12.  有退款服务：老猫云、EdNovas云、Just my sock、RelayCloud、少数派
+12.  有退款服务：EdNovas云、Just my sock、RelayCloud、少数派
 
   以上就是一些值得推荐的机场，不好用的会下掉。不推荐太多家，容易选择困难。
   欢迎指正。
