@@ -27,7 +27,7 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
 2) 想要便宜的，10块/月左右机场：Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、芬达(12.8块/月88G)、翼游(10块/月50G) 
 3) 有试用：悠兔、云翼网络、大哥云   
-4) 想要买不限制设备数目的：SpeedCAT、Kycloud、Flyingbird、泡泡狗、大哥云   
+4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、泡泡狗、大哥云   
 
 
 
@@ -216,7 +216,7 @@ TG频道群组：无，主要使用邮件通知
 </details>
 
  
-## Sayss
+## 四、Sayss(100块/季150G)
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
@@ -258,12 +258,15 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 1064G永久时间 ，一次性700块
 2048G永久时间 ，一次性1200块
 
-<img src="https://jichangpingce.com/uploads/jichang/vpn/sayss.webp"  width = "100%"   align=center   />
-
+<details>
+<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+以下为精品套餐节点晚高峰测速：
+<img src="https://jichangpingce.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
 <img src="https://jichangtuijian.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+</details>
 
 
-## 四、SpeedCAT(20/月100G) 
+## 五、SpeedCAT(20/月100G) 
 
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
@@ -313,7 +316,7 @@ TG电报频道和群组：官网，关注人数：1000+
 
 
 
-## 五、云翼网络(22.8/月108G)  
+## 六、云翼网络(22.8/月108G)  
 
 IEPl专线与公网中转ss机场。可免费试用一天5G。         
 
@@ -372,7 +375,7 @@ TG电报频道和群组：官网，关注人数：2000+
 
 
 
-## 六、Kycloud(150/年120G)          
+## 七、Kycloud(150/年120G)          
 
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
@@ -427,7 +430,7 @@ Team2 | 2T/月 | 609/季度
 </details>
 
 
-## 七、Flyingbird(15/月100G)           
+## 八、Flyingbird(15/月100G)           
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠)
 
@@ -477,7 +480,7 @@ TG频道：有，群组：无
 </details> 
 
 
-##  八、EdNovas云(10/月50G)  
+##  九、EdNovas云(10/月50G)  
 
 vmess，深港专线+沪日隧道+京德隧道机场。高性价比冷门节点机场。Ed云机场适合推荐给需要回国线路的客户。   
 有两个特色：
@@ -529,7 +532,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 </details>
 
-## 九、RelayCloud(19.8/月80G)  
+## 十、RelayCloud(19.8/月80G)  
 
 全中转SS机场，比较低调。机场主在菲律宾。解锁也不错。         
 新用户首次95折优惠码：SPECIAL         
@@ -597,7 +600,7 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 
 
 
-## 十、泡泡狗(7.5/月70G)  
+## 十一、泡泡狗(7.5/月70G)  
 
 全IEPL专线中转SS机场。过境口子大，解锁不错。月付与不限时共存。不限时套餐,一次性流量，可以做备用。无工单系统，有问题右下角找客服。性价比高，速度快，但是有时候会崩一下(便宜快速稳定不可能三角)，老板修得也快(如果不是在他睡眠时间的话。目前人也很多。泡泡狗机场适合推荐给需要便宜机场的用户。         
 
@@ -646,7 +649,8 @@ TG电报频道和群组：官网，关注人数：4000+，群组人数1万+
 * 83/月 1300G流量   
 
 不限时套餐,一次性流量：
-20块110G；40块220G；50块330G；83块580G；114块920G；125块1200G；180块1800G；240块2800G；
+30块150G；60块300G；80块450G；100块600G；150块1000G；210块1500G；260块2000G；360块3000G；
+
 
 
 <details>
@@ -659,7 +663,7 @@ TG电报频道和群组：官网，关注人数：4000+，群组人数1万+
 
 
 
-## 十一、Just my sock(5.8刀/月108G)  
+## 十二、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -736,7 +740,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十二、大哥云(19.8/月100G)           
+## 十三、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
@@ -791,7 +795,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-## 十三、芬达(12.8/月88G)  
+## 十四、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -843,7 +847,7 @@ TG频道和群组：无
 
 
 
-## 十四、翼游/Yiyo(10/月50G)  
+## 十五、翼游/Yiyo(10/月50G)  
 
 ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白一键使用客户端。 也有海外节点(给在外国的人用的)
 如果打不开请切换为全局代理。人数不少了。         
@@ -912,7 +916,7 @@ TG频道和群组：已私有
     
     **20-30块/月**：云翼网络(22.8块/月108G)、kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)
     
-    **30块/月起**： Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)
+    **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)
     
      2)**想要小流量或者按量付费套餐**：
        悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、泡泡狗(20块110G不限时)、STC-SERVER(0.8块/G，8块起买)
@@ -922,18 +926,18 @@ TG频道和群组：已私有
 
 
 2. **协议分类：**
-    支持SS协议：悠兔、TAG、WgetCloud、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达
+    支持SS协议：悠兔、TAG、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达
     支持SSR协议：翼游
     支持Trojan协议：WgetCloud、大哥云
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock
 
 3.**屏蔽限制区分：**
-  未屏蔽22端口：SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游
-  可用第三方软件发邮件：WgetCloud、Kycloud、EdNovas云、大哥云、Just my sock、芬达
-  审计较少：Just my sock、Kycloud、大哥云、EdNovas云
+  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游
+  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达
+  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云
 
 
-4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云也有部分冷门节点；
+4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云、Sayss也有部分冷门节点；
 
 5. **想要家宽**:TAG、悠兔、EdNovas云
 
@@ -941,7 +945,7 @@ TG频道和群组：已私有
 
 7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、泡泡狗、少数派、大哥云、EdNovas云
 
-8. **方便小白需要一键使用客户端的**：WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游
+8. **方便小白需要一键使用客户端的**：WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游、Sayss
 
 9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、泡泡狗
 
