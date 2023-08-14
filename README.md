@@ -216,7 +216,51 @@ TG频道群组：无，主要使用邮件通知
 </details>
 
  
+## Sayss
 
+Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
+
+[Sayss官网地址1](https://suo.st/k21dIwt)
+
+[Sayss官网地址2](https://www.epaybc.com/#/register/yv7SoTwk)
+
+
+>开业时间：21年7月以前，具体不知道。不认识老板     
+肉身：官网右下角问老板说是在外。具体不详   
+入口与过境线路：广港IEPL专线+Ucloud的UDPN，入口广州移动、深圳移动、   
+节点数目： 26   
+协议：Shadowsocks  
+ip设置数目：不限制  
+UDP：支持  
+付款方式：支付宝、微信  
+ChatGPT/OpenAI解锁: 基本全解锁   
+地区：土耳其、印度、香港、菲律宾、德国、美国、英国、法国、日本、阿根廷、韩国、加拿大、台湾、新加坡、马来西亚、澳大利亚、越南   
+落地提供商：看拓扑、啥都有   
+屏蔽情况：屏蔽新闻网站较少   
+SSH端口屏蔽：22端口未屏蔽   
+邮件传统协议smtp/pop3/imap：未禁止 
+TG频道和群：有，群禁言了  
+客服：有，应该就是老板    
+小白一键客户端: 有，windows  
+退款：不支持  
+推荐指数：4星，适合需要稳定的机场，不想审计太多的用户。   
+<a href="https://jichangtuijian.com/Sayss%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
+
+套餐：
+
+套餐 |  流量 | 价格 
+:-: |  :-: | :-: 
+Basic | 150G/月 |100/季;190/半年;340/年
+Standard | 300G/月 |65/月;146/季;290/半年;540/年
+Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
+
+按量：
+1064G永久时间 ，一次性700块
+2048G永久时间 ，一次性1200块
+
+<img src="https://jichangpingce.com/uploads/jichang/vpn/sayss.webp"  width = "100%"   align=center   />
+
+<img src="https://jichangtuijian.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
 
 
 ## 四、SpeedCAT(20/月100G) 
