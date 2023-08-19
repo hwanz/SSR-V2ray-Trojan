@@ -941,13 +941,13 @@ TG频道和群组：已私有
 
 5. **想要家宽**:TAG、悠兔、EdNovas云
 
-6. **支持虚拟币**：Kycloud、EdNovas云、少数派、跑路云
+6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟
 
 7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、泡泡狗、少数派、大哥云、EdNovas云
 
-8. **方便小白需要一键使用客户端的**：WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游、Sayss
+8. **方便小白需要一键使用客户端的**：悠兔、WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游、Sayss
 
-9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、泡泡狗
+9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、泡泡狗、飞鸟
 
 10. **相同线路**：tag、kycloud如果炸看，会一起炸。别买相同线路的做备用
 
