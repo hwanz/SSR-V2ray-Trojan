@@ -100,12 +100,11 @@ TG频道和群：有，人不多
 
 154块/一年的很适合做备用或者是轻度使用用户。
 
-[TAG官网链接1](https://suo.st/Umb955P)  (如果打不开请切换为全局代理)
+[TAG官网链接1](https://suo.st/Z1SvZIB)  (如果打不开请切换为全局代理)
 
-[TAG官网链接2，需要走代理](http://bit.ly/3YghbhY) (第一个打不开就点第二个，下面的也一样)
+[TAG官网链接2，需要走代理](https://bit.ly/3E27EU9) (第一个打不开就点第二个，下面的也一样)
 
-[TAG官网链接3](https://tagss01.pro#/register?invite=AJCjBhsw)
-
+[TAG官网链接3](https://tagss01.pro/#/auth/AJCjBhsw)
 
 
 >开业时间：2018         
