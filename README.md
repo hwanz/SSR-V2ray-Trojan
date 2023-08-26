@@ -25,9 +25,9 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、芬达(12.8块/月88G)、翼游(10块/月50G) 
-3) 有试用：悠兔、云翼网络、大哥云   
-4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、泡泡狗、大哥云   
+2) 想要便宜的，10块/月左右机场：Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan 
+3) 有试用：悠兔、云翼网络、大哥云 、Taishan  
+4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、泡泡狗、大哥云、Taishan   
 
 
 
@@ -899,6 +899,55 @@ TG频道和群组：已私有
 </details>
 
 
+## 十六、Taishan-便宜机场推荐(36/年)
+
+便宜公网中转+专线机场，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。
+
+便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
+
+[taishan官网地址1](https://suo.st/qxp7qJb)
+
+[taishan官网地址2](https://bit.ly/3P13vWC)
+
+[taishan官网地址3](https://www.taishan.pro/#/register?code=bc96eHTt)
+
+
+>开业时间：22年6月以前,新开。怕跑路，就月付。   
+肉身：日本   
+入口与过境线路：公网中转+IPLC   
+节点数目： 40左右   
+协议：Shadowsocks   
+ip设置数目：不限制   
+UDP：不支持   
+付款方式：支付宝、微信、USDT   
+ChatGPT/OpenAI解锁: 除了香港基本全解锁   
+地区：香港、美国、日本、台湾、新加坡   
+落地提供商：主要就是hytron和akari，落地类型如果是同一家容易一挂全挂。   
+新闻屏蔽情况：大概看来下就屏蔽轮媒   
+SSH端口屏蔽：22端口未屏蔽   
+邮件传统协议smtp/pop3/imap：未禁止   
+TG频道和群：有   
+退款：不支持   
+试用：1天5G    
+[taishan机场怎么样》更多详情](https://jichanggo.com/taishan%e6%9c%ba%e5%9c%ba%e6%80%8e%e4%b9%88%e6%a0%b7-%e4%be%bf%e5%ae%9c%e6%9c%ba%e5%9c%ba%e6%8e%a8%e8%8d%90 "taishan机场怎么样》更多详情")
+
+套餐：
+
+流量 | 价格 
+:-: | :-: 
+64G/月 |6/月;15/季;25/半年;36/年
+128G/月 |10/月;27/季;48/半年;60/年
+256G/月 |18/月;54/季;86/半年;108/年
+512G/月 |32/月;86/季;153/半年;192/年
+
+
+按量不限时：
+150G永久时间 ，一次性15块
+500G永久时间 ，一次性45块
+1000G永久时间 ，一次性85块
+
+![taishan机场推荐测速结果](https://jichangtuijian.com/uploads/vpn/taishan.webp)
+
 
 
 ## 购买指导总结,快速筛选
@@ -909,7 +958,7 @@ TG频道和群组：已私有
 
      1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
     
-    **10块/月以下**：大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、EdNovas云(10块/每月50G)、翼游(10块/月50G)
+    **10块/月以下**：大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、跑路云(19.8块/月125G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
     
@@ -918,31 +967,31 @@ TG频道和群组：已私有
     **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)
     
      2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、泡泡狗(20块110G不限时)、STC-SERVER(0.8块/G，8块起买)
+       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、泡泡狗(20块110G不限时)、STC-SERVER(0.8块/G，8块起买)、、Taishan(150G永久时间 ，一次性15块)
     
        3)**需要1T起大流量月付套餐**：
        悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、泡泡狗(83/月1300G)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
 
 
 2. **协议分类：**
-    支持SS协议：悠兔、TAG、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达
+    支持SS协议：悠兔、TAG、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达、Taishan
     支持SSR协议：翼游
     支持Trojan协议：WgetCloud、大哥云
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock
 
 3.**屏蔽限制区分：**
-  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游
-  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达
-  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云
+  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan
+  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan
+  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云、Sayss也有部分冷门节点；
 
 5. **想要家宽**:TAG、悠兔、EdNovas云
 
-6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟
+6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
 
-7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、泡泡狗、少数派、大哥云、EdNovas云
+7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、泡泡狗、少数派、大哥云、EdNovas云、Taishan
 
 8. **方便小白需要一键使用客户端的**：悠兔、WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游、Sayss
 
