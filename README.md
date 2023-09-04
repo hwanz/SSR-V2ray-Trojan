@@ -21,7 +21,7 @@ IOS：小火箭、QuantumultX教程、Stash、Loon、有钱的买Surge
 Linux：Shell clash、Clash For Windows、clash-verg的Linux版本   
 路由器：OpenClash、Shell clash   
 
-下面有十几家值得推荐的机场：
+下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
@@ -430,54 +430,76 @@ Team2 | 2T/月 | 609/季度
 </details>
 
 
-## 八、Flyingbird(15/月100G)           
+## 八 、泡泡狗(7.5/月70G)  
 
-BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠)
-
-[官网1](https://suo.st/LtzIHn1)
-
-[官网2](https://honven20.flyb-aff01.com/auth/register?code=f34i)
+EPL专线+隧道中转SS机场，深港+沪港ucloud，后续会继续升级线路。过境口子大，解锁不错。月付与不限时共存。不限时套餐,一次性流量，可以做备用。无工单系统，有问题右下角找客服。性价比高，速度快，但是有时候会崩一下(便宜快速稳定不可能三角)，老板修得也快(如果不是在他睡眠时间的话)。落地也有不少高贵的落地：比如快车道。目前人也很多，可以先买个便宜的看看能不能接受他的速度。老板泡泡比较良心，出问题已经免费重置流量好几次了。群友纷纷表示流量用不完，太良心了，哭死。目前是动态倍率，比如0.5X就是你实际用1G只算你0.5G。
 
 
 
->开业时间：2022.11         
-老板肉身：海外团队         
-入口 ：广东移动/联通/电信BGP多入口         
-过境: 专线         
+08:30———18:30 北京时间：流量倍率 0.5x
+18:30———02:30 北京时间：流量倍率 1.0x
+02:30———08:30 北京时间：流量倍率 0.2x
+
+
+
+[官网1](https://suo.yt/ioT7KR6)
+
+[官网2,需要代理](http://bit.ly/3zFq9LZ)
+
+[官网3](https://www.paopao.dog/#/register?code=XLZnckjD)
+
+
+
+>开业时间：2022.04         
+老板肉身：海外(确定)         
+入口 ：前置佛山珠海走深圳的iepl到香港         
+过境: IEPL专线和公网隧道         
+大陆外能使用：能，自己修改入口即可         
 协议：Shadowsocks         
 UDP：基本支持Full-Cone NAT         
 客户端数目：不限制         
-落地ip数量： 73+         
+落地ip数量： 70+         
 ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：22端口已屏蔽         
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong          
+SSH端口屏蔽：屏蔽22端口         
 邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-节点国家与地区：香港、台湾、日本、新加坡、美国、英国、马来西亚、阿根廷、土耳其         
-TG频道：有，群组：无           
-付款方式：支付宝、微信、USDT            
-套餐价格是否包含手续费：包含
-国外能否使用：可，自己更改入口          
-<a href="https://jichangpingce.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、阿根廷、土耳其、印度、马来西亚、俄罗斯、墨西哥、埃及         
+落地：Vultr、Gcore、Linode、Akari、OVH、Hinet、Nearoute等         
+按量付费：有         
+专门客服：有         
+一键客户端：有，频道历史里面         
+TG电报频道和群组：官网，关注人数：4000+，群组人数1万+         
+付款方式：支付宝、微信         
+套餐价格是否包含手续费：不包含(手续费8%左右)         
+<a href="https://jichangpingce.com/便宜IEPL中转机场推荐泡泡狗.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
 
 
-**套餐:**
-
-所有套餐相同节点，不限速，不限制客户端数目。
-所有套餐季付9折，半年付8.5折，年付8折
+**套餐(所有套餐节点一样，不包支付手续费，不同支付通道费率不一样):**
 
 月付套餐：
-15块/月100G
-30块/月200G
-75块/月500G
-150块/月1000G
+
+* 7.5/月 70G流量   
+* 12.5/月 110G流量   
+* 20/月 210G流量   
+* 33/月 380G流量   
+* 45/月 600G流量   
+* 72/月 1000G流量   
+* 83/月 1300G流量   
+
+不限时套餐,一次性流量：
+30块150G；60块300G；80块450G；100块600G；150块1000G；210块1500G；260块2000G；360块3000G；
+
 
 
 <details>
-<summary>测速图和流媒体、拓扑结构，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
+<summary>测速图和流媒体，点击展开</summary>
+<img src="https://jichangpingce.com/uploads/vpn/paopaodog.webp"  width = "90%"  align=center  alt="泡泡狗晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
-</details> 
+<img src="https://jichangpingce.com/uploads/jichang/paopaodog/流媒体.webp"  width = "90%"   align=center  alt="paopaodog流媒体" />
+</details>
+
+
+
 
 
 ##  九、EdNovas云(10/月50G)  
@@ -597,68 +619,57 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 
 
 
+## 十一、Flyingbird(15/月100G)           
+
+BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
+
+[官网1](https://suo.st/LtzIHn1)
+
+[官网2](https://honven20.flyb-aff01.com/auth/register?code=f34i)
 
 
 
-## 十一、泡泡狗(7.5/月70G)  
-
-全IEPL专线中转SS机场。过境口子大，解锁不错。月付与不限时共存。不限时套餐,一次性流量，可以做备用。无工单系统，有问题右下角找客服。性价比高，速度快，但是有时候会崩一下(便宜快速稳定不可能三角)，老板修得也快(如果不是在他睡眠时间的话。目前人也很多。泡泡狗机场适合推荐给需要便宜机场的用户。         
-
-[官网1](https://suo.yt/ioT7KR6)
-
-[官网2,需要代理](http://bit.ly/3zFq9LZ)
-
-[官网3](https://www.paopao.dog/#/register?code=XLZnckjD)
-
-
-
->开业时间：2022.04         
-老板肉身：海外(确定)         
-入口 ：前置佛山珠海走深圳的iepl到香港         
-过境: IEPL专线         
-大陆外能使用：能，自己修改入口即可         
+>开业时间：2022.11         
+老板肉身：海外团队         
+入口 ：广东移动/联通/电信BGP多入口         
+过境: 专线         
 协议：Shadowsocks         
 UDP：基本支持Full-Cone NAT         
 客户端数目：不限制         
-落地ip数量： 70+         
+落地ip数量： 73+         
 ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong          
-SSH端口屏蔽：屏蔽22端口         
+墙外新闻网站屏蔽情况：屏蔽轮媒         
+SSH端口屏蔽：22端口已屏蔽         
 邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、阿根廷、土耳其、印度、马来西亚、俄罗斯、墨西哥、埃及         
-落地：Vultr、Gcore、Linode、Akari、OVH、Hinet、Nearoute等         
-按量付费：有         
-专门客服：有         
-一键客户端：有，频道历史里面         
-TG电报频道和群组：官网，关注人数：4000+，群组人数1万+         
-付款方式：支付宝、微信         
-套餐价格是否包含手续费：不包含(手续费8%左右)         
-<a href="https://jichangpingce.com/便宜IEPL中转机场推荐泡泡狗.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
+节点国家与地区：香港、台湾、日本、新加坡、美国、英国、马来西亚、阿根廷、土耳其         
+TG频道：有，群组：无           
+付款方式：支付宝、微信、USDT            
+套餐价格是否包含手续费：包含
+国外能否使用：可，自己更改入口          
+<a href="https://jichangpingce.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
 
 
-**套餐(所有套餐节点一样，不包支付手续费，不同支付通道费率不一样):**
+**套餐:**
+
+所有套餐相同节点，不限速，不限制客户端数目。
+所有套餐季付9折，半年付8.5折，年付8折
 
 月付套餐：
-
-* 7.5/月 70G流量   
-* 12.5/月 110G流量   
-* 20/月 210G流量   
-* 33/月 380G流量   
-* 45/月 600G流量   
-* 72/月 1000G流量   
-* 83/月 1300G流量   
-
-不限时套餐,一次性流量：
-30块150G；60块300G；80块450G；100块600G；150块1000G；210块1500G；260块2000G；360块3000G；
-
+15块/月100G
+30块/月200G
+75块/月500G
+150块/月1000G
 
 
 <details>
-<summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/paopaodog.webp"  width = "90%"  align=center  alt="泡泡狗晚高峰电信1000M家宽测速" />
+<summary>测速图和流媒体、拓扑结构，点击展开</summary>
+<img src="https://jichangpingce.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/paopaodog/流媒体.webp"  width = "90%"   align=center  alt="paopaodog流媒体" />
-</details>
+<img src="https://jichangpingce.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
+</details> 
+
+
+
 
 
 
