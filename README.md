@@ -980,20 +980,23 @@ TG频道和群：有
      2)**想要小流量或者按量付费套餐**：
        悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、泡泡狗(20块110G不限时)、STC-SERVER(0.8块/G，8块起买)、、Taishan(150G永久时间 ，一次性15块)
     
-       3)**需要1T起大流量月付套餐**：
+     3)**需要1T起大流量月付套餐**：
        悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、泡泡狗(83/月1300G)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
 
 
 2. **协议分类：**
-    支持SS协议：悠兔、TAG、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、Just my sock、芬达、Taishan
-    支持SSR协议：翼游
-    支持Trojan协议：WgetCloud、大哥云
-    支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock
+   
+    支持SS协议：悠兔、TAG、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、 Just my sock、芬达、Taishan  
+   
+    支持SSR协议：翼游   
+    支持Trojan协议：WgetCloud、大哥云  
+    支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
+
 
 3.**屏蔽限制区分：**
-  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan
-  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan
-  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan
+  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan  
+  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
+  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan   
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云、Sayss也有部分冷门节点；
