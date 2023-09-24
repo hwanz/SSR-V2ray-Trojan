@@ -983,7 +983,7 @@ TG频道和群组：已私有
 
      1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
     
-    **10块/月以下**：大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
+    **10块/月以下**：大哥云(69/季200G/月)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、跑路云(19.8块/月125G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
     
@@ -992,15 +992,15 @@ TG频道和群组：已私有
     **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
     
      2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、泡泡狗(20块110G不限时)、STC-SERVER(0.8块/G，8块起买)、、Taishan(150G永久时间 ，一次性15块)
+       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、STC-SERVER(0.8块/G，8块起买)、、Taishan(150G永久时间 ，一次性15块)
     
      3)**需要1T起大流量月付套餐**：
-       悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、泡泡狗(83/月1300G)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
+       悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
 
 
 2. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、 Just my sock、芬达、Taishan  
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan  
    
     支持SSR协议：翼游   
     支持Trojan协议：WgetCloud、Nexitally、大哥云  
@@ -1019,11 +1019,11 @@ TG频道和群组：已私有
 
 6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
 
-7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、泡泡狗、少数派、大哥云、EdNovas云、Taishan
+7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、少数派、大哥云、EdNovas云、Taishan
 
-8. **方便小白需要一键使用客户端的**：悠兔、、Nexitally、WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游、Sayss
+8. **方便小白需要一键使用客户端的**：悠兔、、Nexitally、WgetCloud 、EdNovas云、大哥云、少数派、芬达、翼游、Sayss
 
-9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、泡泡狗、飞鸟
+9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、飞鸟
 
 10. **相同线路**：tag、kycloud如果炸看，会一起炸。别买相同线路的做备用
 
