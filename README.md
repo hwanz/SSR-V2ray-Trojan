@@ -273,12 +273,29 @@ TG频道群组：无，主要使用邮件通知
 [官网1](https://suo.st/oKl0HQx) 
 [官网2](https://bit.ly/48FcfK7)   
 
-套餐：
-248块/年，每月50G，IPLC线路  
-36.98块/月，每月200G，IPLC线路   
-110块/月，每月500G，IPLC线路+公有云线路，测的是这个套餐的    
+>开业时间：2023.09.02  
+屏蔽情况：轮媒和pingcong  
+22端口：未屏蔽    
+流媒体解锁也是一流的  
+付款方式：支付宝、微信  
+UDP：基本支持Full-Cone NAT  
+落地ip数量： 70  
+ChatGPT/OpenAI解锁: 全解锁    
 
-测速图在我频道中
+套餐：
+248块/年，每月50G，IPLC线路    
+36.98块/月，每月200G，IPLC线路     
+110块/月，每月500G，IPLC线路     
+<a href="https://jichangpingce.com/高端机场推荐-Atomlantis机场怎么样" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
+
+<details>
+<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+以下为精品套餐节点晚高峰测速：
+<img src="https://jichangpingce.com/uploads/vpn/atomlantis"  width = "100%"   align=center   />
+<img src="https://jichangtuijian.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+</details>
+
+
 
 ## 六、Sayss(100块/季150G)
 
@@ -856,11 +873,11 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 
 便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
 
-[taishan官网地址1](https://suo.st/qxp7qJb)
+[taishan官网地址1](https://suo.st/xnnEaJv)
 
-[taishan官网地址2](https://bit.ly/3P13vWC)
+[taishan官网地址2](https://bit.ly/3ERjvET)
 
-[taishan官网地址3](https://www.taishan.pro/#/register?code=bc96eHTt)
+[taishan官网地址3](https://us.taishan.pro/#/register?code=bc96eHTt)
 
 
 >开业时间：22年6月以前,新开。怕跑路，就月付。   
