@@ -11,7 +11,7 @@
 
 3.  备用很重要，如果经常需要科学上网，那么就不能只有一个机场
 
-4.  便宜机场很多套路，注意避开：1)一开始很便宜或搞超大折扣活动，AFF比例非常高。低价吸引一波来割韭菜，捞一波就跑。别看单价流量多就觉得值，不好用也是浪费钱。 2)使用便宜月抛线路，成本低。线路变化频繁，随时一键跑路。 3)线路多但复用，多条线路但入口和落地其实是同一条，一挂挂一片。看节点拓扑分析看簇那里，数字是几就是一个ip复用几次。
+4.  便宜机场很多套路，注意避开：1)一开始很便宜或搞超大折扣活动，AFF比例非常高。低价吸引一波来割韭菜，捞一波就跑。别看单价流量多就觉得值，不好用也是浪费钱。 2)使用便宜月抛线路，成本低。线路变化频繁，随时一键跑路。 3)线路多但复用，多条线路但入口和落地其实是同一条，一挂挂一片。看节点拓扑分析看簇那里，数字是几就是一个ip复用几次。 很多便宜机场优点只有便宜，稳定性和速度一言难尽。
 
 5. 各平台客户端推荐：
 >Windows：Clash For Windows、Clash-verge、V2rayN    
@@ -281,17 +281,18 @@ TG频道群组：无，主要使用邮件通知
 UDP：基本支持Full-Cone NAT  
 落地ip数量： 70  
 ChatGPT/OpenAI解锁: 全解锁    
+<a href="https://jichangpingce.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
 
-套餐：
+**套餐：**
 248块/年，每月50G，IPLC线路    
 36.98块/月，每月200G，IPLC线路     
 110块/月，每月500G，IPLC线路     
-<a href="https://jichangpingce.com/高端机场推荐-Atomlantis机场怎么样" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
+
 
 <details>
 <summary>测速图、拓扑结构检测详情资料，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
-<img src="https://jichangpingce.com/uploads/vpn/atomlantis"  width = "100%"   align=center   />
+<img src="https://jichangpingce.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
 <img src="https://jichangtuijian.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
 </details>
 
