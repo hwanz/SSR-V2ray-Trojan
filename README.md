@@ -13,7 +13,9 @@
 
 4.  便宜机场很多套路，注意避开：1)一开始很便宜或搞超大折扣活动，AFF比例非常高。低价吸引一波来割韭菜，捞一波就跑。别看单价流量多就觉得值，不好用也是浪费钱。 2)使用便宜月抛线路，成本低。线路变化频繁，随时一键跑路。 3)线路多但复用，多条线路但入口和落地其实是同一条，一挂挂一片。看节点拓扑分析看簇那里，数字是几就是一个ip复用几次。 很多便宜机场优点只有便宜，稳定性和速度一言难尽。
 
-5. 各平台客户端推荐：
+5.  一下别买太长时间，谁也不知道机场什么时候跑路。
+
+6. 各平台客户端推荐：
 >Windows：Clash For Windows、Clash-verge、V2rayN    
 Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro、有钱的买Surge，M1、M2还可以使用小火箭   
 IOS：小火箭、QuantumultX教程、Stash、Loon、有钱的买Surge   
@@ -1009,10 +1011,10 @@ TG频道和群组：已私有
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
 
 
-3.**屏蔽限制区分：**
-  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis    
-  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
-  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan   
+  3.**屏蔽限制区分：**
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis    
+   可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
+   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan   
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis也有部分冷门节点；
