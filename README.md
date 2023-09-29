@@ -5,7 +5,7 @@
 
 本人Telegram电报频道：[科学上网观察与机场测速TG频道](https://t.me/jichangtj)：最新机场推荐与机场评测，掌握最新机场优惠折扣通知，最新科学上网相关新闻与消息，各种想法等，欢迎关注。
 
-1. 相比直连机场更加推荐购买中转机场。中转机场带宽大，专线主要是不过墙延迟低。机场比的是钞能力，速度要看机场的总带宽大小。稳定要看机场的资源质量，主要是看机场主的上游的线路质量，解锁看的是机场主的落地/解锁商是否优秀。机场带宽大和稳定性最重要。
+1. 相比直连机场更加推荐购买中转机场。中转机场带宽大，专线主要是不过墙延迟低，专线机场日常使用体验会更丝滑更舒服。机场比的是钞能力，速度要看机场的总带宽大小。稳定要看机场的资源质量，主要是看机场主的上游的线路质量，解锁看的是机场主的落地/解锁商是否优秀。机场带宽大和稳定性最重要。
 
 2. 对于中转机场而言，协议不是最重要的，中转机子的稳定性和带宽大小才是。
 
@@ -976,6 +976,7 @@ TG频道和群组：已私有
 被转卖了，被人盯上被日常ddos，建议先观察下。购买了的建议先买其它家。
 
 
+
 ## 购买指导总结,快速筛选
 
 方便各位快速筛选定位
@@ -986,14 +987,14 @@ TG频道和群组：已私有
     
     **10块/月以下**：大哥云(69/季200G/月)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
     
-    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、跑路云(19.8块/月125G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
+    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
     
     **20-30块/月**：云翼网络(22.8块/月108G)、kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)
     
     **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
     
      2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、STC-SERVER(0.8块/G，8块起买)、、Taishan(150G永久时间 ，一次性15块)
+       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、STC-SERVER(0.8块/G，8块起买)、Taishan(150G永久时间 ，一次性15块)
     
      3)**需要1T起大流量月付套餐**：
        悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
@@ -1001,7 +1002,7 @@ TG频道和群组：已私有
 
 2. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan  
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis  
    
     支持SSR协议：翼游   
     支持Trojan协议：WgetCloud、Nexitally、大哥云  
@@ -1009,20 +1010,20 @@ TG频道和群组：已私有
 
 
 3.**屏蔽限制区分：**
-  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan  
+  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis    
   可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan   
 
 
-4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云、Sayss也有部分冷门节点；
+4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis也有部分冷门节点；
 
-5. **想要家宽**:TAG、悠兔、EdNovas云
+5. **想要家宽**:TAG、悠兔、EdNovas云、Atomlantis
 
 6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
 
 7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、少数派、大哥云、EdNovas云、Taishan
 
-8. **方便小白需要一键使用客户端的**：悠兔、、Nexitally、WgetCloud 、EdNovas云、大哥云、少数派、芬达、翼游、Sayss
+8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、少数派、芬达、翼游、Sayss
 
 9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、飞鸟
 
@@ -1032,8 +1033,72 @@ TG频道和群组：已私有
 
 12.  有退款服务：EdNovas云、Just my sock、RelayCloud、少数派
 
-13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas
+13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis
+
+
+
+## 机场优惠
+
+- 悠兔     
+85折: 999       
+有效期至：2023/10/07 0点     
+
+- Atomlantis     
+88折优惠码：Ng9DAI2p     
+有效期至：2023/10/01 10:10     
+适用套餐：仅季付（含）以上可用     
+
+- 少数派     
+全场套餐86折优惠券：14off_2023_10.1     
+至10.8全天     
+
+- 闪电猫     
+使用优惠码 12345678 就可以享有全场打8折优惠，千万别错过了！     
+配合年付自动打8折，就是打64折了！活动到10月7号23：59分截止。     
+
+
+- FlyingBird     
+优惠码可重复使用3次！     
+1: 月/季/半年付 85折 , 优惠码：ZQ85     
+2: 年付8折（站内折上折，高达64折 ，优惠码：GQ80     
+活动时间：即日起至2023年10月10日23点59分     
+
+- ednovas     
+82折码：中秋&国庆     
+全场套餐均可用，有效期截止至加拿大时间10月7日     
+窥和探囊，探囊取物，管中窥天套餐重新开放购买     
+
+
+- 大哥云      
+折扣: -20% 8折  
+时间: 现在开始 >> 10月07号23:55晚 截止   
+限制: 不限次数, 在售套餐, 不限时流量不打折   
+
+- RelayCloud     
+全场75折优惠券：2023国庆快乐-25off     
+注: 若套餐未到期时覆盖购买会导致多个套餐同时生效，建议提前发送工单折算剩余价值     
+Tips: 7号后若未享受优惠仍可发送工单申请退差价到余额     
+活动截止时间 2023.10.8 0点     
+
+
+- Sayss     
+优惠码：sayss     
+优惠额度：八三折     
+截止日期：2023.10.8     
+
+
+- Hutao     
+中秋国庆双节特惠全场8折     
+优惠码：Ht23ZQ20OFF     
+有效期至：2023-10-07 00:00:00     
+
+- Yiyo     
+所有套餐8.8折，优惠码：1001     
+截止日期：2023年10月8日0点 上海时间。     
+     
+
 
   以上就是一些值得推荐的机场，不好用的会下掉。不推荐太多家，容易选择困难。
   欢迎指正。
   觉得好可以 star 下，谢谢。日常更新。
+
