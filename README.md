@@ -65,7 +65,7 @@ TG频道和群：有，人不多
 此机场适合推荐人群： 稳定且无特殊需求
 小白一键客户端: 有，windows+Mac
 家宽：有    
-<a href="https://jichangpingce.com/便宜SS机场推荐之悠兔.html" target="_blank">ChatGPT、流媒体历史测速结果合集</a>
+<a href="https://jichangcesu.com/便宜SS机场推荐之悠兔.html" target="_blank">ChatGPT、流媒体历史测速结果合集</a>
 
 
 **套餐(所有套餐节点一样)：**
@@ -85,9 +85,9 @@ TG频道和群：有，人不多
 
 <details>
  <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu电信家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu电信家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/youtu/流媒体.webp"  width = "95%"   align=center  alt="Youtu流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/youtu/流媒体.webp"  width = "95%"   align=center  alt="Youtu流媒体" />
 </details>
 
 
@@ -132,7 +132,7 @@ TG频道和交流群：官网指导进入，关注人数1万+
 专门客服：有         
 国外能否使用：否，他家有国际站，可以买他家国际站
 此机场适合推荐人群： 稳定且需要多国家落地，需要家宽          
-<a href="https://jichangpingce.com/tag测速整合.html" target="_blank">TAG拓扑结构检测和流媒体、历史测速结果合集，可查看过去两年的高清测速图与用户评价</a>
+<a href="https://jichangcesu.com/tag测速整合.html" target="_blank">TAG拓扑结构检测和流媒体、历史测速结果合集，可查看过去两年的高清测速图与用户评价</a>
 
 
 **套餐(除了家宽套餐其他套餐节点一样):**
@@ -151,9 +151,9 @@ TG频道和交流群：官网指导进入，关注人数1万+
 
 <details>
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/tag.webp"  width = "90%"   align=center  alt="TAG晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/tag.webp"  width = "90%"   align=center  alt="TAG晚高峰电信1000M家宽测速" />
 流媒体
-<img src="https://jichangpingce.com/uploads/jichang/tag/流媒体.webp"  width = "95%"   align=center  alt="TAG流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/tag/流媒体.webp"  width = "95%"   align=center  alt="TAG流媒体" />
 拓扑结构,看历史测速
 </details>
 
@@ -181,7 +181,7 @@ UDP: 有
 缺点：名声大，容易招打被DDOS。但是一般都能扛住，有钱买高防         
 点评：钞能力一流的机场。自研面板无瓜。还是那句话，买得起的推荐买。好就是贵贵就好。一般要推荐机场不说价格大家就推荐这个。除了不好用的时候（被打）其他时候都很好用          
 适合人群：不差钱且需要稳定+低延迟的线路的，高端玩家使用           
-[Nexitally奶昔机场拓扑结构检测和流媒体、历史测速结果合集和用户评价](https://jichangtuijian.com/Nexitally%E5%A5%B6%E6%98%94%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.html)
+[Nexitally奶昔机场拓扑结构检测和流媒体、历史测速结果合集和用户评价](https://jichangcesu.com/Nexitally%E5%A5%B6%E6%98%94%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.html)
 
 **套餐:**
 每月流量500G：月付117元；半年付606元；年付1102元
@@ -190,9 +190,9 @@ Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要�
 <details>
 <summary>测速图、拓扑结构检测详情资料，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
-<img src="https://jichangpingce.com/uploads/vpn/nexitally"  width = "90%"   align=center  alt="奶昔机场晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/nexitally"  width = "90%"   align=center  alt="奶昔机场晚高峰电信1000M家宽测速" />
 流媒体：
-<img src="https://jichangpingce.com/uploads/jichang/nexitally/流媒体.webp"  width = "95%"   align=center  alt="奶昔机场流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/nexitally/流媒体.webp"  width = "95%"   align=center  alt="奶昔机场流媒体" />
 </details>
 
 
@@ -232,7 +232,7 @@ TG频道群组：无，主要使用邮件通知
 套餐是否包含手续费：是，需要先充值再购买         
 国外能否使用：否
 此机场适合推荐人群： 稳定     
-<a href="https://jichangpingce.com/阿里云ss线路机场推荐GaCloud.html" target="_blank">WgetCloud拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
+<a href="https://jichangcesu.com/阿里云ss线路机场推荐GaCloud.html" target="_blank">WgetCloud拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
 
 
 **套餐:**
@@ -250,9 +250,9 @@ TG频道群组：无，主要使用邮件通知
 <details>
 <summary>测速图、拓扑结构检测详情资料，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
-<img src="https://jichangpingce.com/uploads/vpn/gacloud.webp"  width = "90%"   align=center  alt="WgetCloud晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/gacloud.webp"  width = "90%"   align=center  alt="WgetCloud晚高峰电信1000M家宽测速" />
 流媒体：
-<img src="https://jichangpingce.com/uploads/jichang/gacloud/流媒体.webp"  width = "95%"   align=center  alt="WgetCloud流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/gacloud/流媒体.webp"  width = "95%"   align=center  alt="WgetCloud流媒体" />
 </details>
 
 
@@ -281,7 +281,7 @@ TG频道群组：无，主要使用邮件通知
 UDP：基本支持Full-Cone NAT  
 落地ip数量： 70  
 ChatGPT/OpenAI解锁: 全解锁    
-<a href="https://jichangpingce.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
+<a href="https://jichangcesu.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
 
 **套餐：**
 248块/年，每月50G，IPLC线路    
@@ -292,8 +292,8 @@ ChatGPT/OpenAI解锁: 全解锁
 <details>
 <summary>测速图、拓扑结构检测详情资料，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
-<img src="https://jichangpingce.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
-<img src="https://jichangtuijian.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
 </details>
 
 
@@ -326,7 +326,7 @@ TG频道和群：有，群禁言了
 小白一键客户端: 有，windows  
 退款：不支持  
 推荐指数：4星，适合需要稳定的机场，不想审计太多的用户。   
-<a href="https://jichangtuijian.com/Sayss%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
+<a href="https://jichangcesu.com/Sayss%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
 
 套餐：
 
@@ -343,8 +343,8 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 <details>
 <summary>测速图、拓扑结构检测详情资料，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
-<img src="https://jichangpingce.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
-<img src="https://jichangtuijian.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
 </details>
 
 
@@ -376,7 +376,7 @@ TG电报频道和群组：官网，关注人数：1000+
 付款方式：支付宝、微信         
 套餐价格是否包含手续费：包含         
 国外能否使用：否         
-<a href="https://jichangpingce.com/SpeedCAT机场测速观察.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
+<a href="https://jichangcesu.com/SpeedCAT机场测速观察.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
 
 
 **套餐(所有套餐节点一样):**
@@ -391,9 +391,9 @@ TG电报频道和群组：官网，关注人数：1000+
 <details>
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
 南方电信测速结果
-<img src="https://jichangpingce.com/uploads/vpn/speedcat.webp"  width = "90%"   align=center  alt="晚高峰家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/speedcat.webp"  width = "90%"   align=center  alt="晚高峰家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/speedcat/流媒体.webp"  width = "95%"   align=center  alt="speedcat流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/speedcat/流媒体.webp"  width = "95%"   align=center  alt="speedcat流媒体" />
 </details> 
 
 
@@ -436,7 +436,7 @@ SSH端口屏蔽：未屏蔽22端口
 TG频道和群组：有，在套餐内，频道关注人数2000+         
 付款方式：支付宝、虚拟币USDT、信用卡         
 套餐价格是否包含手续费：支付宝不包含(大概3%费率)         
-<a href="https://jichangpingce.com/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">kycloud拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集与用户评价</a>
+<a href="https://jichangcesu.com/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">kycloud拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集与用户评价</a>
 
 
 **套餐(所有套餐节点一样，不包支付手续费，不同支付通道费率不一样):**
@@ -454,9 +454,9 @@ Team2 | 2T/月 | 609/季度
 
 <details>
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/kycloud.webp"  width = "90%"  align=center  alt="kycloud晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/kycloud.webp"  width = "90%"  align=center  alt="kycloud晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/kycloud/流媒体.webp"  width = "95%"   align=center  alt="kycloud流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/kycloud/流媒体.webp"  width = "95%"   align=center  alt="kycloud流媒体" />
 </details>
 
 
@@ -495,7 +495,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 套餐价格是否包含手续费：不包含(手续费6%-9%)         
 退款：有         
 国外能否使用：否，有回国线路         
-<a href="https://jichangpingce.com/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+<a href="https://jichangcesu.com/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
 
 
 拓扑结构和流媒体检测看历史测速
@@ -507,9 +507,9 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 **套餐:**
 落地国家和节点多的需要“权宜”套餐以上才有。
 便宜的套餐只有基础节点,5块套餐没有了。
-<img src="https://jichangpingce.com/uploads/vpn/edcloudtaocan.webp"  width = "90%"  align=center  alt="EdNovas云套餐图" />
+<img src="https://jichangcesu.com/uploads/vpn/edcloudtaocan.webp"  width = "90%"  align=center  alt="EdNovas云套餐图" />
 单线程测速：
-<img src="https://jichangpingce.com/uploads/vpn/edcloud.webp"  width = "90%"  align=center  alt="EdNovas云晚高峰家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/edcloud.webp"  width = "90%"  align=center  alt="EdNovas云晚高峰家宽测速" />
 
 
 </details>
@@ -546,7 +546,7 @@ TG频道：有，群组：无
 付款方式：支付宝、微信、USDT            
 套餐价格是否包含手续费：包含
 国外能否使用：可，自己更改入口          
-<a href="https://jichangpingce.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
+<a href="https://jichangcesu.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
 
 
 **套餐:**
@@ -563,9 +563,9 @@ TG频道：有，群组：无
 
 <details>
 <summary>测速图和流媒体、拓扑结构，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
 
@@ -612,7 +612,7 @@ ct:适合中国电信；cu：适合中国联通，cm：适合中国移动网络�
 
 <details>
 <summary>JMS-IPLC测速图，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/jms.webp"  width = "90%"   align=center  alt="JMS-IPLC测速图" />
+<img src="https://jichangcesu.com/uploads/vpn/jms.webp"  width = "90%"   align=center  alt="JMS-IPLC测速图" />
 很强
 </details> 
 
@@ -647,7 +647,7 @@ HK CMI是中国移动香港数据中心，走NTT香港中转。中国电信使�
 YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场呢。         
 [搬瓦工官网](https://bit.ly/3sDxUwC)
 
-想知道更多自建翻墙代理的VPS主机，参考：[适合翻墙建站国外VPS服务器主机推荐](https://jichangpingce.com/国外VPS主机推荐.html)
+想知道更多自建翻墙代理的VPS主机，参考：[适合翻墙建站国外VPS服务器主机推荐](https://jichangcesu.com/国外VPS主机推荐.html)
 
 
 
@@ -680,7 +680,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 付款方式：支付宝、微信         
 套餐价格是否包含手续费：包含         
 国外能否使用：否         
-<a href="https://jichangpingce.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、ChatGPT、历史测速结果合集</a>
+<a href="https://jichangcesu.com/大哥云历史测速结果整合.html" target="_blank">大哥云拓扑结构检测和流媒体、ChatGPT、历史测速结果合集</a>
 
 
 **套餐(所有套餐节点一样):**
@@ -696,9 +696,9 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 <details>
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/dage.webp"  width = "90%"  align=center  alt="大哥云晚高峰电信测速" />
+<img src="https://jichangcesu.com/uploads/vpn/dage.webp"  width = "90%"  align=center  alt="大哥云晚高峰电信测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/dage/流媒体.webp"  width = "95%"   align=center  alt="dage流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/dage/流媒体.webp"  width = "95%"   align=center  alt="dage流媒体" />
 </details>
 
 
@@ -735,7 +735,7 @@ TG频道和群组：无
 付款方式：支付宝         
 套餐价格是否包含手续费：包含         
 国外能否使用：否         
-<a href="https://jichangpingce.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
+<a href="https://jichangcesu.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
 
 
 **套餐(所有套餐节点一样):**
@@ -750,9 +750,9 @@ TG频道和群组：无
 <details>
 
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
 </details>
 
 
@@ -787,7 +787,7 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 付款方式：支付宝、微信                  
 套餐价格是否包含手续费：包含         
 国外能否使用：否         
-<a href="https://jichangpingce.com/relaycloud历史测速结果整合.html" target="_blank">Relaycloud拓扑结构检测、流媒体、ChatGPT和历史测速结果合集</a>
+<a href="https://jichangcesu.com/relaycloud历史测速结果整合.html" target="_blank">Relaycloud拓扑结构检测、流媒体、ChatGPT和历史测速结果合集</a>
 
 
 **套餐(所有套餐节点一样):**
@@ -809,9 +809,9 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 
 <details>
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/relaycloud.webp"  width = "90%"  align=center  alt="Relaycloud晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/relaycloud.webp"  width = "90%"  align=center  alt="Relaycloud晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/relaycloud/流媒体.webp"  width = "95%"   align=center  alt="relaycloud流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/relaycloud/流媒体.webp"  width = "95%"   align=center  alt="relaycloud流媒体" />
 </details>
 
 
@@ -863,7 +863,7 @@ TG频道和群：有
 500G永久时间 ，一次性45块
 1000G永久时间 ，一次性85块
 
-![taishan机场推荐测速结果](https://jichangtuijian.com/uploads/vpn/taishan.webp)
+![taishan机场推荐测速结果](https://jichangcesu.com/uploads/vpn/taishan.webp)
 
 
 
@@ -897,7 +897,7 @@ SSH端口屏蔽：未屏蔽22端口
 TG频道和群组：已私有         
 付款方式：支付宝         
 套餐价格是否包含手续费：包含         
-<a href="https://jichangpingce.com/yiyo历史测速结果整合.html" target="_blank">翼游Yiyo拓扑结构检测和流媒体和ChatGPT解锁情况、历史测速结果合集</a>
+<a href="https://jichangcesu.com/yiyo历史测速结果整合.html" target="_blank">翼游Yiyo拓扑结构检测和流媒体和ChatGPT解锁情况、历史测速结果合集</a>
 
 **套餐(所有套餐节点一样):**
 
@@ -914,9 +914,9 @@ TG频道和群组：已私有
 <details>
 
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/yiyo.webp"  width = "90%"   align=center  alt="翼游Yiyo晚高峰电信1000M家宽测速" />
+<img src="https://jichangcesu.com/uploads/vpn/yiyo.webp"  width = "90%"   align=center  alt="翼游Yiyo晚高峰电信1000M家宽测速" />
 流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/yiyo/流媒体.webp"  width = "95%"   align=center  alt="翼游Yiyo流媒体" />
+<img src="https://jichangcesu.com/uploads/jichang/yiyo/流媒体.webp"  width = "95%"   align=center  alt="翼游Yiyo流媒体" />
 </details>
 
 
