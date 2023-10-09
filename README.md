@@ -503,7 +503,6 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 <details>
 <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
-流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
 </details>
 
