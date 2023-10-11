@@ -929,9 +929,12 @@ TG频道和群：有
 500G永久时间 ，一次性65块
 1000G永久时间 ，一次性120块   
 
+
+
 <details>
-<summary>测速图</summary>
-![taishan机场推荐测速结果](https://jichangcesu.com/uploads/vpn/taishan.webp)
+
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/taishan.webp"  width = "90%"   align=center  alt="便宜机场推荐taishan晚高峰电信1000M家宽测速" />
 </details>
 
 
