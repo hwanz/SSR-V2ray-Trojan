@@ -28,8 +28,8 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
 2) 想要便宜的，10块/月左右机场：Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan 
-3) 有试用：悠兔、大哥云 、Taishan  
-4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan   
+3) 有试用：悠兔、大哥云 、Taishan 、Cyanmori、云翼网络   
+4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
 
 
@@ -259,43 +259,51 @@ TG频道群组：无，主要使用邮件通知
 
 
  
-## 五、Atomlantis(247/年每月50G--近期被ddos)
+## 五、Cyanmori(20/月160G)
 
-全专线SS协议机场   
+青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
 
-过境多种专线：广港专线，深港专线、唯云莞港专线、沪日专线、沪美专线、优刻得沪韩专线、深法专线、京德专线   
+[官网1](https://reurl.cc/K347E9)  
 
-落地：Misaka 、Kirino 、Jinx、Atom、Eons、Hinet、Nearoute，不少高端落地，还有Frontier家宽、Sonet家宽      
+[官网2](https://suo.st/gyERoXF)   
 
-看得出老板很有实力（钞能力），刚开业就买这么多类型的大带宽专线。其中香港、台湾、新加坡有唯云专线。近期看在增加冷门节点。上线后近期观察了下使用情况，大家评价还不错。因为是开业不久的机场，担心有风险可以先月付体验看看。   
+[官网3](https://cccc.gg/auth/register?code=Z2ljGK)  
 
-一句话：专线类型多，带宽很大，刚开业不久人少。   
+>开业时间：2022年04月以前 
+入口 ：武汉     
+过境: 公网隧道    
+协议：Shadowsocks    
+UDP：基本支持Full-Cone    
+客户端数目：3-10个    
+落地ip数量： 30+    
+ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
+墙外新闻网站屏蔽情况：轮媒    
+SSH端口屏蔽：未屏蔽22端口    
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
+落地：甲骨文、DMIT、G-core、misaka等    
+TG频道和群组：有，群人数3000+    
+付款方式：支付宝、微信支付    
+套餐价格是否包含手续费：包含    
+<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
 
-[官网1](https://suo.st/oKl0HQx) 
-[官网2](https://bit.ly/48FcfK7)   
+套餐(所有套餐节点一样): 
 
->开业时间：2023.09.02  
-屏蔽情况：轮媒和pingcong  
-22端口：未屏蔽    
-流媒体解锁也是一流的  
-付款方式：支付宝、微信  
-UDP：基本支持Full-Cone NAT  
-落地ip数量： 70  
-ChatGPT/OpenAI解锁: 全解锁    
-<a href="https://jichangcesu.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
-
-**套餐：**
-248块/年，每月50G，IPLC线路    
-36.98块/月，每月200G，IPLC线路     
-110块/月，每月500G，IPLC线路     
-
+套餐 |  流量 | 价格  | 设备数 
+:-:  | :-: | :-:   | :-:  
+A | 160G/月 | 20/月| 3
+A+ | 480G/季 | 54季 | 3
+B | 370G/月 | 30/月  | 5  
+B+ | 1110G/季 | 81/季  | 5
+C | 810G/年 | 50/月 | 10  
+C+ | 2430G/年 | 135/季 | 10  
+Plan A | 160G/月 | 85/季度  | 无限设备
 
 <details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
-<img src="https://jichangcesu.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
+<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
 </details>
+
 
 
 
@@ -461,53 +469,112 @@ Team2 | 2T/月 | 609/季度
 </details>
 
 
-## 九、Cyanmori(20/月160G)
 
-青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
+## 九、云翼网络(22.8/月108G)  
 
-[官网1](https://reurl.cc/K347E9)  
+公网隧道中转ss机场，可1块试用一天5G流量。也比较低调，从群里的群员的反应和测速结果看得出来，整体稳定性和速度还不错的。
 
-[官网2](https://suo.st/gyERoXF)   
 
-[官网3](https://cccc.gg/auth/register?code=Z2ljGK)  
+[云翼网络机场官网链接1，需要走代理](https://bit.ly/3Sfrkd7)        
 
->开业时间：2022年04月以前 
-入口 ：武汉     
-过境: 公网隧道    
-协议：Shadowsocks    
-UDP：基本支持Full-Cone    
-客户端数目：3-10个    
-落地ip数量： 30+    
-ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
-墙外新闻网站屏蔽情况：轮媒    
-SSH端口屏蔽：未屏蔽22端口    
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
-落地：甲骨文、DMIT、G-core、misaka等    
-TG频道和群组：有，群人数3000+    
-付款方式：支付宝、微信支付    
-套餐价格是否包含手续费：包含    
-<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
+[云翼网络机场官网链接2](https://suo.yt/tC69nKu)       
+ 
+[云翼网络机场官网链接3](https://yypro.pro/auth/register?code=nhnB)  
 
-套餐(所有套餐节点一样): 
 
-套餐 |  流量 | 价格  | 设备数 
-:-:  | :-: | :-:   | :-:  
-A | 160G/月 | 20/月| 3
-A+ | 480G/季 | 54季 | 3
-B | 370G/月 | 30/月  | 5  
-B+ | 1110G/季 | 81/季  | 5
-C | 810G/年 | 50/月 | 10  
-C+ | 2430G/年 | 135/季 | 10  
-Plan A | 160G/月 | 85/季度  | 无限设备
+
+>开业时间：2018      
+入口与过境线路：公网中转      
+节点数目：37+      
+协议：Shadowsocks      
+UDP：支持      
+ChatGPT/OpenAI解锁: 全节点解锁      
+墙外新闻网站屏蔽情况：屏蔽轮媒、pincong      
+SSH端口屏蔽：22端口已经屏蔽      
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
+地区：俄罗斯、印度、土耳其、巴基斯坦、巴西泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国      
+付款方式：支付宝、微信      
+套餐价格是否包含手续费：微信支付支付不包含      
+TG电报频道和群组：官网，关注人数：2000+      
+试用: 一天5G      
+国外能否使用：否      
+<a href="https://jichangcesu.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络ChatGPT、流媒体历史测速结果合集</a>      
+
+
+
+套餐(所有套餐节点一样):     
+
+试用：1块1天5G    
+
+套餐 |  流量 | 价格 | 设备数 
+:-: |  :-: | :-: | :-: 
+标准 | 108G/月 |22.8/月 | 4
+高级 | 198GG/月 |32.8/月 | 4
+终极 | 520G/月 |89.8/月 | 10
+全年一次性648G | 648G/年 |188/年 |  3
+全年一次性1398G |1398G/年 |328/年 | 4
+全年一次性3288G | 3288G/年 |688/年 | 6
+
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
-<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
+ <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/yunyi.webp"  width = "90%"   align=center  alt="机场推荐之云翼网络机场晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/yunyi/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之云翼网络机场流媒体" />
 </details>
 
+## 十、Flyingbird(15/月100G)           
 
-##  十、EdNovas云(10/月50G)  
+BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
+
+[官网1](https://suo.st/LtzIHn1)
+
+[官网2](https://honven20.flyb-aff01.com/auth/register?code=f34i)
+
+
+
+>开业时间：2022.11         
+老板肉身：海外团队         
+入口 ：广东移动/联通/电信BGP多入口         
+过境: 专线         
+协议：Shadowsocks         
+UDP：基本支持Full-Cone NAT         
+客户端数目：不限制         
+落地ip数量： 73+         
+ChatGPT/OpenAI解锁: 全解锁         
+墙外新闻网站屏蔽情况：屏蔽轮媒         
+SSH端口屏蔽：22端口已屏蔽         
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
+节点国家与地区：香港、台湾、日本、新加坡、美国、英国、马来西亚、阿根廷、土耳其         
+TG频道：有，群组：无           
+付款方式：支付宝、微信、USDT            
+套餐价格是否包含手续费：包含
+国外能否使用：可，自己更改入口          
+<a href="https://jichangcesu.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
+
+
+**套餐:**
+
+所有套餐相同节点，不限速，不限制客户端数目。
+所有套餐季付9折，半年付8.5折，年付8折
+
+月付套餐：
+15块/月100G
+30块/月200G
+75块/月500G
+150块/月1000G
+
+
+<details>
+<summary>测速图和流媒体、拓扑结构，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
+</details> 
+
+
+
+##  十一、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -562,55 +629,6 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-
-## 十一、Flyingbird(15/月100G)           
-
-BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
-
-[官网1](https://suo.st/LtzIHn1)
-
-[官网2](https://honven20.flyb-aff01.com/auth/register?code=f34i)
-
-
-
->开业时间：2022.11         
-老板肉身：海外团队         
-入口 ：广东移动/联通/电信BGP多入口         
-过境: 专线         
-协议：Shadowsocks         
-UDP：基本支持Full-Cone NAT         
-客户端数目：不限制         
-落地ip数量： 73+         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：22端口已屏蔽         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-节点国家与地区：香港、台湾、日本、新加坡、美国、英国、马来西亚、阿根廷、土耳其         
-TG频道：有，群组：无           
-付款方式：支付宝、微信、USDT            
-套餐价格是否包含手续费：包含
-国外能否使用：可，自己更改入口          
-<a href="https://jichangcesu.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
-
-
-**套餐:**
-
-所有套餐相同节点，不限速，不限制客户端数目。
-所有套餐季付9折，半年付8.5折，年付8折
-
-月付套餐：
-15块/月100G
-30块/月200G
-75块/月500G
-150块/月1000G
-
-
-<details>
-<summary>测速图和流媒体、拓扑结构，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
-</details> 
 
 
 
@@ -969,6 +987,45 @@ TG频道和群组：已私有
 </details>
 
 
+## 十八、Atomlantis(247/年每月50G--近期被ddos)
+
+全专线SS协议机场   
+
+过境多种专线：广港专线，深港专线、唯云莞港专线、沪日专线、沪美专线、优刻得沪韩专线、深法专线、京德专线   
+
+落地：Misaka 、Kirino 、Jinx、Atom、Eons、Hinet、Nearoute，不少高端落地，还有Frontier家宽、Sonet家宽      
+
+看得出老板很有实力（钞能力），刚开业就买这么多类型的大带宽专线。其中香港、台湾、新加坡有唯云专线。近期看在增加冷门节点。上线后近期观察了下使用情况，大家评价还不错。因为是开业不久的机场，担心有风险可以先月付体验看看。   
+
+一句话：专线类型多，带宽很大，刚开业不久人少。   
+
+[官网1](https://suo.st/oKl0HQx) 
+[官网2](https://bit.ly/48FcfK7)   
+
+>开业时间：2023.09.02  
+屏蔽情况：轮媒和pingcong  
+22端口：未屏蔽    
+流媒体解锁也是一流的  
+付款方式：支付宝、微信  
+UDP：基本支持Full-Cone NAT  
+落地ip数量： 70  
+ChatGPT/OpenAI解锁: 全解锁    
+<a href="https://jichangcesu.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
+
+**套餐：**
+248块/年，每月50G，IPLC线路    
+36.98块/月，每月200G，IPLC线路     
+110块/月，每月500G，IPLC线路     
+
+
+<details>
+<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+以下为精品套餐节点晚高峰测速：
+<img src="https://jichangcesu.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+</details>
+
+
 ## 十八、泡泡狗
 被转卖了，被人盯上被日常ddos，建议先观察下。购买了的建议先买其它家。
 
@@ -986,7 +1043,7 @@ TG频道和群组：已私有
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
     
-    **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)
+    **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)、Cyanmori
     
     **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
     
@@ -999,7 +1056,7 @@ TG频道和群组：已私有
 
 2. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、 Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis  
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、 Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  
    
     支持SSR协议：翼游   
     支持Trojan协议：WgetCloud、Nexitally、大哥云  
@@ -1007,9 +1064,9 @@ TG频道和群组：已私有
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis    
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori   
    可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
-   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan   
+   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori   
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis也有部分冷门节点；
