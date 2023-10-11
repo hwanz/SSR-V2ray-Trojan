@@ -929,9 +929,10 @@ TG频道和群：有
 500G永久时间 ，一次性65块
 1000G永久时间 ，一次性120块   
 
-
+<details>
+<summary>测速图</summary>
 ![taishan机场推荐测速结果](https://jichangcesu.com/uploads/vpn/taishan.webp)
-
+</details>
 
 
 ## 十七、翼游/Yiyo(10/月50G)  
