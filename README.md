@@ -944,11 +944,9 @@ ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白
 如果打不开请切换为全局代理。人数不少了。         
 
 
-[翼游Yiyo官网链接1](https://suo.yt/jo4NFtf)  
+[翼游Yiyo官网链接1](https://suo.yt/CYas3R6)  
 
-[翼游Yiyo官网链接2,需要代理](https://bit.ly/3d3Yqga) 
-
-[翼游Yiyo官网链接3](https://yiyo.io/auth/register?code=KT8O)
+[翼游Yiyo官网链接2](https://ddjppt.xyz/auth/register?code=KT8O)
 
 
 >开业时间：2019         
