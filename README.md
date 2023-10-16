@@ -572,9 +572,51 @@ TG频道：有，群组：无
 <img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
+##  十一、Catnet
+
+ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
+
+[Catnet机场官网链接1](https://suo.st/4aMdzcZ)  
+
+[Catnet机场官网链接2，需要代理](https://bit.ly/3ubwf54) 
+
+[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo) 
 
 
-##  十一、EdNovas云(10/月50G)  
+>开业时间：2022年   
+过境：深港专线   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+UDP：支持   
+付款方式：支付宝   
+落地ip数量：48    
+协议：ss  
+专门客服：有   
+ChatGPT/OpenAI解锁: 除香港  
+地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
+SSH端口屏蔽：已经屏蔽22端口   
+邮件传统协议smtp/pop3/imap：未禁止  
+<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+
+
+
+套餐:
+
+* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
+* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
+
+
+<details>
+<summary>测速图和流媒体点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
+</details> 
+
+
+
+
+##  十二、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -636,7 +678,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十二、Just my sock(5.8刀/月108G)  
+## 十三、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -713,7 +755,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十三、大哥云(19.8/月100G)           
+## 十四、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
@@ -768,7 +810,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-## 十四、芬达(12.8/月88G)  
+## 十五、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -818,7 +860,7 @@ TG频道和群组：无
 </details>
 
 
-## 十五、RelayCloud(19.8/月80G)  
+## 十六、RelayCloud(19.8/月80G)  
 
 全中转SS机场，比较低调。机场主在菲律宾。解锁也不错。         
 新用户首次95折优惠码：SPECIAL         
@@ -878,7 +920,7 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 
 
 
-## 十六、Taishan-便宜机场推荐(50/年)
+## 十七、Taishan-便宜机场推荐(50/年)
 
 便宜公网中转+专线机场，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。
 
@@ -938,7 +980,7 @@ TG频道和群：有
 </details>
 
 
-## 十七、翼游/Yiyo(10/月50G)  
+## 十八、翼游/Yiyo(10/月50G)  
 
 ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白一键使用客户端。 也有海外节点(给在外国的人用的)
 如果打不开请切换为全局代理。人数不少了。         
@@ -989,7 +1031,7 @@ TG频道和群组：已私有
 </details>
 
 
-## 十八、Atomlantis(247/年每月50G--近期被ddos)
+## 十九、Atomlantis(247/年每月50G--近期被ddos)
 
 全专线SS协议机场   
 
@@ -1028,7 +1070,7 @@ ChatGPT/OpenAI解锁: 全解锁
 </details>
 
 
-## 十八、泡泡狗
+## 二十、泡泡狗
 被转卖了，被人盯上被日常ddos，建议先观察下。购买了的建议先买其它家。
 
 
