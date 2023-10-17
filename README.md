@@ -1031,7 +1031,49 @@ TG频道和群组：已私有
 </details>
 
 
-## 十九、Atomlantis(247/年每月50G--近期被ddos)
+## 十九、老猫云(15/月50G)
+
+IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。       
+[官网1](https://reurl.cc/8ND03M)     
+[官网1](https://suo.st/O6UBFdL)   
+[官网3](https://laomao.org/#/register?code=i0Vv9N5R)    
+
+
+
+>开业时间：主站是2017年开的，很少开了7年的机场  
+过境：IEPL专线      
+机场主肉身：海外      
+流媒体解锁：参考流媒体解锁图      
+UDP：支持      
+付款方式：支付宝      
+落地ip数量：51      
+协议：ss      
+专门客服：有      
+地区：香港、日本、新加坡、美国、台湾、英国、俄罗斯      
+落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH      
+试用：免费试用1小时10G      
+退款：3天无理由      
+
+套餐:      
+B套餐:15/月，每月50G      
+B套餐: 20/月，每月100G      
+D套餐: 30/月，每月200G            
+E套餐: 40/月，每月300G      
+F套餐: 50/月，每月500G      
+
+某老机场分站。SS协议，入口是深圳移动。延迟比较低，速度不错，口子大。注册可免费试用。      
+
+
+
+<details>
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/laomao/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之老猫云流媒体" />
+</details>
+
+
+## 二十、Atomlantis(247/年每月50G--近期被ddos)
 
 全专线SS协议机场   
 
@@ -1070,8 +1112,55 @@ ChatGPT/OpenAI解锁: 全解锁
 </details>
 
 
-## 二十、泡泡狗
-被转卖了，被人盯上被日常ddos，建议先观察下。购买了的建议先买其它家。
+## 二十一、泡泡狗
+
+近期慢慢恢复了。之前被打，新机场主接手后在处理恢复。解锁没之前好了。新老板肉身在外。      
+建议使用他家客户端使用。      
+
+[官网1](https://reurl.cc/gaR4DL)      
+[官网2](https://www.paopao.dog/#/register?code=XLZnckjD)      
+
+
+
+>开业时间：2022.04      
+协议：Trojan      
+付款方式：支付宝、微信、加密货币      
+UDP：基本支持Full-Cone NAT      
+TG电报频道和群组：官网，关注人数：4000+      
+客户端数目：不限制      
+落地ip数量： 70+      
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、阿根廷、土耳其、印度、马来西亚、俄罗斯、墨西哥、埃及      
+落地：更换为了高贵的misaka+快车道      
+ChatGPT/OpenAI解锁: 最新的是全解锁了      
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong, 特殊用途节点不屏蔽      
+SSH端口屏蔽：屏蔽22端口      
+邮件传统协议smtp/pop3/imap：禁止（用各家邮箱官方APP和网页不影响）      
+按量付费：有      
+专门客服：有      
+一键客户端：有   
+
+**套餐（套餐价格不包含手续费）: **
+
+月付套餐：
+
+* 8.8/月 70G流量         
+* 12.5/月 110G流量         
+* 20/月 210G流量         
+* 45/月 600G流量         
+
+不限时套餐,一次性流量：      
+100块600G；210块1500G；260块2000G；      
+
+<details>
+ <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+测速图:
+<img src="https://jichangcesu.com/uploads/vpn/paopaodog.webp"  width = "90%"   align=center  alt="机场推荐之泡泡狗机场晚高峰电信1000M家宽测速" />
+ 
+流媒体检测：
+ 
+<img src="https://jichangcesu.com/uploads/jichang/paopaodog/流媒体.webp"  width = "90%"   align=center  alt="机场推荐之泡泡狗机场流媒体" />
+</details> 
+
 
 
 
