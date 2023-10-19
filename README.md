@@ -28,7 +28,7 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
 2) 想要便宜的，10块/月左右机场：Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan 
-3) 有试用：悠兔、大哥云 、Taishan 、Cyanmori、云翼网络   
+3) 有试用：悠兔、大哥云 、Taishan 、Cyanmori、云翼网络、老猫云       
 4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
 
@@ -106,12 +106,11 @@ TG频道和群：有，人不多
 
 154块/一年的很适合做备用或者是轻度使用用户。
 
-[TAG官网链接1](https://suo.st/Z1SvZIB)  (如果打不开请切换为全局代理)
+[TAG机场官网链](https://reurl.cc/8N9N14) (第一个打不开就点第二个，下面的也一样)  
 
-[TAG官网链接2，需要走代理](https://bit.ly/3E27EU9) (第一个打不开就点第二个，下面的也一样)
+[TAG机场官网2](https://suo.st/Z1SvZIB)  (如果打不开请切换为全局代理)   
 
-[TAG官网链接3](https://tagss01.pro/#/auth/AJCjBhsw)
-
+[TAG官网链接3](https://tagss01.pro/#/auth/AJCjBhsw)      
 
 >开业时间：2018         
 老板肉身：香港(确定)         
@@ -164,8 +163,9 @@ Nexitally，又叫奶昔机场，TG机场最出名的最高端的机场，以贵
 
 机场管理一般也会推荐他的用户买TAG,TAG老板也推荐买奶昔。商业互吹。
 
-[Nexitally机场官网地址1](https://nexitally.com/signup.aspx?PartnerCode=3ac8d2c2863c41e4abc485416bf89b81)
-[Nexitally机场官网地址2](https://bit.ly/3nluiPU)
+[Nexitally机场官网地址1](https://reurl.cc/DoOoWe)   
+
+[Nexitally机场官网地址2](https://suo.st/RBBNNd4)   
 
 >机场管理老板肉身：墙外     
 协议：SS+Trojan       
@@ -203,11 +203,11 @@ Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要�
 有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。
 通过这个链接注册新用户全员无门槛8折优惠券，只能用一次：
 
-[WgetCloud官网链接1，需要走代理](https://bit.ly/3Ik4FJV) 
+[WgetCloud机场官网](https://reurl.cc/dmamKD)    
 
-[WgetCloud官网链接2](https://suo.st/18C0SJx)
+[WgetCloud机场官网2](https://suo.st/18C0SJx)   
+[WgetCloud官网链接3](https://invite.wgetcloud.ltd/auth/register?code=n7z3)    
 
-[WgetCloud官网链接3](https://invite.wgetcloud.ltd/auth/register?code=n7z3)  
 
 
 
@@ -263,11 +263,11 @@ TG频道群组：无，主要使用邮件通知
 
 青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
 
-[官网1](https://reurl.cc/K347E9)  
+[官网1](https://reurl.cc/K347E9)   
 
 [官网2](https://suo.st/gyERoXF)   
 
-[官网3](https://cccc.gg/auth/register?code=Z2ljGK)  
+[官网3](https://cccc.gg/auth/register?code=Z2ljGK)   
 
 >开业时间：2022年04月以前 
 入口 ：武汉     
@@ -311,9 +311,12 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
-[Sayss官网地址1](https://suo.st/k21dIwt)
 
-[Sayss官网地址2](https://www.epaybc.com/#/register/yv7SoTwk)
+[Sayss机场官网1](https://reurl.cc/DoOoN5)  
+
+[Sayss机场官网2](https://suo.st/k21dIwt)   
+  
+[Sayss机场官网3](https://www.epaybc.com/#/register/yv7SoTwk)  
 
 
 >开业时间：21年7月以前，具体不知道。不认识老板     
@@ -362,9 +365,12 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
 
-[SpeedCAT官网1](https://suo.st/LPYatJb)
+[SpeedCAT机场官网1](https://reurl.cc/Nyx416)  
 
-[SpeedCAT官网2](https://speedcat-aff.com/auth/register?code=52q2)
+[SpeedCAT机场官网2](https://suo.st/LPYatJb)   
+
+[SpeedCAT机场官网3](https://speedcat-aff.com/auth/register?code=52q2)  
+
 
 
 >机场主肉身：海外团队         
@@ -419,11 +425,12 @@ TG电报频道和群组：官网，关注人数：1000+
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
 
-[kycloud官网1](https://suo.st/aFipp1L) 
+[Flyingbird机场官网1](https://reurl.cc/9Rn7oO)   
 
-[kycloud官网2,需要代理](http://bit.ly/3JfUa9s) 
+[Flyingbird机场官网2](https://suo.st/LtzIHn1)   
 
-[kycloud官网3](https://cp.cloudnx.cc/aff.php?aff=40961)
+[Flyingbird机场官网3](https://honven20.flyb-aff01.com/auth/register?code=f34i)   
+
 
 
 >开业时间：2017年         
@@ -475,11 +482,13 @@ Team2 | 2T/月 | 609/季度
 公网隧道中转ss机场，可1块试用一天5G流量。也比较低调，从群里的群员的反应和测速结果看得出来，整体稳定性和速度还不错的。
 
 
-[云翼网络机场官网链接1，需要走代理](https://bit.ly/3Sfrkd7)        
+[云翼网络机场官网1](https://reurl.cc/7MV79d)   
 
-[云翼网络机场官网链接2](https://suo.yt/tC69nKu)       
- 
-[云翼网络机场官网链接3](https://yypro.pro/auth/register?code=nhnB)  
+[云翼网络机场官网2](https://suo.yt/tC69nKu)   
+
+[云翼网络机场官网3](https://yypro.pro/auth/register?code=nhnB)   
+
+
 
 
 
@@ -527,9 +536,11 @@ TG电报频道和群组：官网，关注人数：2000+
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
-[官网1](https://suo.st/LtzIHn1)
+[Flyingbird机场官网1](https://reurl.cc/9Rn7oO)   
 
-[官网2](https://honven20.flyb-aff01.com/auth/register?code=f34i)
+[Flyingbird机场官网2](https://suo.st/LtzIHn1)   
+
+[Flyingbird机场官网3](https://honven20.flyb-aff01.com/auth/register?code=f34i)  
 
 
 
@@ -576,11 +587,13 @@ TG频道：有，群组：无
 
 ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
 
-[Catnet机场官网链接1](https://suo.st/4aMdzcZ)  
 
-[Catnet机场官网链接2，需要代理](https://bit.ly/3ubwf54) 
+[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
 
-[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo) 
+[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
+
+[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
+
 
 
 >开业时间：2022年   
@@ -625,10 +638,14 @@ vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机
 
 不会用老板会愿意给你远程。
 
-[EdNovas云官网链接1](https://suo.st/lKVd2aa) 
+[EdNovas云机场官网1](https://reurl.cc/QZaepp)    
 
-[EdNovas云官网链接2，需要代理打开](https://xn--ed-c72c.com/#/register?code=Ik0AHQqO)
+[EdNovas云机场官网2](https://suo.st/lKVd2aa)    
 
+[EdNovas云机场官网3](https://xn--ed-c72c.com/#/register?code=Ik0AHQqO)    
+[EdNovas云机场官网4](https://cdn.ednovas.org/#/register?code=Ik0AHQqO)    
+[EdNovas云机场官网5](https://cdn.ednovas.tech/#/register?code=Ik0AHQqO)    
+[EdNovas云机场官网6](https://cdn.ednovas.world/#/register?code=Ik0AHQqO)    
 
 >开业时间：2020年12月         
 老板肉身：加拿大(确定)         
@@ -760,11 +777,11 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
 
-[大哥云官网链接1，需要代理](https://bit.ly/3IZHi7Z) 
+[大哥云机场官网链接1，需要代理](https://reurl.cc/OjmGbv)    
 
-[大哥云官网链接2](https://suo.st/jDi6xQT) 
+[大哥云机场官网链接2](https://suo.st/jDi6xQT)    
 
-[大哥云官网链接3](https://ab12y.com/#/register?code=YoIVdQJj) 
+[大哥云机场官网链接3](https://ab12y.com/#/register?code=YoIVdQJj)    
 
 >开业时间：2020         
 老板肉身：东南亚         
@@ -815,11 +832,11 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
 
-[芬达官网链接1](https://suo.yt/B9SCB5h)  
+[芬达机场官网1](https://reurl.cc/dmaL0M)     
+ 
+[芬达机场官网2](https://suo.yt/B9SCB5h)       
 
-[芬达官网链接2，需要代理打开](https://bit.ly/3tOgI9J) 
-
-[芬达官网链接3](https://fenda.cloud/auth/register?code=BkFF) 
+[芬达机场官网3](https://fenda.cloud/auth/register?code=BkFF)   
 
 
 
@@ -866,11 +883,12 @@ TG频道和群组：无
 新用户首次95折优惠码：SPECIAL         
 12小时合理情况退款(流量使用小于2GB)         
 
-[RelayCloud官网1](https://suo.yt/jEeHIZ7)
+[RelayCloud机场官网1](https://reurl.cc/a4xLGZ)   
 
-[RelayCloud官网2,需要代理](http://bit.ly/3ySyU4A)
+[RelayCloud机场官网2](https://suo.yt/jEeHIZ7)   
 
-[RelayCloud官网3](https://relay-cloud.net/auth/register?code=YqVf)
+
+[RelayCloud机场官网3](https://relay-cloud.net/auth/register?code=YqVf)   
 
 
 >开业时间：2020         
@@ -925,12 +943,12 @@ TG频道和群组：有，频道关注人数1400+,群组人数 1000+
 便宜公网中转+专线机场，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。
 
 便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
+[taishan官网地址1](https://suo.st/xnnEaJv)    
 
-[taishan官网地址1](https://suo.st/xnnEaJv)
+[taishan官网地址2](https://reurl.cc/A0342p)    
 
-[taishan官网地址2](https://bit.ly/3ERjvET)
-
-[taishan官网地址3](https://us.taishan.pro/#/register?code=bc96eHTt)
+[taishan官网地址3](https://us.taishan.pro/#/register?code=bc96eHTt)  
+ 
 
 
 >开业时间：22年6月以前,新开。怕跑路，就月付。   
@@ -986,9 +1004,12 @@ ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白
 如果打不开请切换为全局代理。人数不少了。         
 
 
-[翼游Yiyo官网链接1](https://suo.yt/CYas3R6)  
+[翼游Yiyo机场官网1](https://suo.yt/f1Xz90e)    
 
-[翼游Yiyo官网链接2](https://ddjppt.xyz/auth/register?code=KT8O)
+[翼游Yiyo机场官网2,需要代理](https://bit.ly/3Fpai71)     
+
+[翼游Yiyo机场官网3](https://ddjppt.xyz/auth/register?code=KT8O)
+
 
 
 >开业时间：2019         
@@ -1033,7 +1054,7 @@ TG频道和群组：已私有
 
 ## 十九、老猫云(15/月50G)
 
-IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。       
+IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 [官网1](https://reurl.cc/8ND03M)     
 [官网1](https://suo.st/O6UBFdL)   
 [官网3](https://laomao.org/#/register?code=i0Vv9N5R)    
@@ -1085,8 +1106,10 @@ F套餐: 50/月，每月500G
 
 一句话：专线类型多，带宽很大，刚开业不久人少。   
 
-[官网1](https://suo.st/oKl0HQx) 
-[官网2](https://bit.ly/48FcfK7)   
+[Atomlantis机场官网1](https://reurl.cc/Myz4R3)   
+[Atomlantis机场官网2](https://suo.st/oKl0HQx)   
+
+[Atomlantis机场官网3](https://atomlantis.cloud/#/register?code=vFVLNyNi)
 
 >开业时间：2023.09.02  
 屏蔽情况：轮媒和pingcong  
@@ -1117,8 +1140,11 @@ ChatGPT/OpenAI解锁: 全解锁
 近期慢慢恢复了。之前被打，新机场主接手后在处理恢复。解锁没之前好了。新老板肉身在外。      
 建议使用他家客户端使用。      
 
-[官网1](https://reurl.cc/gaR4DL)      
-[官网2](https://www.paopao.dog/#/register?code=XLZnckjD)      
+[泡泡狗机场1](https://reurl.cc/gaR4DL)     
+
+[泡泡狗机场2](https://suo.st/vCoWOyF)    
+
+[泡泡狗机3](https://www.paopao.dog/#/register?code=XLZnckjD)      
 
 
 
@@ -1197,20 +1223,20 @@ SSH端口屏蔽：屏蔽22端口
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori   
-   可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
-   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori   
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori 、老猫云     
+   可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
+   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis也有部分冷门节点；
 
 5. **想要家宽**:TAG、悠兔、EdNovas云、Atomlantis
 
-6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
+6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
 
 7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、少数派、大哥云、EdNovas云、Taishan
 
-8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、少数派、芬达、翼游、Sayss
+8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、少数派、芬达、翼游、Sayss、泡泡狗   
 
 9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、飞鸟
 
@@ -1218,9 +1244,9 @@ SSH端口屏蔽：屏蔽22端口
 
 11.  需要回国线路：EdNovas云
 
-12.  有退款服务：EdNovas云、Just my sock、RelayCloud、少数派
+12.  有退款服务：EdNovas云、Just my sock、RelayCloud、少数派、老猫云
 
-13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis
+13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis、老猫云    
 
 
 
