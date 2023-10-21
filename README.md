@@ -1135,9 +1135,11 @@ ChatGPT/OpenAI解锁: 全解锁
 </details>
 
 
+<!-- 
+
 ## 二十一、泡泡狗
 
-近期慢慢恢复了。之前被打，新机场主接手后在处理恢复。解锁没之前好了。新老板肉身在外。      
+近期慢慢恢复了。之前被打，新机场主接手后在处理恢复。解锁没之前好了。新老板肉身在外。 等完全恢复再买。     
 建议使用他家客户端使用。      
 
 [泡泡狗机场1](https://reurl.cc/gaR4DL)     
@@ -1188,7 +1190,7 @@ SSH端口屏蔽：屏蔽22端口
 </details> 
 
 
-
+ -->
 
 ## 购买指导总结,快速筛选
 
@@ -1202,9 +1204,9 @@ SSH端口屏蔽：屏蔽22端口
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
     
-    **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)、Cyanmori
+    **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、Cyanmori
     
-    **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
+    **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
     
      2)**想要小流量或者按量付费套餐**：
        悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、 大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、STC-SERVER(0.8块/G，8块起买)、Taishan(150G永久时间 ，一次性15块)
@@ -1232,11 +1234,11 @@ SSH端口屏蔽：屏蔽22端口
 
 5. **想要家宽**:TAG、悠兔、EdNovas云、Atomlantis
 
-6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
+6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**：悠兔、Kycloud、EdNovas云、飞鸟、Taishan。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
 
-7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、少数派、大哥云、EdNovas云、Taishan
+7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、大哥云、EdNovas云、Taishan
 
-8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、少数派、芬达、翼游、Sayss、泡泡狗   
+8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、芬达、翼游、Sayss、泡泡狗   
 
 9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、飞鸟
 
@@ -1244,7 +1246,7 @@ SSH端口屏蔽：屏蔽22端口
 
 11.  需要回国线路：EdNovas云
 
-12.  有退款服务：EdNovas云、Just my sock、RelayCloud、少数派、老猫云
+12.  有退款服务：EdNovas云、Just my sock、RelayCloud、老猫云
 
 13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis、老猫云    
 
