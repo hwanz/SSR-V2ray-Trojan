@@ -39,10 +39,9 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 某大佬机场的IEPL专线+隧道中转SS协议机场，广东入口，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。有免费试用，好不好用适不适合你的网络环境试用就知道了。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。需要专属线路、大流量套餐可以开工单找机场主定制。8折优惠码：888，每个用户仅限使用一次。
 
 
-[悠兔官网地址1](https://youtu4.shop/#/register?code=3CxiqyOc)
+[悠兔官网地址](https://youtu5.shop/#/register?code=3CxiqyOc)
 
-[悠兔官网地址2](https://youtu3.shop/#/register?code=3CxiqyOc)
-
+机场官网是很容易被污染的，打不开使用全局代理，下面所有机场官网都是。
 
 >开业时间：2022    
 老板肉身：墙外      
@@ -106,12 +105,13 @@ TG频道和群：有，人不多
 
 154块/一年的很适合做备用或者是轻度使用用户。
 
-[TAG机场官网链](https://reurl.cc/8N9N14) (第一个打不开就点第二个，下面的也一样)  
+[TAG机场官网链](https://reurl.cc/x6oDMV) (第一个打不开就点第二个，下面的也一样)
 
-[TAG机场官网2](https://suo.st/Z1SvZIB)  (如果打不开请切换为全局代理)   
+[TAG官网链接2](https://tagss02.pro/#/auth/AJCjBhsw)
 
-[TAG官网链接3](https://tagss01.pro/#/auth/AJCjBhsw)      
 
+
+   
 >开业时间：2018         
 老板肉身：香港(确定)         
 入口：华为云广州、上海、北京         
@@ -484,9 +484,10 @@ Team2 | 2T/月 | 609/季度
 
 [云翼网络机场官网1](https://reurl.cc/7MV79d)   
 
-[云翼网络机场官网2](https://suo.yt/tC69nKu)   
 
-[云翼网络机场官网3](https://yypro.pro/auth/register?code=nhnB)   
+[云翼网络机场官网1](https://reurl.cc/v6onZo)
+
+[云翼网络机场官网2](https://yypro01.pro/auth/register?code=nhnB)
 
 
 
