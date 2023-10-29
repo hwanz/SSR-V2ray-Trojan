@@ -263,11 +263,9 @@ TG频道群组：无，主要使用邮件通知
 
 青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
 
-[官网1](https://reurl.cc/K347E9)   
+[官网1](https://reurl.cc/gax4GX)    
 
-[官网2](https://suo.st/gyERoXF)   
-
-[官网3](https://cccc.gg/auth/register?code=Z2ljGK)   
+[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
 
 >开业时间：2022年04月以前 
 入口 ：武汉     
