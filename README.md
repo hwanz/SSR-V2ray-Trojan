@@ -531,7 +531,138 @@ TG电报频道和群组：官网，关注人数：2000+
 <img src="https://jichangcesu.com/uploads/jichang/yunyi/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之云翼网络机场流媒体" />
 </details>
 
-## 十、Flyingbird(15/月100G)           
+
+
+
+## 十、老猫云(15/月50G)
+
+IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
+[官网1](https://reurl.cc/8ND03M)     
+[官网1](https://suo.st/O6UBFdL)   
+[官网3](https://laomao.org/#/register?code=i0Vv9N5R)    
+
+
+
+>开业时间：主站是2017年开的，很少开了7年的机场  
+过境：IEPL专线      
+机场主肉身：海外      
+流媒体解锁：参考流媒体解锁图      
+UDP：支持      
+付款方式：支付宝      
+落地ip数量：51      
+协议：ss      
+专门客服：有      
+地区：香港、日本、新加坡、美国、台湾、英国、俄罗斯      
+落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH      
+试用：免费试用1小时10G      
+退款：3天无理由      
+
+套餐:      
+B套餐:15/月，每月50G      
+B套餐: 20/月，每月100G      
+D套餐: 30/月，每月200G            
+E套餐: 40/月，每月300G      
+F套餐: 50/月，每月500G      
+
+某老机场分站。SS协议，入口是深圳移动。延迟比较低，速度不错，口子大。注册可免费试用。      
+
+
+
+<details>
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/laomao/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之老猫云流媒体" />
+</details>
+
+
+## 十一、Atomlantis(247/年每月50G)
+
+全专线SS协议机场   
+
+过境多种专线：广港专线，深港专线、唯云莞港专线、沪日专线、沪美专线、优刻得沪韩专线、深法专线、京德专线   
+
+落地：Misaka 、Kirino 、Jinx、Atom、Eons、Hinet、Nearoute，不少高端落地，还有Frontier家宽、Sonet家宽      
+
+看得出老板很有实力（钞能力），刚开业就买这么多类型的大带宽专线。其中香港、台湾、新加坡有唯云专线。近期看在增加冷门节点。上线后近期观察了下使用情况，大家评价还不错。因为是开业不久的机场，担心有风险可以先月付体验看看。   
+
+一句话：专线类型多，带宽很大，刚开业不久人少。   
+
+[Atomlantis机场官网1](https://reurl.cc/Myz4R3)   
+[Atomlantis机场官网2](https://suo.st/oKl0HQx)   
+
+[Atomlantis机场官网3](https://atomlantis.cloud/#/register?code=vFVLNyNi)
+
+>开业时间：2023.09.02  
+屏蔽情况：轮媒和pingcong  
+22端口：未屏蔽    
+流媒体解锁也是一流的  
+付款方式：支付宝、微信  
+UDP：基本支持Full-Cone NAT  
+落地ip数量： 70  
+ChatGPT/OpenAI解锁: 全解锁    
+<a href="https://jichangcesu.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
+
+**套餐：**
+248块/年，每月50G，IPLC线路    
+36.98块/月，每月200G，IPLC线路     
+110块/月，每月500G，IPLC线路     
+
+
+<details>
+<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+以下为精品套餐节点晚高峰测速：
+<img src="https://jichangcesu.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+</details>
+
+
+
+##  十一、Catnet
+
+ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
+
+
+[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
+
+[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
+
+[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
+
+
+
+>开业时间：2022年   
+过境：深港专线   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+UDP：支持   
+付款方式：支付宝   
+落地ip数量：48    
+协议：ss  
+专门客服：有   
+ChatGPT/OpenAI解锁: 除香港  
+地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
+SSH端口屏蔽：已经屏蔽22端口   
+邮件传统协议smtp/pop3/imap：未禁止  
+<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+
+
+
+套餐:
+
+* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
+* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
+
+
+<details>
+<summary>测速图和流媒体点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
+</details> 
+
+
+## 十二、Flyingbird(15/月100G)           
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
@@ -582,53 +713,8 @@ TG频道：有，群组：无
 <img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
-##  十一、Catnet
 
-ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
-
-
-[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
-
-[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
-
-[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
-
-
-
->开业时间：2022年   
-过境：深港专线   
-流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
-UDP：支持   
-付款方式：支付宝   
-落地ip数量：48    
-协议：ss  
-专门客服：有   
-ChatGPT/OpenAI解锁: 除香港  
-地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
-SSH端口屏蔽：已经屏蔽22端口   
-邮件传统协议smtp/pop3/imap：未禁止  
-<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
-
-
-
-套餐:
-
-* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
-* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
-
-
-<details>
-<summary>测速图和流媒体点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
-</details> 
-
-
-
-
-##  十二、EdNovas云(10/月50G)  
+##  十三、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -694,7 +780,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十三、Just my sock(5.8刀/月108G)  
+## 十四、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -771,7 +857,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十四、大哥云(19.8/月100G)           
+## 十五、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
@@ -826,7 +912,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-## 十五、芬达(12.8/月88G)  
+## 十六、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -876,64 +962,6 @@ TG频道和群组：无
 </details>
 
 
-## 十六、RelayCloud(19.8/月80G)  
-
-全中转SS机场，比较低调。机场主在菲律宾。解锁也不错。         
-新用户首次95折优惠码：SPECIAL         
-12小时合理情况退款(流量使用小于2GB)         
-
-[RelayCloud机场官网1](https://reurl.cc/a4xLGZ)   
-
-[RelayCloud机场官网2](https://suo.yt/jEeHIZ7)   
-
-
-[RelayCloud机场官网3](https://relay-cloud.net/auth/register?code=YqVf)   
-
-
->开业时间：2020         
-老板肉身：菲律宾         
-入口：镇江电信、长沙移动、盐城移动         
-过境：公网中转         
-协议：Shadowsocks         
-UDP: 支持         
-客户端数目：3+         
-退款：有，12小时合理情况退款、流量使用小于2GB         
-ChatGPT/OpenAI解锁:  全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒、pincong         
-SSH端口屏蔽：屏蔽22端口         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-地区：节点数量44个，美国、台湾、新加坡、日本、香港、英国、俄罗斯、菲律宾         
-落地：Akari、OVH、HKT、Linode、Amazon等         
-TG频道和群组：有，频道关注人数1400+,群组人数 1000+         
-付款方式：支付宝、微信                  
-套餐价格是否包含手续费：包含         
-国外能否使用：否         
-<a href="https://jichangcesu.com/relaycloud历史测速结果整合.html" target="_blank">Relaycloud拓扑结构检测、流媒体、ChatGPT和历史测速结果合集</a>
-
-
-**套餐(所有套餐节点一样):**
-
-
-套餐 |  流量 | 价格 |客户端数目 
-:-:  | :-: | :-: | :-:
-月付80GB | 80G/月 | 19.8块/月 | 3
-月付10GB | 180G/月 | 26.8块/月 | 3
-月付380GB | 380G/月 | 56.8块/月 | 5
-年付600GB | 600G/年 | 148.8块/年 | 3
-年付1200GB | 1200G/年 | 218.8块/年 | 3
-年付2400GB | 2400G/年 | 398.8块/年 | 3
-
-
-
-
-
-
-<details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/relaycloud.webp"  width = "90%"  align=center  alt="Relaycloud晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/relaycloud/流媒体.webp"  width = "95%"   align=center  alt="relaycloud流媒体" />
-</details>
 
 
 
@@ -1049,87 +1077,6 @@ TG频道和群组：已私有
 </details>
 
 
-## 十九、老猫云(15/月50G)
-
-IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
-[官网1](https://reurl.cc/8ND03M)     
-[官网1](https://suo.st/O6UBFdL)   
-[官网3](https://laomao.org/#/register?code=i0Vv9N5R)    
-
-
-
->开业时间：主站是2017年开的，很少开了7年的机场  
-过境：IEPL专线      
-机场主肉身：海外      
-流媒体解锁：参考流媒体解锁图      
-UDP：支持      
-付款方式：支付宝      
-落地ip数量：51      
-协议：ss      
-专门客服：有      
-地区：香港、日本、新加坡、美国、台湾、英国、俄罗斯      
-落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH      
-试用：免费试用1小时10G      
-退款：3天无理由      
-
-套餐:      
-B套餐:15/月，每月50G      
-B套餐: 20/月，每月100G      
-D套餐: 30/月，每月200G            
-E套餐: 40/月，每月300G      
-F套餐: 50/月，每月500G      
-
-某老机场分站。SS协议，入口是深圳移动。延迟比较低，速度不错，口子大。注册可免费试用。      
-
-
-
-<details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/laomao/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之老猫云流媒体" />
-</details>
-
-
-## 二十、Atomlantis(247/年每月50G--近期被ddos)
-
-全专线SS协议机场   
-
-过境多种专线：广港专线，深港专线、唯云莞港专线、沪日专线、沪美专线、优刻得沪韩专线、深法专线、京德专线   
-
-落地：Misaka 、Kirino 、Jinx、Atom、Eons、Hinet、Nearoute，不少高端落地，还有Frontier家宽、Sonet家宽      
-
-看得出老板很有实力（钞能力），刚开业就买这么多类型的大带宽专线。其中香港、台湾、新加坡有唯云专线。近期看在增加冷门节点。上线后近期观察了下使用情况，大家评价还不错。因为是开业不久的机场，担心有风险可以先月付体验看看。   
-
-一句话：专线类型多，带宽很大，刚开业不久人少。   
-
-[Atomlantis机场官网1](https://reurl.cc/Myz4R3)   
-[Atomlantis机场官网2](https://suo.st/oKl0HQx)   
-
-[Atomlantis机场官网3](https://atomlantis.cloud/#/register?code=vFVLNyNi)
-
->开业时间：2023.09.02  
-屏蔽情况：轮媒和pingcong  
-22端口：未屏蔽    
-流媒体解锁也是一流的  
-付款方式：支付宝、微信  
-UDP：基本支持Full-Cone NAT  
-落地ip数量： 70  
-ChatGPT/OpenAI解锁: 全解锁    
-<a href="https://jichangcesu.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
-
-**套餐：**
-248块/年，每月50G，IPLC线路    
-36.98块/月，每月200G，IPLC线路     
-110块/月，每月500G，IPLC线路     
-
-
-<details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
-<img src="https://jichangcesu.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
-</details>
 
 
 <!-- 
