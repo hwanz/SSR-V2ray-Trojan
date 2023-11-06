@@ -157,47 +157,9 @@ TG频道和交流群：官网指导进入，关注人数1万+
 拓扑结构,看历史测速
 </details>
 
-## 三、Nexitally(117/月)
-Nexitally，又叫奶昔机场，TG机场最出名的最高端的机场，以贵和线路出名，当然价格也高端。线路是唯云专线，很少机场用这个线路。老板说佛系推，无所谓。上一次测还是两年前🤣
-加上不用测我也知道测试的结果是怎么样的，一般都是轻松跑满我千兆带宽的，平时也没必要测。让推荐机场不说预算一般大家就推荐这家：奶昔机场，请~
-
-机场管理一般也会推荐他的用户买TAG,TAG老板也推荐买奶昔。商业互吹。
-
-[Nexitally机场官网地址1](https://reurl.cc/DoOoWe)   
-
-[Nexitally机场官网地址2](https://suo.st/RBBNNd4)   
-
->机场管理老板肉身：墙外     
-协议：SS+Trojan       
-入口：东莞、上海，镇江BGP等，可以自己选择入口和落地       
-过境：唯云专线，超大带宽       
-落地：Jinx、Eons、Kirino、HGC、Kirino等高端落地       
-流媒体:全解锁       
-设备数：2       
-一键客户端：有
-UDP: 有
-审计：voa、轮媒、pingcong    
-22端口：未屏蔽              
-优点：高端专线、高端落地，大带宽  
-缺点：名声大，容易招打被DDOS。但是一般都能扛住，有钱买高防         
-点评：钞能力一流的机场。自研面板无瓜。还是那句话，买得起的推荐买。好就是贵贵就好。一般要推荐机场不说价格大家就推荐这个。除了不好用的时候（被打）其他时候都很好用          
-适合人群：不差钱且需要稳定+低延迟的线路的，高端玩家使用           
-[Nexitally奶昔机场拓扑结构检测和流媒体、历史测速结果合集和用户评价](https://jichangcesu.com/Nexitally%E5%A5%B6%E6%98%94%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.html)
-
-**套餐:**
-每月流量500G：月付117元；半年付606元；年付1102元
-Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要在购买Smart Access的基础上才能用。
-
-<details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/nexitally"  width = "90%"   align=center  alt="奶昔机场晚高峰电信1000M家宽测速" />
-流媒体：
-<img src="https://jichangcesu.com/uploads/jichang/nexitally/流媒体.webp"  width = "95%"   align=center  alt="奶昔机场流媒体" />
-</details>
 
 
-## 四、WgetCloud(49/月120G) 
+## 三、WgetCloud(49/月120G) 
 
 中转机场，原GaCloud。香港老板，已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。此机场值得推荐     
 有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。
@@ -259,53 +221,131 @@ TG频道群组：无，主要使用邮件通知
 
 
  
-## 五、Cyanmori(20/月160G)
+## 四、Nexitally(117/月)
+Nexitally，又叫奶昔机场，TG机场最出名的最高端的机场，以贵和线路出名，当然价格也高端。线路是唯云专线，很少机场用这个线路。老板说佛系推，无所谓。上一次测还是两年前🤣
+加上不用测我也知道测试的结果是怎么样的，一般都是轻松跑满我千兆带宽的，平时也没必要测。让推荐机场不说预算一般大家就推荐这家：奶昔机场，请~
 
-青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
+机场管理一般也会推荐他的用户买TAG,TAG老板也推荐买奶昔。商业互吹。
 
-[官网1](https://reurl.cc/gax4GX)    
+[Nexitally机场官网地址1](https://reurl.cc/DoOoWe)   
 
-[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
+[Nexitally机场官网地址2](https://suo.st/RBBNNd4)   
 
->开业时间：2022年04月以前 
-入口 ：武汉     
-过境: 公网隧道    
-协议：Shadowsocks    
-UDP：基本支持Full-Cone    
-客户端数目：3-10个    
-落地ip数量： 30+    
-ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
-墙外新闻网站屏蔽情况：轮媒    
-SSH端口屏蔽：未屏蔽22端口    
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
-落地：甲骨文、DMIT、G-core、misaka等    
-TG频道和群组：有，群人数3000+    
-付款方式：支付宝、微信支付    
-套餐价格是否包含手续费：包含    
-<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
+>机场管理老板肉身：墙外     
+协议：SS+Trojan       
+入口：东莞、上海，镇江BGP等，可以自己选择入口和落地       
+过境：唯云专线，超大带宽       
+落地：Jinx、Eons、Kirino、HGC、Kirino等高端落地       
+流媒体:全解锁       
+设备数：2       
+一键客户端：有
+UDP: 有
+审计：voa、轮媒、pingcong    
+22端口：未屏蔽              
+优点：高端专线、高端落地，大带宽  
+缺点：名声大，容易招打被DDOS。但是一般都能扛住，有钱买高防         
+点评：钞能力一流的机场。自研面板无瓜。还是那句话，买得起的推荐买。好就是贵贵就好。一般要推荐机场不说价格大家就推荐这个。除了不好用的时候（被打）其他时候都很好用          
+适合人群：不差钱且需要稳定+低延迟的线路的，高端玩家使用           
+[Nexitally奶昔机场拓扑结构检测和流媒体、历史测速结果合集和用户评价](https://jichangcesu.com/Nexitally%E5%A5%B6%E6%98%94%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.html)
 
-套餐(所有套餐节点一样): 
-
-套餐 |  流量 | 价格  | 设备数 
-:-:  | :-: | :-:   | :-:  
-A | 160G/月 | 20/月| 3
-A+ | 480G/季 | 54季 | 3
-B | 370G/月 | 30/月  | 5  
-B+ | 1110G/季 | 81/季  | 5
-C | 810G/年 | 50/月 | 10  
-C+ | 2430G/年 | 135/季 | 10  
-Plan A | 160G/月 | 85/季度  | 无限设备
+**套餐:**
+每月流量500G：月付117元；半年付606元；年付1102元
+Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要在购买Smart Access的基础上才能用。
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
-<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
+<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+以下为精品套餐节点晚高峰测速：
+<img src="https://jichangcesu.com/uploads/vpn/nexitally"  width = "90%"   align=center  alt="奶昔机场晚高峰电信1000M家宽测速" />
+流媒体：
+<img src="https://jichangcesu.com/uploads/jichang/nexitally/流媒体.webp"  width = "95%"   align=center  alt="奶昔机场流媒体" />
 </details>
 
 
+##  五、海獭-haita(15.99/月100G)
+SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  
+
+[Haita机场官网地址1](https://reurl.cc/gap6yR)  
+
+[Haita机场官网地址2](https://haita.io/reguser?aff=4ss48aFw)    
+
+>开业时间：2023.11         
+入口：深圳、北京移动、江苏移动、广州移动        
+过境: 公网中转        
+协议：Shadowsocks        
+付款方式：支付宝        
+TG频道：无        
+客户端数目：不限制        
+落地ip数量： 17+        
+节点国家与地区：香港、日本、新加坡、美国、加拿大        
+ChatGPT/OpenAI解锁: 全解锁        
+墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
+SSH端口屏蔽：22端口未屏蔽        
+
+** 套餐: **
+
+月付套餐：        
+15.99块100G        
+25.99块200G        
+34.99块350G        
+54.99块700G        
+92.99块900G         
 
 
-## 六、Sayss(100块/季150G)
+<details>
+<summary>haita机场测速图和流媒体-点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场晚高峰电信1000M家宽测速" />
+ 
+haita机场流媒体检测：
+
+ <img src="https://jichangcesu.com/uploads/jichang/haita/流媒体.webp"  width = "90%"  align=center  alt="haita机场流媒体.webp测速" />
+</details>
+
+##  六、Catnet
+
+ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
+
+
+[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
+
+[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
+
+[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
+
+
+
+>开业时间：2022年   
+过境：深港专线   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+UDP：支持   
+付款方式：支付宝   
+落地ip数量：48    
+协议：ss  
+专门客服：有   
+ChatGPT/OpenAI解锁: 除香港  
+地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
+SSH端口屏蔽：已经屏蔽22端口   
+邮件传统协议smtp/pop3/imap：未禁止  
+<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+
+
+
+套餐:
+
+* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
+* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
+
+
+<details>
+<summary>测速图和流媒体点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
+</details> 
+
+
+
+## 七、Sayss(100块/季150G)
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
@@ -358,7 +398,7 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 </details>
 
 
-## 七、SpeedCAT(20/月100G) 
+## 八、SpeedCAT(20/月100G) 
 
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
@@ -418,7 +458,7 @@ TG电报频道和群组：官网，关注人数：1000+
 
 
 
-## 八、Kycloud(150/年120G)          
+## 九、Kycloud(150/年120G)          
 
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
@@ -475,7 +515,7 @@ Team2 | 2T/月 | 609/季度
 
 
 
-## 九、云翼网络(22.8/月108G)  
+## 十、云翼网络(22.8/月108G)  
 
 公网隧道中转ss机场，可1块试用一天5G流量。也比较低调，从群里的群员的反应和测速结果看得出来，整体稳定性和速度还不错的。
 
@@ -534,7 +574,7 @@ TG电报频道和群组：官网，关注人数：2000+
 
 
 
-## 十、老猫云(15/月50G)
+## 十一、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 [官网1](https://reurl.cc/8ND03M)     
@@ -576,7 +616,7 @@ F套餐: 50/月，每月500G
 </details>
 
 
-## 十一、Atomlantis(247/年每月50G)
+## 十二、Atomlantis(247/年每月50G)
 
 全专线SS协议机场   
 
@@ -618,89 +658,53 @@ ChatGPT/OpenAI解锁: 全解锁
 
 
 
-##  十二、Catnet
-
-ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
-
-
-[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
-
-[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
-
-[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
 
 
 
->开业时间：2022年   
-过境：深港专线   
-流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
-UDP：支持   
-付款方式：支付宝   
-落地ip数量：48    
-协议：ss  
-专门客服：有   
-ChatGPT/OpenAI解锁: 除香港  
-地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
-SSH端口屏蔽：已经屏蔽22端口   
-邮件传统协议smtp/pop3/imap：未禁止  
-<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+## 十三、Cyanmori(20/月160G)
 
+青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
 
+[官网1](https://reurl.cc/gax4GX)    
 
-套餐:
+[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
 
-* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
-* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
+>开业时间：2022年04月以前 
+入口 ：武汉     
+过境: 公网隧道    
+协议：Shadowsocks    
+UDP：基本支持Full-Cone    
+客户端数目：3-10个    
+落地ip数量： 30+    
+ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
+墙外新闻网站屏蔽情况：轮媒    
+SSH端口屏蔽：未屏蔽22端口    
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
+落地：甲骨文、DMIT、G-core、misaka等    
+TG频道和群组：有，群人数3000+    
+付款方式：支付宝、微信支付    
+套餐价格是否包含手续费：包含    
+<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
 
+套餐(所有套餐节点一样): 
 
-<details>
-<summary>测速图和流媒体点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
-</details> 
-
-
-
-##  十三、Haita(15.99/100G)
-SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  
-
-[Haita机场官网地址1](https://reurl.cc/gap6yR)  
-
-[Haita机场官网地址2](https://haita.io/reguser?aff=4ss48aFw)    
-
->开业时间：2023.11         
-入口：深圳、北京移动、江苏移动、广州移动        
-过境: 公网中转        
-协议：Shadowsocks        
-付款方式：支付宝        
-TG频道：无        
-客户端数目：不限制        
-落地ip数量： 17+        
-节点国家与地区：香港、日本、新加坡、美国、加拿大        
-ChatGPT/OpenAI解锁: 全解锁        
-墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
-SSH端口屏蔽：22端口未屏蔽        
-
-** 套餐: **
-
-月付套餐：        
-15.99块100G        
-25.99块200G        
-34.99块350G        
-54.99块700G        
-92.99块900G         
-
+套餐 |  流量 | 价格  | 设备数 
+:-:  | :-: | :-:   | :-:  
+A | 160G/月 | 20/月| 3
+A+ | 480G/季 | 54季 | 3
+B | 370G/月 | 30/月  | 5  
+B+ | 1110G/季 | 81/季  | 5
+C | 810G/年 | 50/月 | 10  
+C+ | 2430G/年 | 135/季 | 10  
+Plan A | 160G/月 | 85/季度  | 无限设备
 
 <details>
-<summary>haita机场测速图和流媒体-点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场晚高峰电信1000M家宽测速" />
- 
-haita机场流媒体检测：
-
- <img src="https://jichangcesu.com/uploads/jichang/haita/流媒体.webp"  width = "90%"  align=center  alt="haita机场流媒体.webp测速" />
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
+<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
 </details>
+
+
 
 
 ## 十四、Flyingbird(15/月100G)           
