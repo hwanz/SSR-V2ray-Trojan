@@ -16,12 +16,12 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows、Clash-verge、V2rayN    
+>Windows：Clash For Windows(停更也可以正常使用)、Clash-verge、V2rayN    
 Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro、有钱的买Surge，M1、M2还可以使用小火箭   
 IOS：小火箭、QuantumultX教程、Stash、Loon、有钱的买Surge   
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid   
 Linux：Shell clash、Clash For Windows、clash-verg的Linux版本   
-路由器：OpenClash、OpenWRT的passwall    
+路由器：OpenWRT的OpenClash、passwall    
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
@@ -618,7 +618,7 @@ ChatGPT/OpenAI解锁: 全解锁
 
 
 
-##  十一、Catnet
+##  十二、Catnet
 
 ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
 
@@ -662,7 +662,48 @@ SSH端口屏蔽：已经屏蔽22端口
 </details> 
 
 
-## 十二、Flyingbird(15/月100G)           
+
+##  十三、Haita(15.99/100G)
+SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  
+
+[Haita机场官网地址1](https://reurl.cc/gap6yR)  
+
+[Haita机场官网地址2](https://haita.io/reguser?aff=4ss48aFw)    
+
+>开业时间：2023.11         
+入口：深圳、北京移动、江苏移动、广州移动        
+过境: 公网中转        
+协议：Shadowsocks        
+付款方式：支付宝        
+TG频道：无        
+客户端数目：不限制        
+落地ip数量： 17+        
+节点国家与地区：香港、日本、新加坡、美国、加拿大        
+ChatGPT/OpenAI解锁: 全解锁        
+墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
+SSH端口屏蔽：22端口未屏蔽        
+
+** 套餐: **
+
+月付套餐：        
+15.99块100G        
+25.99块200G        
+34.99块350G        
+54.99块700G        
+92.99块900G         
+
+
+<details>
+<summary>haita机场测速图和流媒体-点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场晚高峰电信1000M家宽测速" />
+ 
+haita机场流媒体检测：
+
+ <img src="https://jichangcesu.com/uploads/jichang/haita/流媒体.webp"  width = "90%"  align=center  alt="haita机场流媒体.webp测速" />
+</details>
+
+
+## 十四、Flyingbird(15/月100G)           
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
@@ -714,7 +755,7 @@ TG频道：有，群组：无
 </details> 
 
 
-##  十三、EdNovas云(10/月50G)  
+##  十五、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -780,7 +821,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十四、Just my sock(5.8刀/月108G)  
+## 十六、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -857,7 +898,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十五、大哥云(19.8/月100G)           
+## 十七、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
@@ -912,7 +953,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-## 十六、芬达(12.8/月88G)  
+## 十八、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -962,68 +1003,7 @@ TG频道和群组：无
 </details>
 
 
-
-
-
-## 十七、Taishan-便宜机场推荐(50/年)
-
-便宜公网中转+专线机场，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。
-
-便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
-
-[taishan官网地址](https://reurl.cc/q0od83)
-
-[taishan官网地址2](https://us.taishan.pro/#/register?code=bc96eHTt)
-
-
->开业时间：22年6月以前,新开。怕跑路，就月付。   
-肉身：日本   
-入口与过境线路：公网中转+IPLC   
-节点数目： 40左右   
-协议：Shadowsocks   
-ip设置数目：不限制   
-UDP：不支持   
-付款方式：支付宝、微信、USDT   
-ChatGPT/OpenAI解锁: 除了香港基本全解锁   
-地区：香港、美国、日本、台湾、新加坡   
-落地提供商：主要就是hytron和akari，落地类型如果是同一家容易一挂全挂。   
-新闻屏蔽情况：大概看来下就屏蔽轮媒   
-SSH端口屏蔽：22端口未屏蔽   
-邮件传统协议smtp/pop3/imap：未禁止   
-TG频道和群：有   
-退款：不支持   
-试用：1天5G    
-[taishan机场怎么样》更多详情](https://jichanggo.com/taishan%e6%9c%ba%e5%9c%ba%e6%80%8e%e4%b9%88%e6%a0%b7-%e4%be%bf%e5%ae%9c%e6%9c%ba%e5%9c%ba%e6%8e%a8%e8%8d%90 "taishan机场怎么样》更多详情")
-
-套餐：
-
-流量 | 价格 
-:-: | :-: 
-套餐：
-
-流量 | 价格 
-:-: | :-: 
-64G/月 |6/月;16/季;30/半年;50/年 
-128G/月 |10/月;27/季;50/半年;84/年 
-256G/月 |18/月;48/季;90/半年;150/年
-512G/月 |32/月;86/季;160/半年;268/年
-
-
-按量不限时：
-150G永久时间 ，一次性25块    
-500G永久时间 ，一次性65块
-1000G永久时间 ，一次性120块   
-
-
-
-<details>
-
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/taishan.webp"  width = "90%"   align=center  alt="便宜机场推荐taishan晚高峰电信1000M家宽测速" />
-</details>
-
-
-## 十八、翼游/Yiyo(10/月50G)  
+## 十九、翼游/Yiyo(10/月50G)  
 
 ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白一键使用客户端。 也有海外节点(给在外国的人用的)
 如果打不开请切换为全局代理。人数不少了。         
@@ -1079,7 +1059,66 @@ TG频道和群组：已私有
 
 
 
-<!-- 
+## 二十、Taishan-便宜机场推荐(50/年)
+
+便宜公网中转+专线机场，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的，感觉稳定性不够高。
+
+便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
+
+[taishan官网地址](https://reurl.cc/q0od83)
+
+[taishan官网地址2](https://us.taishan.pro/#/register?code=bc96eHTt)
+
+
+>开业时间：22年6月以前,新开。怕跑路，就月付。   
+肉身：日本   
+入口与过境线路：公网中转+IPLC   
+节点数目： 40左右   
+协议：Shadowsocks   
+ip设置数目：不限制   
+UDP：不支持   
+付款方式：支付宝、微信、USDT   
+ChatGPT/OpenAI解锁: 除了香港基本全解锁   
+地区：香港、美国、日本、台湾、新加坡   
+落地提供商：主要就是hytron和akari，落地类型如果是同一家容易一挂全挂。   
+新闻屏蔽情况：大概看来下就屏蔽轮媒   
+SSH端口屏蔽：22端口未屏蔽   
+邮件传统协议smtp/pop3/imap：未禁止   
+TG频道和群：有   
+退款：不支持   
+试用：1天5G    
+[taishan机场怎么样》更多详情](https://jichanggo.com/taishan%e6%9c%ba%e5%9c%ba%e6%80%8e%e4%b9%88%e6%a0%b7-%e4%be%bf%e5%ae%9c%e6%9c%ba%e5%9c%ba%e6%8e%a8%e8%8d%90 "taishan机场怎么样》更多详情")
+
+套餐：
+
+流量 | 价格 
+:-: | :-: 
+套餐：
+
+流量 | 价格 
+:-: | :-: 
+64G/月 |6/月;16/季;30/半年;50/年 
+128G/月 |10/月;27/季;50/半年;84/年 
+256G/月 |18/月;48/季;90/半年;150/年
+512G/月 |32/月;86/季;160/半年;268/年
+
+
+按量不限时：
+150G永久时间 ，一次性25块    
+500G永久时间 ，一次性65块
+1000G永久时间 ，一次性120块   
+
+
+
+<details>
+
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/taishan.webp"  width = "90%"   align=center  alt="便宜机场推荐taishan晚高峰电信1000M家宽测速" />
+</details>
+
+
+
+
 
 ## 二十一、泡泡狗
 
@@ -1102,8 +1141,7 @@ TG电报频道和群组：官网，关注人数：4000+
 客户端数目：不限制      
 落地ip数量： 70+      
 节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、阿根廷、土耳其、印度、马来西亚、俄罗斯、墨西哥、埃及      
-落地：更换为了高贵的misaka+快车道      
-ChatGPT/OpenAI解锁: 最新的是全解锁了      
+ChatGPT/OpenAI解锁: 部分解锁      
 墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong, 特殊用途节点不屏蔽      
 SSH端口屏蔽：屏蔽22端口      
 邮件传统协议smtp/pop3/imap：禁止（用各家邮箱官方APP和网页不影响）      
@@ -1134,7 +1172,7 @@ SSH端口屏蔽：屏蔽22端口
 </details> 
 
 
- -->
+
 
 ## 购买指导总结,快速筛选
 
@@ -1146,7 +1184,7 @@ SSH端口屏蔽：屏蔽22端口
     
     **10块/月以下**：大哥云(69/季200G/月)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
     
-    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
+    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)、haita((15.99/100G))
     
     **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、Cyanmori
     
@@ -1159,17 +1197,17 @@ SSH端口屏蔽：屏蔽22端口
        悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
 
 
-2. **协议分类：**
+3. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、 Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、 Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  、haita
    
     支持SSR协议：翼游   
-    支持Trojan协议：WgetCloud、Nexitally、大哥云  
+    支持Trojan协议：WgetCloud、Nexitally、大哥云、泡泡狗 
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori 、老猫云     
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori 、老猫云、haita       
    可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
    审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
 
