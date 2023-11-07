@@ -265,9 +265,11 @@ Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要�
 SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
 
-[Haita机场官网地址1](https://reurl.cc/gap6yR)  
+[Haita机场官网地址1](https://reurl.cc/QZx53q)   
 
-[Haita机场官网地址2](https://haita.io/reguser?aff=4ss48aFw)    
+[Haita机场官网地址2](https://haita.io/reguser?aff=VQq8ZO5j)  
+
+
 
 >开业时间：2023.11         
 入口：深圳、北京移动、江苏移动、广州移动        
@@ -664,7 +666,7 @@ ChatGPT/OpenAI解锁: 全解锁
 
 ## 十三、Cyanmori(20/月160G)
 
-青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。
+青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
 
 [官网1](https://reurl.cc/gax4GX)    
 
@@ -1237,6 +1239,7 @@ SSH端口屏蔽：屏蔽22端口
 
 13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis、老猫云    
 
+14.  需要emby：TAG 和ednovas。都是nsfw的
 
 
 
