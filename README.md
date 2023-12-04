@@ -840,15 +840,13 @@ vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机
 2.落地国家和节点多，130+国家，230+节点。且很多是低倍率。“权宜”套餐以上才有。冷门节点比不上TAG的，但部分冷门可能是一起合租的。老板也是喜欢收集各种国家节点的搞vps的，mjj。
 
 不会用老板会愿意给你远程。
+ 
+[EdNovas云机场官网1](https://cdn.ednovas.org/#/register?code=Ik0AHQqO)    
 
-[EdNovas云机场官网1](https://reurl.cc/QZaepp)    
+[EdNovas云机场官网2](https://cdn.ednovas.tech/#/register?code=Ik0AHQqO)    
 
-[EdNovas云机场官网2](https://suo.st/lKVd2aa)    
 
-[EdNovas云机场官网3](https://xn--ed-c72c.com/#/register?code=Ik0AHQqO)    
-[EdNovas云机场官网4](https://cdn.ednovas.org/#/register?code=Ik0AHQqO)    
-[EdNovas云机场官网5](https://cdn.ednovas.tech/#/register?code=Ik0AHQqO)    
-[EdNovas云机场官网6](https://cdn.ednovas.world/#/register?code=Ik0AHQqO)    
+[EdNovas云机场官网3](https://cdn.ednovas.world/#/register?code=Ik0AHQqO)    
 
 >开业时间：2020年12月         
 老板肉身：加拿大(确定)         
