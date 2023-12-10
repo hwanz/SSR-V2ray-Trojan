@@ -245,7 +245,8 @@ Nexitally，又叫奶昔机场，TG机场最出名的最高端的机场，以贵
 一键客户端：有
 UDP: 有
 审计：voa、轮媒、pingcong    
-22端口：未屏蔽              
+22端口：未屏蔽
+smtp邮件端口: 屏蔽            
 优点：高端专线、高端落地，大带宽  
 缺点：名声大，容易招打被DDOS。但是一般都能扛住，有钱买高防         
 点评：钞能力一流的机场。自研面板无瓜。还是那句话，买得起的推荐买。好就是贵贵就好。一般要推荐机场不说价格大家就推荐这个。除了不好用的时候（被打）其他时候都很好用          
@@ -341,8 +342,8 @@ SS协议中转机场。人少，新机场,速度会很不错。节点暂时不�
 TG频道：无        
 客户端数目：不限制        
 落地ip数量： 23+        
-节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国 
-ChatGPT/OpenAI解锁: 全解锁        
+节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
+ChatGPT/OpenAI解锁: 部分解锁        
 墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
 SSH端口屏蔽：22端口未屏蔽        
 ipv6支持情况：不支持
@@ -1229,7 +1230,7 @@ SSH端口屏蔽：屏蔽22端口
 
   3.**屏蔽限制区分：**
    未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori 、老猫云、haita       
-   可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
+   可用第三方软件发邮件：Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
    审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
 
 
