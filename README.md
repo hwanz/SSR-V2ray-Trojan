@@ -16,18 +16,18 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows(停更也可以正常使用)、Clash-verge、V2rayN    
-Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro、有钱的买Surge，M1、M2还可以使用小火箭   
-IOS：小火箭、QuantumultX教程、Stash、Loon、有钱的买Surge   
-安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid   
-Linux：Shell clash、Clash For Windows、clash-verg的Linux版本   
+>Windows：Clash For Windows(停更也可以正常使用)、Clash-verge、V2rayN、Nekoray     
+Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
+IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
+安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox     
+Linux：Shell clash、Clash For Windows、clash-verg的Linux版本、sing-box     
 路由器：OpenWRT的OpenClash、passwall    
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan 
+2) 想要便宜的，10块/月左右机场：悠兔（80一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）、 
 3) 有试用：悠兔、大哥云 、Taishan 、Cyanmori、云翼网络、老猫云       
 4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
@@ -49,7 +49,7 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 
 >开业时间：2022    
 老板肉身：墙外      
-入口与过境线路：入口广东。过境IEPL+隧道
+入口与过境线路：入口广东。过境IEPL+隧道公网中转
 节点数目： 35+，后端负载均衡，多种落地      
 协议：Shadowsocks      
 UDP：支持      
@@ -58,7 +58,7 @@ ChatGPT/OpenAI解锁: 基本全解锁
 墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong      
 SSH端口屏蔽：22端口已屏蔽      
 邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
-地区：澳洲、香港、台湾、新加坡、日本、美国、英国、印度、马来西亚、土耳其      
+地区：澳洲、香港、台湾、新加坡、日本、美国、英国、印度、马来西亚、阿根廷、土耳其      
 落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、英国家宽、香港HGC、台湾家宽Hinet、日本软银   
 付款方式：支付宝、微信 、USDT 
 TG频道：有；无群  
@@ -780,7 +780,7 @@ TG电报频道和群组：官网，关注人数：2000+
 
 ## 十五、Taishan-便宜机场推荐(50/年)
 
-便宜公网中转、、，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的，感觉稳定性不够高。
+便宜公网中转，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的，感觉稳定性不够高。
 
 便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
 
@@ -796,7 +796,7 @@ TG电报频道和群组：官网，关注人数：2000+
 
 >开业时间：22年6月以前,新开。怕跑路，就月付。   
 肉身：日本   
-入口与过境线路：公网中转、、
+入口与过境线路：公网中转
 节点数目： 40左右   
 协议：Shadowsocks   
 ip设置数目：不限制   
@@ -1225,10 +1225,10 @@ SSH端口屏蔽：屏蔽22端口
 
 3. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、 Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  、haita
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  、haita
    
     支持SSR协议：翼游   
-    支持Trojan协议：WgetCloud、Nexitally、大哥云、泡泡狗 
+    支持Trojan协议：WgetCloud、Nexitally、大哥云、泡泡狗、SpeedCAT       
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
 
 
@@ -1238,7 +1238,7 @@ SSH端口屏蔽：屏蔽22端口
    审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
 
 
-4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis也有部分冷门节点；
+4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis、悠兔、flyingbird、taishan也有部分冷门节点；
 
 5. **想要家宽**:TAG、悠兔、EdNovas云、Atomlantis
 
