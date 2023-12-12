@@ -21,7 +21,9 @@ Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro、sing-box、有钱的
 IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox     
 Linux：Shell clash、Clash For Windows、clash-verg的Linux版本、sing-box     
-路由器：OpenWRT的OpenClash、passwall    
+路由器：OpenWRT的OpenClash、passwall
+
+https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
