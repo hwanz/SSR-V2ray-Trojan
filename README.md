@@ -16,11 +16,11 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows(停更也可以正常使用)、Clash-verge、V2rayN、Nekoray     
-Mac：Clash For Windows的Mac版本、ClashX、ClashX Pro、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
+>Windows：Clash For Windows(停更也可以正常使用)0、V2rayN、Nekoray     
+Mac：Clash For Windows和Clash-verge-rec的Mac版本、ClashX、ClashX Pro、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
 IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox     
-Linux：Shell clash、Clash For Windows、clash-verg的Linux版本、sing-box     
+Linux：Shell clash、Clash For Windows、clash-verge-rec的Linux版本、sing-box     
 路由器：OpenWRT的OpenClash、passwall
 
 https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
@@ -29,8 +29,8 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：悠兔（80一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）、 
-3) 有试用：悠兔、大哥云 、Taishan 、Cyanmori、云翼网络、老猫云       
+2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（80一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）、 
+3) 有试用：悠兔、大哥云 、贝贝云、Taishan 、Cyanmori、云翼网络、老猫云       
 4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
 
@@ -270,7 +270,63 @@ Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要�
 <img src="https://jichangcesu.com/uploads/jichang/nexitally/流媒体.webp"  width = "95%"   align=center  alt="奶昔机场流媒体" />
 </details>
 
-## 五、Kycloud(150/年120G)          
+
+## 五、贝贝云(9.9/月80G)     
+
+SS协议中转机场，过境大带宽。适合不想人太多的，速度不错。每月9.9起，性价比高。有1小时试用，可以先试用看看。   
+
+
+[贝贝云机场官网地址1](https://beibei.cloud?path=register&code=qwqDFEUW)    
+
+[贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)    
+
+[贝贝云机场官网地址3](https://beibeicloud.shop/#/register?code=qwqDFEUW)     
+
+
+
+>开业时间：2022       
+老板肉身：墙外      
+入口与过境线路：入口江苏      
+节点数目： 20+      
+协议：Shadowsocks      
+UDP：支持      
+限制同时登录ip客户端数目：5个设备      
+ChatGPT/OpenAI解锁: 除香港基本全解锁      
+流媒体：基本支持奈飞和迪士尼      
+墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong      
+SSH端口屏蔽：22端口已屏蔽      
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
+地区：澳洲、香港、台湾、新加坡、日本、美国      
+落地：Hytron、Akari、PoloCloud、nexeon、Eons、Ipxo LLC、香港HGC等      
+付款方式：支付宝、微信、USDT(U支付注意1U手续费)      
+TG频道：有；无群      
+客服：有      
+套餐是否包含手续费：是      
+试用: 有      
+国外能否使用：否      
+家宽：无      
+一键客户端：无      
+客服：有      
+
+
+**套餐(所有套餐节点数目和速度一样)：**
+
+  流量 | 价格 
+:-: | :-: 
+ 80G/月 |月付9.9/季付28.9/半年付55.9/年付99.9
+180G/月 |月付19.9/季付54.9半年付99.9/年付179.9
+280G/月 |月付29.9/季付84.9半年付159.9/年付299.9
+500G/月|月付49.9/季付139.9/半年付269.9/年付499.9
+
+<details>
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/beibei.webp"  width = "90%"  align=center  alt="贝贝云电信测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/beibei/流媒体.webp"  width = "95%"   align=center  alt="贝贝云流媒体" />
+</details>
+
+
+## 六、Kycloud(150/年120G)          
 
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
@@ -326,52 +382,6 @@ Team2 | 2T/月 | 609/季度
 </details>
 
 
-##  六、海獭-haita(8.9/月50G)
-SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
-
-202312：
-中转带宽很大，速度最高可达300M/s, 我这边最大2G带宽达不到，大部分用户家里打开最大可能就1G也足够了。新增了唯云和UCLOUD线路。适合想体验下唯云和UCLOUD的用户。可以月付试试。
-
-
-[Haita机场官网地址1](https://reurl.cc/QZx53q)   
-
-[Haita机场官网地址2](https://haita.io/reguser?aff=VQq8ZO5j)  
-
-
-
->开业时间：2023.11         
-入口：深圳、北京移动、江苏移动、广州移动        
-过境: 公网中转        
-协议：Shadowsocks        
-付款方式：支付宝        
-TG频道和群：无        
-客户端数目：不限制        
-落地ip数量： 23+        
-节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
-ChatGPT/OpenAI解锁: 部分解锁        
-墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
-SSH端口屏蔽：22端口未屏蔽        
-ipv6支持情况：不支持
-
-** 套餐: **
-
-月付套餐： 
-8.99块50G    
-15.99块100G        
-25.99块200G        
-34.99块350G        
-54.99块700G        
-92.99块900G         
-
-
-<details>
-<summary>haita机场测速图和流媒体-点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场晚高峰电信1000M家宽测速" />
- 
-haita机场流媒体检测：
-
- <img src="https://jichangcesu.com/uploads/jichang/haita/流媒体.webp"  width = "90%"  align=center  alt="haita机场流媒体.webp测速" />
-</details>
 
 ##  七、Catnet
 
@@ -580,49 +590,52 @@ F套餐: 50/月，每月500G
 </details>
 
 
-## 十一、Atomlantis(247/年每月50G)
+## 十一、海獭-haita(8.9/月50G)
+SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
-全专线SS协议机场   
+202312：
+中转带宽很大，速度最高可达300M/s, 我这边最大2G带宽达不到，大部分用户家里打开最大可能就1G也足够了。新增了唯云和UCLOUD线路。适合想体验下唯云和UCLOUD的用户。可以月付试试。
 
-过境多种专线：广港专线，深港专线、唯云莞港专线、沪日专线、沪美专线、优刻得沪韩专线、深法专线、京德专线   
 
-落地：Misaka 、Kirino 、Jinx、Atom、Eons、Hinet、Nearoute，不少高端落地，还有Frontier家宽、Sonet家宽      
+[Haita机场官网地址1](https://reurl.cc/QZx53q)   
 
-看得出老板很有实力（钞能力），刚开业就买这么多类型的大带宽专线。其中香港、台湾、新加坡有唯云专线。近期看在增加冷门节点。上线后近期观察了下使用情况，大家评价还不错。因为是开业不久的机场，担心有风险可以先月付体验看看。   
+[Haita机场官网地址2](https://haita.io/reguser?aff=VQq8ZO5j)  
 
-一句话：专线类型多，带宽很大，刚开业不久人少。   
 
-缺点：开业时过于高调，导致日常被ddos，现在停止注册。    
 
-[Atomlantis机场官网1](https://reurl.cc/Myz4R3)   
-[Atomlantis机场官网2](https://suo.st/oKl0HQx)   
+>开业时间：2023.11         
+入口：深圳、北京移动、江苏移动、广州移动        
+过境: 公网中转        
+协议：Shadowsocks        
+付款方式：支付宝        
+TG频道和群：无        
+客户端数目：不限制        
+落地ip数量： 23+        
+节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
+ChatGPT/OpenAI解锁: 部分解锁        
+墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
+SSH端口屏蔽：22端口未屏蔽        
+ipv6支持情况：不支持
 
-[Atomlantis机场官网3](https://atomlantis.cloud/#/register?code=vFVLNyNi)
+** 套餐: **
 
->开业时间：2023.09.02  
-屏蔽情况：轮媒和pingcong  
-22端口：未屏蔽    
-流媒体解锁也是一流的  
-付款方式：支付宝、微信  
-UDP：基本支持Full-Cone NAT  
-落地ip数量： 70  
-ChatGPT/OpenAI解锁: 全解锁
-TG频道和群：无     
-<a href="https://jichangcesu.com/高端机场推荐-Atomlantis机场怎么样.html" target="_blank">Atomlantis机场拓扑结构流媒体检测和历史测速结果合集与用户评价</a>
-
-**套餐：**
-248块/年，每月50G，IPLC线路    
-36.98块/月，每月200G，IPLC线路     
-110块/月，每月500G，IPLC线路     
+月付套餐： 
+8.99块50G    
+15.99块100G        
+25.99块200G        
+34.99块350G        
+54.99块700G        
+92.99块900G         
 
 
 <details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/atomlantis.webp"  width = "100%"   align=center   />
-<img src="https://jichangcesu.com/uploads/jichang/atomlantis/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
-</details>
+<summary>haita机场测速图和流媒体-点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场晚高峰电信1000M家宽测速" />
+ 
+haita机场流媒体检测：
 
+ <img src="https://jichangcesu.com/uploads/jichang/haita/流媒体.webp"  width = "90%"  align=center  alt="haita机场流媒体.webp测速" />
+</details>
 
 
 
@@ -1215,7 +1228,7 @@ SSH端口屏蔽：屏蔽22端口
 
      1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
     
-    **10块/月以下**：大哥云(69/季200G/月)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
+    **10块/月以下**：贝贝云(9.9/月)、大哥云(69/季200G/月)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)、haita((15.99/100G))
     
@@ -1232,7 +1245,7 @@ SSH端口屏蔽：屏蔽22端口
 
 3. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  、haita
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  、haita、贝贝云
    
     支持SSR协议：翼游   
     支持Trojan协议：WgetCloud、Nexitally、大哥云、泡泡狗、SpeedCAT       
@@ -1263,7 +1276,7 @@ SSH端口屏蔽：屏蔽22端口
 
 12.  有退款服务：EdNovas云、Just my sock、RelayCloud、老猫云
 
-13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis、老猫云    
+13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis、老猫云、贝贝云、    
 
 14.  需要emby：TAG 和ednovas。都是nsfw的
 
