@@ -590,7 +590,51 @@ F套餐: 50/月，每月500G
 </details>
 
 
-## 十一、海獭-haita(8.9/月50G)
+## 十一、Cyanmori(20/月160G)
+
+青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
+
+[官网1](https://reurl.cc/gax4GX)    
+
+[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
+
+>开业时间：2022年04月以前 
+入口 ：武汉     
+过境: 公网隧道    
+协议：Shadowsocks    
+UDP：基本支持Full-Cone    
+客户端数目：3-10个    
+落地ip数量： 30+    
+ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
+墙外新闻网站屏蔽情况：轮媒    
+SSH端口屏蔽：未屏蔽22端口    
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
+落地：甲骨文、DMIT、G-core、misaka等    
+TG频道和群组：有，群人数3000+    
+付款方式：支付宝、微信支付    
+套餐价格是否包含手续费：包含    
+<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
+
+套餐(所有套餐节点一样): 
+
+套餐 |  流量 | 价格  | 设备数 
+:-:  | :-: | :-:   | :-:  
+A | 160G/月 | 20/月| 3
+A+ | 480G/季 | 54季 | 3
+B | 370G/月 | 30/月  | 5  
+B+ | 1110G/季 | 81/季  | 5
+C | 810G/年 | 50/月 | 10  
+C+ | 2430G/年 | 135/季 | 10  
+Plan A | 160G/月 | 85/季度  | 无限设备
+
+<details>
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
+<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
+</details>
+
+
+## 十二、海獭-haita(8.9/月50G)
 SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
 202312：
@@ -641,48 +685,6 @@ haita机场流媒体检测：
 
 
 
-## 十二、Cyanmori(20/月160G)
-
-青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
-
-[官网1](https://reurl.cc/gax4GX)    
-
-[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
-
->开业时间：2022年04月以前 
-入口 ：武汉     
-过境: 公网隧道    
-协议：Shadowsocks    
-UDP：基本支持Full-Cone    
-客户端数目：3-10个    
-落地ip数量： 30+    
-ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
-墙外新闻网站屏蔽情况：轮媒    
-SSH端口屏蔽：未屏蔽22端口    
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
-落地：甲骨文、DMIT、G-core、misaka等    
-TG频道和群组：有，群人数3000+    
-付款方式：支付宝、微信支付    
-套餐价格是否包含手续费：包含    
-<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
-
-套餐(所有套餐节点一样): 
-
-套餐 |  流量 | 价格  | 设备数 
-:-:  | :-: | :-:   | :-:  
-A | 160G/月 | 20/月| 3
-A+ | 480G/季 | 54季 | 3
-B | 370G/月 | 30/月  | 5  
-B+ | 1110G/季 | 81/季  | 5
-C | 810G/年 | 50/月 | 10  
-C+ | 2430G/年 | 135/季 | 10  
-Plan A | 160G/月 | 85/季度  | 无限设备
-
-<details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
-<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
-</details>
 
 
 
