@@ -426,58 +426,50 @@ SSH端口屏蔽：已经屏蔽22端口
 </details> 
 
 
+## 八、Cyanmori(20/月160G)
 
-## 八、Sayss(100块/季150G)
+青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
 
-Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
+[官网1](https://reurl.cc/gax4GX)    
 
+[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
 
-[Sayss机场官网1](https://reurl.cc/DoOoN5)  
+>开业时间：2022年04月以前 
+入口 ：武汉     
+过境: 公网隧道    
+协议：Shadowsocks    
+UDP：基本支持Full-Cone    
+客户端数目：3-10个    
+落地ip数量： 30+    
+ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
+墙外新闻网站屏蔽情况：轮媒    
+SSH端口屏蔽：未屏蔽22端口    
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
+落地：甲骨文、DMIT、G-core、misaka等    
+TG频道和群组：有，群人数3000+    
+付款方式：支付宝、微信支付    
+套餐价格是否包含手续费：包含    
+<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
 
-[Sayss机场官网2](https://suo.st/k21dIwt)   
-  
-[Sayss机场官网3](https://www.epaybc.com/#/register/yv7SoTwk)  
+套餐(所有套餐节点一样): 
 
-
->开业时间：21年7月以前，具体不知道。不认识老板     
-肉身：官网右下角问老板说是在外。具体不详   
-入口与过境线路：广港IEPL专线+Ucloud的UDPN，入口广州移动、深圳移动、   
-节点数目： 26   
-协议：Shadowsocks  
-ip设置数目：不限制  
-UDP：支持  
-付款方式：支付宝、微信  
-ChatGPT/OpenAI解锁: 除了香港基本全解锁    
-地区：土耳其、印度、香港、菲律宾、德国、美国、英国、法国、日本、阿根廷、韩国、加拿大、台湾、新加坡、马来西亚、澳大利亚、越南   
-落地提供商：看拓扑、啥都有   
-屏蔽情况：屏蔽新闻网站较少   
-SSH端口屏蔽：22端口未屏蔽   
-邮件传统协议smtp/pop3/imap：未禁止 
-TG频道和群：有，群禁言了  
-客服：有，应该就是老板    
-小白一键客户端: 有，windows  
-退款：不支持  
-推荐指数：4星，适合需要稳定的机场，不想审计太多的用户。   
-<a href="https://jichangcesu.com/Sayss%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
-
-套餐：
-
-套餐 |  流量 | 价格 
-:-: |  :-: | :-: 
-Basic | 150G/月 |100/季;190/半年;340/年
-Standard | 300G/月 |65/月;146/季;290/半年;540/年
-Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
-
-按量：
-1064G永久时间 ，一次性700块
-2048G永久时间 ，一次性1200块
+套餐 |  流量 | 价格  | 设备数 
+:-:  | :-: | :-:   | :-:  
+A | 160G/月 | 20/月| 3
+A+ | 480G/季 | 54季 | 3
+B | 370G/月 | 30/月  | 5  
+B+ | 1110G/季 | 81/季  | 5
+C | 810G/年 | 50/月 | 10  
+C+ | 2430G/年 | 135/季 | 10  
+Plan A | 160G/月 | 85/季度  | 无限设备
 
 <details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
-<img src="https://jichangcesu.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
+<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
 </details>
+
+
 
 
 ## 九、SpeedCAT(20/月100G) 
@@ -537,6 +529,57 @@ TG电报频道：官网，关注人数：1000+；群禁言
 
 
 
+## 十、Sayss(100块/季150G)
+
+Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
+
+
+[Sayss机场官网1](https://reurl.cc/DoOoN5)  
+
+[Sayss机场官网2](https://suo.st/k21dIwt)   
+  
+[Sayss机场官网3](https://www.epaybc.com/#/register/yv7SoTwk)  
+
+
+>开业时间：21年7月以前，具体不知道。不认识老板     
+肉身：官网右下角问老板说是在外。具体不详   
+入口与过境线路：广港IEPL专线+Ucloud的UDPN，入口广州移动、深圳移动、   
+节点数目： 26   
+协议：Shadowsocks  
+ip设置数目：不限制  
+UDP：支持  
+付款方式：支付宝、微信  
+ChatGPT/OpenAI解锁: 除了香港基本全解锁    
+地区：土耳其、印度、香港、菲律宾、德国、美国、英国、法国、日本、阿根廷、韩国、加拿大、台湾、新加坡、马来西亚、澳大利亚、越南   
+落地提供商：看拓扑、啥都有   
+屏蔽情况：屏蔽新闻网站较少   
+SSH端口屏蔽：22端口未屏蔽   
+邮件传统协议smtp/pop3/imap：未禁止 
+TG频道和群：有，群禁言了  
+客服：有，应该就是老板    
+小白一键客户端: 有，windows  
+退款：不支持  
+推荐指数：4星，适合需要稳定的机场，不想审计太多的用户。   
+<a href="https://jichangcesu.com/Sayss%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
+
+套餐：
+
+套餐 |  流量 | 价格 
+:-: |  :-: | :-: 
+Basic | 150G/月 |100/季;190/半年;340/年
+Standard | 300G/月 |65/月;146/季;290/半年;540/年
+Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
+
+按量：
+1064G永久时间 ，一次性700块
+2048G永久时间 ，一次性1200块
+
+<details>
+<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+以下为精品套餐节点晚高峰测速：
+<img src="https://jichangcesu.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
+<img src="https://jichangcesu.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
+</details>
 
 
 
@@ -545,8 +588,7 @@ TG电报频道：官网，关注人数：1000+；群禁言
 
 
 
-
-## 十、老猫云(15/月50G)
+## 十一、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
@@ -556,8 +598,8 @@ IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接�
 [官网1](https://suo.st/t1mfXFF)
 
 
-[官网3](https://laomaoyun.net/#/register?code=i0Vv9N5R)
-
+[官网3](https://laomao.biz/?path=register&code=i0Vv9N5R)
+ 
 
 
 >开业时间：主站是2017年开的，很少开了7年的机场  
@@ -594,48 +636,6 @@ F套餐: 50/月，每月500G
 </details>
 
 
-## 十一、Cyanmori(20/月160G)
-
-青森云，SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
-
-[官网1](https://reurl.cc/gax4GX)    
-
-[官网2](https://sub.cccc.gg/auth/register?code=Z2ljGK)  
-
->开业时间：2022年04月以前 
-入口 ：武汉     
-过境: 公网隧道    
-协议：Shadowsocks    
-UDP：基本支持Full-Cone    
-客户端数目：3-10个    
-落地ip数量： 30+    
-ChatGPT/OpenAI解锁/奈飞/迪士尼: 基本解锁    
-墙外新闻网站屏蔽情况：轮媒    
-SSH端口屏蔽：未屏蔽22端口    
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、印度、德国、澳洲、迪拜    
-落地：甲骨文、DMIT、G-core、misaka等    
-TG频道和群组：有，群人数3000+    
-付款方式：支付宝、微信支付    
-套餐价格是否包含手续费：包含    
-<a href="https://jichangcesu.com/cyanmori青森云机场怎么样.html" target="_blank">拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集</a>
-
-套餐(所有套餐节点一样): 
-
-套餐 |  流量 | 价格  | 设备数 
-:-:  | :-: | :-:   | :-:  
-A | 160G/月 | 20/月| 3
-A+ | 480G/季 | 54季 | 3
-B | 370G/月 | 30/月  | 5  
-B+ | 1110G/季 | 81/季  | 5
-C | 810G/年 | 50/月 | 10  
-C+ | 2430G/年 | 135/季 | 10  
-Plan A | 160G/月 | 85/季度  | 无限设备
-
-<details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
-<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
-</details>
 
 
 ## 十二、海獭-haita(8.9/月50G)
@@ -744,65 +744,7 @@ TG频道：有，群组：无
 <img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
-## 十四、云翼网络(22.8/月108G)  
-
-公网隧道中转ss机场，可1块试用一天5G流量。也比较低调，从群里的群员的反应和测速结果看得出来，整体稳定性和速度还不错的。
-
-
-[云翼网络机场官网1](https://reurl.cc/7MV79d)   
-
-
-[云翼网络机场官网1](https://reurl.cc/v6onZo)
-
-[云翼网络机场官网2](https://yypro01.pro/auth/register?code=nhnB)
-
-
-
-
-
->开业时间：2018      
-入口与过境线路：公网中转      
-节点数目：37+      
-协议：Shadowsocks      
-UDP：支持      
-ChatGPT/OpenAI解锁: 全节点解锁      
-墙外新闻网站屏蔽情况：屏蔽轮媒、pincong      
-SSH端口屏蔽：22端口已经屏蔽      
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
-地区：俄罗斯、印度、土耳其、巴基斯坦、巴西泰国、澳洲、菲律宾、阿根廷、韩国、香港、台湾、新加坡、日本、美国、英国      
-付款方式：支付宝、微信      
-套餐价格是否包含手续费：微信支付支付不包含      
-TG电报频道和群组：官网，关注人数：2000+      
-试用: 一天5G      
-国外能否使用：否      
-<a href="https://jichangcesu.com/专线ss机场推荐之云翼网络历史测速结果.html" target="_blank">云翼网络ChatGPT、流媒体历史测速结果合集</a>      
-
-
-
-套餐(所有套餐节点一样):     
-
-试用：1块1天5G    
-
-套餐 |  流量 | 价格 | 设备数 
-:-: |  :-: | :-: | :-: 
-标准 | 108G/月 |22.8/月 | 4
-高级 | 198GG/月 |32.8/月 | 4
-终极 | 520G/月 |89.8/月 | 10
-全年一次性648G | 648G/年 |188/年 |  3
-全年一次性1398G |1398G/年 |328/年 | 4
-全年一次性3288G | 3288G/年 |688/年 | 6
-
-
-<details>
- <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/yunyi.webp"  width = "90%"   align=center  alt="机场推荐之云翼网络机场晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/yunyi/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之云翼网络机场流媒体" />
-</details>
-
-
-
-## 十五、Taishan-便宜机场推荐(50/年)
+## 十四、Taishan-便宜机场推荐(50/年)
 
 便宜公网中转，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的，感觉稳定性不够高。
 
@@ -839,25 +781,21 @@ TG频道和群：有
 试用：1天5G    
 [taishan机场怎么样》更多详情](https://jichanggo.com/taishan%e6%9c%ba%e5%9c%ba%e6%80%8e%e4%b9%88%e6%a0%b7-%e4%be%bf%e5%ae%9c%e6%9c%ba%e5%9c%ba%e6%8e%a8%e8%8d%90 "taishan机场怎么样》更多详情")
 
+
 套餐：
 
 流量 | 价格 
 :-: | :-: 
-套餐：
-
-流量 | 价格 
-:-: | :-: 
-64G/月 |6/月;16/季;30/半年;50/年 
-128G/月 |10/月;27/季;50/半年;84/年 
+64G/月 |8.5/月;21/季;38/半年;60/年
+128G/月 |10/月;27/季;50/半年;84/年
 256G/月 |18/月;48/季;90/半年;150/年
 512G/月 |32/月;86/季;160/半年;268/年
 
 
 按量不限时：
-150G永久时间，一次性25块
+150G永久时间，一次性27块
 500G永久时间，一次性65块
 1000G永久时间，一次性120块
-
 
 <details>
 
