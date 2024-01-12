@@ -946,7 +946,64 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十七、大哥云(19.8/月100G)           
+
+
+
+
+
+
+## 十七、芬达(12.8/月88G)  
+
+
+全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
+
+[芬达机场官网1](https://reurl.cc/dmaL0M)     
+ 
+[芬达机场官网2](https://suo.yt/B9SCB5h)       
+
+[芬达机场官网3](https://fenda.cloud/auth/register?code=BkFF)   
+
+
+
+>开业时间：2021         
+老板肉身：北美(确定)         
+过境：IEPL专线中转         
+入口ip数量：2         
+协议：Shadowsocks         
+UDP：支持         
+ChatGPT/OpenAI解锁: 全解锁         
+墙外新闻网站屏蔽情况：屏蔽轮媒         
+SSH端口屏蔽：未屏蔽22端口         
+邮件传统协议smtp/pop3/imap：未禁止         
+落地：美国、台湾、新加坡、日本、香港、韩国         
+一键使用客户端： 有         
+TG频道和群组：无         
+付款方式：支付宝         
+套餐价格是否包含手续费：包含         
+国外能否使用：否         
+<a href="https://jichangcesu.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
+
+
+**套餐(所有套餐节点一样):**
+
+套餐 |  流量 | 价格 |客户端数目 
+:-:  | :-: | :-: | :-:
+基础月付 | 88G/月 | 12.8块/月 | 3   
+进阶月付 | 188G/月 | 22.8块/月 | 4   
+旗舰月付 | 288G/月 | 32.8块/月 | 6   
+
+
+<details>
+
+<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
+</details>
+
+
+
+## 十八、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
@@ -994,60 +1051,6 @@ TG频道和群组：有，1500人+，群组人数3000+
 <img src="https://jichangcesu.com/uploads/vpn/dage.webp"  width = "90%"  align=center  alt="大哥云晚高峰电信测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/dage/流媒体.webp"  width = "95%"   align=center  alt="dage流媒体" />
-</details>
-
-
-
-
-
-
-## 十八、芬达(12.8/月88G)  
-
-
-全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
-
-[芬达机场官网1](https://reurl.cc/dmaL0M)     
- 
-[芬达机场官网2](https://suo.yt/B9SCB5h)       
-
-[芬达机场官网3](https://fenda.cloud/auth/register?code=BkFF)   
-
-
-
->开业时间：2021         
-老板肉身：北美(确定)         
-过境：IEPL专线中转         
-入口ip数量：2         
-协议：Shadowsocks         
-UDP：支持         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：未屏蔽22端口         
-邮件传统协议smtp/pop3/imap：未禁止         
-落地：美国、台湾、新加坡、日本、香港、韩国         
-一键使用客户端： 有         
-TG频道和群组：无         
-付款方式：支付宝         
-套餐价格是否包含手续费：包含         
-国外能否使用：否         
-<a href="https://jichangcesu.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
-
-
-**套餐(所有套餐节点一样):**
-
-套餐 |  流量 | 价格 |客户端数目 
-:-:  | :-: | :-: | :-:
-基础月付 | 88G/月 | 12.8块/月 | 3   
-进阶月付 | 188G/月 | 22.8块/月 | 4   
-旗舰月付 | 288G/月 | 32.8块/月 | 6   
-
-
-<details>
-
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
 </details>
 
 
@@ -1115,11 +1118,8 @@ TG频道和群组：已私有
 近期慢慢恢复了。之前被打，新机场主接手后在处理恢复。解锁没之前好了。新老板肉身在外。 等完全恢复再买。     
 建议使用他家客户端使用。      
 
-[泡泡狗机场1](https://reurl.cc/gaR4DL)     
 
-[泡泡狗机场2](https://suo.st/vCoWOyF)    
-
-[泡泡狗机3](https://www.paopao.dog/#/register?code=XLZnckjD)      
+[泡泡狗](https://www.paopao.dog/#/register?code=XLZnckjD)      
 
 
 
