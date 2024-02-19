@@ -95,7 +95,7 @@ TG频道：有；无群
 
 
 <details>
- <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+ <summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu电信家宽测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/youtu/流媒体.webp"  width = "95%"   align=center  alt="Youtu流媒体" />
@@ -225,7 +225,7 @@ TG频道群组：无，主要使用邮件通知
 
 
 <details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+<summary>测速图和流媒体详情，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
 <img src="https://jichangcesu.com/uploads/vpn/gacloud.webp"  width = "90%"   align=center  alt="WgetCloud晚高峰电信1000M家宽测速" />
 流媒体：
@@ -268,7 +268,7 @@ smtp邮件端口: 屏蔽
 Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要在购买Smart Access的基础上才能用。
 
 <details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+<summary>测速图和流媒体详情，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
 <img src="https://jichangcesu.com/uploads/vpn/nexitally"  width = "90%"   align=center  alt="奶昔机场晚高峰电信1000M家宽测速" />
 流媒体：
@@ -323,7 +323,7 @@ TG频道：有；无群
 500G/月|月付49.9/季付139.9/半年付269.9/年付499.9
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/beibei.webp"  width = "90%"  align=center  alt="贝贝云电信测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/beibei/流媒体.webp"  width = "95%"   align=center  alt="贝贝云流媒体" />
@@ -469,7 +469,7 @@ C+ | 2430G/年 | 135/季 | 10
 Plan A | 160G/月 | 85/季度  | 无限设备
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
 <img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
 </details>
@@ -521,7 +521,7 @@ TG电报频道：官网，关注人数：1000+；群禁言
 * 飞天猫大流量年付:1499/年,5000GB/年
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图和流媒体，点击展开</summary>
 南方电信测速结果
 <img src="https://jichangcesu.com/uploads/vpn/speedcat.webp"  width = "90%"   align=center  alt="晚高峰家宽测速" />
 流媒体检测：
@@ -531,10 +531,57 @@ TG电报频道：官网，关注人数：1000+；群禁言
 
 
 
+## 十、龙猫云(15/月100G)
+
+专线中转机场。观察挺久，感觉速度都挺好。  
+
+注意：speedcat、龙猫云、Flyingbird应该是相同线路类型。  
+
+
+[龙猫云机场官网地址1](https://suo.st/zhKkwfK)
+
+[龙猫云机场官网地址2](https://totorocloud.cc/register?aff=Qb502cPh)
 
 
 
-## 十、Sayss(100块/季150G)
+>开业时间：2022  
+入口：3  
+肉身：老板说是在外      
+过境线路：专线      
+节点数目： 67      
+协议：Shadowsocks      
+ip设置数目：不限制      
+付款方式：支付宝、微信      
+ChatGPT/OpenAI解锁: 全节点解锁      
+墙外新闻网站屏蔽情况：基本不屏蔽      
+SSH端口屏蔽：屏蔽22端口      
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
+地区：香港、日本、马来西亚、新加坡、美国、台湾、土耳其、阿根廷      
+落地： Hytron、Akari、Oracle      
+TG电报频道：机场官网，关注人数：1000+;群禁言      
+付款方式：支付宝、微信      
+套餐价格是否包含手续费：包含      
+国外能否使用：可以，具体咨询客户与站长      
+小白一键客户端: 无      
+      
+** 套餐: **
+
+月付套餐：      
+15块100G      
+30块200G      
+60块400G      
+120块1000G      
+
+<details>
+<summary>测速图和流媒体，点击展开</summary>
+南方电信测速结果
+<img src="https://jichangcesu.com/uploads/vpn/totorocloud.webp"  width = "90%"   align=center  alt="机场推荐之totorocloud机场测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/totorocloud/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之totorocloud机场流媒体" />
+</details> 
+
+
+## 十一、Sayss(100块/季150G)
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
@@ -580,7 +627,7 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 2048G永久时间 ，一次性1200块
 
 <details>
-<summary>测速图、拓扑结构检测详情资料，点击展开</summary>
+<summary>测速图详情资料，点击展开</summary>
 以下为精品套餐节点晚高峰测速：
 <img src="https://jichangcesu.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
 <img src="https://jichangcesu.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
@@ -593,7 +640,7 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 
 
 
-## 十一、老猫云(15/月50G)
+## 十二、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
@@ -634,7 +681,7 @@ F套餐: 50/月，每月500G
 
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/laomao/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之老猫云流媒体" />
@@ -643,7 +690,7 @@ F套餐: 50/月，每月500G
 
 
 
-## 十二、海獭-haita(8.9/月50G)
+## 十三、海獭-haita(8.9/月50G)
 SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
 202312：
@@ -698,7 +745,7 @@ haita机场流媒体检测：
 
 
 
-## 十三、Flyingbird(15/月100G)           
+## 十四、Flyingbird(15/月100G)           
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
@@ -743,13 +790,13 @@ TG频道：有，群组：无
 
 
 <details>
-<summary>测速图和流媒体、拓扑结构，点击展开</summary>
+<summary>测速图和流媒体点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
-## 十四、Taishan-便宜机场推荐(60/年)
+## 十五、Taishan-便宜机场推荐(60/年)
 
 便宜公网中转，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的，感觉稳定性不够高。
 
@@ -804,13 +851,13 @@ TG频道和群：有
 
 <details>
 
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/taishan.webp"  width = "90%"   align=center  alt="便宜机场推荐taishan晚高峰电信1000M家宽测速" />
 </details>
 
 
 
-##  十五、EdNovas云(10/月50G)  
+##  十六、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -874,7 +921,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十六、Just my sock(5.8刀/月108G)  
+## 十七、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -957,7 +1004,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十七、芬达(12.8/月88G)  
+## 十八、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -1000,7 +1047,7 @@ TG频道和群组：无
 
 <details>
 
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
@@ -1008,7 +1055,7 @@ TG频道和群组：无
 
 
 
-## 十八、大哥云(19.8/月100G)           
+## 十九、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
@@ -1052,7 +1099,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/dage.webp"  width = "90%"  align=center  alt="大哥云晚高峰电信测速" />
 流媒体检测：
 <img src="https://jichangcesu.com/uploads/jichang/dage/流媒体.webp"  width = "95%"   align=center  alt="dage流媒体" />
@@ -1060,111 +1107,6 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-
-
-## 十九、泡泡狗
-
-近期慢慢恢复了。之前被打，新机场主接手后在处理恢复。解锁没之前好了。新老板肉身在外。 等完全恢复再买。     
-建议使用他家客户端使用。      
-
-
-[泡泡狗](https://www.paopao.dog/#/register?code=XLZnckjD)      
-
-
-
->开业时间：2022.04      
-协议：Trojan      
-付款方式：支付宝、微信、加密货币      
-UDP：基本支持Full-Cone NAT      
-TG电报频道和群组：官网，关注人数：4000+      
-客户端数目：不限制      
-落地ip数量： 70+      
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、阿根廷、土耳其、印度、马来西亚、俄罗斯、墨西哥、埃及      
-ChatGPT/OpenAI解锁: 部分解锁      
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong, 特殊用途节点不屏蔽      
-SSH端口屏蔽：屏蔽22端口      
-邮件传统协议smtp/pop3/imap：禁止（用各家邮箱官方APP和网页不影响）      
-按量付费：有      
-专门客服：有      
-一键客户端：有   
-
-**套餐（套餐价格不包含手续费）: **
-
-月付套餐：
-
-* 8.8/月 70G流量         
-* 12.5/月 110G流量         
-* 20/月 210G流量         
-* 45/月 600G流量         
-
-不限时套餐,一次性流量：      
-100块600G；210块1500G；260块2000G；      
-
-<details>
- <summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-测速图:
-<img src="https://jichangcesu.com/uploads/vpn/paopaodog.webp"  width = "90%"   align=center  alt="机场推荐之泡泡狗机场晚高峰电信1000M家宽测速" />
- 
-流媒体检测：
- 
-<img src="https://jichangcesu.com/uploads/jichang/paopaodog/流媒体.webp"  width = "90%"   align=center  alt="机场推荐之泡泡狗机场流媒体" />
-</details> 
-
-
-
-
-## 二十、翼游/Yiyo(10/月50G)  
-
-ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白一键使用客户端。 也有海外节点(给在外国的人用的)
-如果打不开请切换为全局代理。人数不少了。         
-
-
-[翼游Yiyo机场官网1](https://suo.yt/f1Xz90e)    
-
-[翼游Yiyo机场官网2,需要代理](https://bit.ly/3Fpai71)     
-
-[翼游Yiyo机场官网3](https://ddjppt.xyz/auth/register?code=KT8O)
-
-
-
->开业时间：2019         
-老板肉身：北美(确定)         
-入口ip：  广州、海南         
-协议：ShadowsocksR +Trojan         
-UDP：支持         
-大陆外能使用：是，用海外专用节点，购买套餐包括海外直连节点         
-节点数目：40+         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：未屏蔽22端口         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-落地：美国、台湾、新加坡、日本、香港         
-小白客户端：Windows+Mac+安卓         
-专门客服：有         
-TG频道和群组：已私有         
-付款方式：支付宝         
-套餐价格是否包含手续费：包含         
-<a href="https://jichangcesu.com/yiyo历史测速结果整合.html" target="_blank">翼游Yiyo拓扑结构检测和流媒体和ChatGPT解锁情况、历史测速结果合集</a>
-
-**套餐(所有套餐节点一样):**
-
-流量 | 价格 |客户端数目 
-:-: | :-: | :-: 
-50G/月 |10块/月 | 2
-10G/月 |18块/月 | 3
-300G/月 |28块/月 | 5
-500G/月 |38块/月 | 6
-1000G/月 |78块/月 | 18
-2000G/月 |98块/月 | 18
-
-
-<details>
-
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/yiyo.webp"  width = "90%"   align=center  alt="翼游Yiyo晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/yiyo/流媒体.webp"  width = "95%"   align=center  alt="翼游Yiyo流媒体" />
-</details>
 
 
 
