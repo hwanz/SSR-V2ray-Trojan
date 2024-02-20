@@ -1123,7 +1123,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
      1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
     
-    **10块/月以下**：贝贝云(9.9/月)、大哥云(69/季200G/月)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
+    **10块/月以下**：贝贝云(9.9/月)、大哥云(69/季200G/月)、EdNovas云(10块/每月50G)
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)、haita((15.99/100G))
     
@@ -1132,23 +1132,21 @@ TG频道和群组：有，1500人+，群组人数3000+
     **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
     
      2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、 大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、STC-SERVER(0.8块/G，8块起买)、Taishan(150G永久时间 ，一次性15块)
+       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、 大哥云(88/年，15G/月)、EdNovas云(150/年200G)、STC-SERVER(0.8块/G，8块起买)、Taishan(150G永久时间 ，一次性15块)
     
      3)**需要1T起大流量月付套餐**：
-       悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
-
+       悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)
 
 3. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Taishan、Atomlantis、Cyanmori  、haita、贝贝云
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Atomlantis、Cyanmori  、haita、贝贝云
    
-    支持SSR协议：翼游   
     支持Trojan协议：WgetCloud、Nexitally、大哥云、泡泡狗、SpeedCAT       
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan、Atomlantis 、Cyanmori 、老猫云、haita       
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Atomlantis 、Cyanmori 、老猫云、haita       
    可用第三方软件发邮件：Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
    审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
 
@@ -1157,21 +1155,21 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 5. **想要家宽**:TAG、悠兔、EdNovas云、Atomlantis
 
-6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**：悠兔、Kycloud、EdNovas云、飞鸟、Taishan。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
+6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**：悠兔、Kycloud、EdNovas云、飞鸟。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
 
-7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、大哥云、EdNovas云、Taishan
+7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、大哥云、EdNovas云
 
-8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、芬达、翼游、Sayss、泡泡狗   
+8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、芬达、Sayss、泡泡狗   
 
 9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、飞鸟
 
-10. **相同线路**：tag、kycloud如果炸看，会一起炸。别买相同线路的做备用
+10. **相同线路**：tag和奶昔如果炸看，会一起炸。speedcat 、龙猫云和飞鸟相同线路。别买相同线路的做备用
 
 11.  需要回国线路：EdNovas云
 
-12.  有退款服务：EdNovas云、Just my sock、RelayCloud、老猫云
+12.  有退款服务：EdNovas云、Just my sock、老猫云
 
-13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、Atomlantis、老猫云、贝贝云、    
+13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、老猫云、贝贝云、    
 
 14.  需要emby：TAG 和ednovas。都是nsfw的
 
