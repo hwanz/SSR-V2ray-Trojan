@@ -538,9 +538,9 @@ TG电报频道：官网，关注人数：1000+；群禁言
 注意：speedcat、龙猫云、Flyingbird应该是相同线路类型。  
 
 
-[龙猫云机场官网地址1](https://suo.st/zhKkwfK)
+[龙猫云机场官网地址1](https://suo.st/zE7dAUT)
 
-[龙猫云机场官网地址2](https://totorocloud.cc/register?aff=Qb502cPh)
+[龙猫云机场官网地址2](https://linkdyv1.lmsub.com/#/register?code=Qb502cPh)
 
 
 
