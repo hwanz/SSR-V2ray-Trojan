@@ -335,12 +335,12 @@ TG频道：有；无群
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
 
-[Flyingbird机场官网1](https://reurl.cc/9Rn7oO)   
 
-[Flyingbird机场官网2](https://suo.st/LtzIHn1)   
+[kycloud机场官网1](https://reurl.cc/80LkgX) 
 
-[Flyingbird机场官网3](https://honven20.flyb-aff01.com/auth/register?code=f34i)   
+[kycloud机场官网2](https://suo.st/27wgsFR) 
 
+[kycloud机场官网3](https://my.cloudn.cc/aff.php?aff=s40961)
 
 
 >开业时间：2017年         
