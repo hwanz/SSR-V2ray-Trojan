@@ -30,7 +30,7 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
 2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（80一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）、 
-3) 有试用：悠兔、大哥云 、贝贝云、Taishan 、Cyanmori、云翼网络、老猫云       
+3) 有试用：大哥云 、Taishan 、Cyanmori、老猫云       
 4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
 
@@ -38,7 +38,7 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 ## 一、悠兔(150年/200G)
 
-某大佬机场的IEPL专线+隧道中转SS协议机场，广东入口，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。有免费试用，好不好用适不适合你的网络环境试用就知道了。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。需要专属线路、大流量套餐可以开工单找机场主定制。8折优惠码：888，每个用户仅限使用一次。
+某大佬机场的IEPL专线+隧道中转SS协议机场，广东入口，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。需要专属线路、大流量套餐可以开工单找机场主定制。8折优惠码：888，每个用户仅限使用一次。
 
 
 [悠兔机场官网地址1](https://youtunice.com?path=register&code=3CxiqyOc)     
@@ -72,7 +72,6 @@ SSH端口屏蔽：22端口已屏蔽
 TG频道：有；无群  
 客服：有   
 套餐是否包含手续费：是   
-试用: 有      
 国外能否使用：否
 此机场适合推荐人群： 稳定且无特殊需求
 小白一键客户端: 有，windows+Mac+安卓
@@ -278,7 +277,7 @@ Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要�
 
 ## 五、贝贝云(9.9/月80G)     
 
-SS协议中转机场，过境大带宽。适合不想人太多的，速度不错。每月9.9起，性价比高。有1小时试用，可以先试用看看。95折优惠码,只能使用一次： beibei.cloud     
+SS协议中转机场，过境大带宽。适合不想人太多的，速度不错。每月9.9起，性价比高。95折优惠码,只能使用一次： beibei.cloud     
 
 
 [贝贝云机场官网地址1](https://beibei.cloud?path=register&code=qwqDFEUW)    
@@ -307,7 +306,6 @@ SSH端口屏蔽：22端口已屏蔽
 TG频道：有；无群      
 客服：有      
 套餐是否包含手续费：是      
-试用: 有      
 国外能否使用：否      
 家宽：无      
 一键客户端：无      
@@ -1083,35 +1081,35 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 3. **协议分类：**
    
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Atomlantis、Cyanmori  、haita、贝贝云
+    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Cyanmori  、haita、贝贝云
    
-    支持Trojan协议：WgetCloud、Nexitally、大哥云、泡泡狗、SpeedCAT       
+    支持Trojan协议：WgetCloud、Nexitally、大哥云、SpeedCAT       
     支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Atomlantis 、Cyanmori 、老猫云、haita       
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达 、Cyanmori 、老猫云、haita       
    可用第三方软件发邮件：Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
    审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
 
 
-4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、Atomlantis、悠兔、flyingbird、taishan也有部分冷门节点；
+4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、悠兔、flyingbird、taishan也有部分冷门节点；
 
-5. **想要家宽**:TAG、悠兔、EdNovas云、Atomlantis
+5. **想要家宽**:TAG、EdNovas云
 
 6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**：悠兔、Kycloud、EdNovas云、飞鸟。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
 
 7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、大哥云、EdNovas云
 
-8. **方便小白需要一键使用客户端的**：悠兔、Atomlantis、Nexitally、WgetCloud 、EdNovas云、大哥云、芬达、Sayss、泡泡狗   
+8. **方便小白需要一键使用客户端的**：悠兔、贝贝云、Nexitally、WgetCloud 、EdNovas云、大哥云、芬达、Sayss    
 
-9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、飞鸟
+9. **大陆外用户可以使用**：TAG国际站、kycloud、飞鸟
 
-10. **相同线路**：tag和奶昔如果炸看，会一起炸。speedcat 、龙猫云和飞鸟相同线路。别买相同线路的做备用
+10. **相同线路**：tag和奶昔如果炸，会一起炸。speedcat 、龙猫云和飞鸟相同线路。别买相同线路的做备用
 
 11.  需要回国线路：EdNovas云
 
-12.  有退款服务：EdNovas云、Just my sock、老猫云
+12.  有退款服务：EdNovas云、Just my sock、老猫云、悠兔
 
 13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、老猫云、贝贝云、    
 
