@@ -1013,7 +1013,7 @@ TG频道和群组：无
 <img src="https://jichangcesu.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
 </details>
 
-
+<!-- 
 
 ## 十八、大哥云(19.8/月100G)           
 
@@ -1066,6 +1066,8 @@ TG频道和群组：有，1500人+，群组人数3000+
 <img src="https://jichangcesu.com/uploads/jichang/dage/流媒体.webp"  width = "95%"   align=center  alt="dage流媒体" />
 </details>
 
+-->
+ 
 
 
 
