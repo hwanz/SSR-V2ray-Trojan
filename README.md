@@ -21,7 +21,9 @@ Mac：Clash For Windows和Clash-verge-rec的Mac版本、ClashX、ClashX Pro、si
 IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox     
 Linux：Shell clash、Clash For Windows、clash-verge-rec的Linux版本、sing-box     
-路由器：OpenWRT的OpenClash、passwall
+路由器：OpenWRT的OpenClash、passwall      
+总结：clash系列的、v2rayN、sing-box、Hiddify、NekoBox、Nekoray、shadowsocket小火箭基本啥协议都支持：包括ss、ssr、trojan、vmess、reality、hysteria2等；QuantumultX目前不支持hysteria2和reality这些新的，其它旧的协议基本都支持； 但shadowsocksR软件不支持ss订阅，所以如果你还用着shadowsocksR软件只能买ssr协议的机场，不能买ss协议的； sstap支持ss协议,需要使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR协议。 
+
 
 https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
 
@@ -29,7 +31,7 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（80一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）    
+2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）    
 3) 有试用：大哥云 、Taishan 、Cyanmori、老猫云       
 4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
@@ -38,7 +40,7 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 ## 一、悠兔(150年/200G)
 
-某大佬机场的IEPL专线+隧道中转SS协议机场，广东入口，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。需要专属线路、大流量套餐可以开工单找机场主定制。8折优惠码：888，每个用户仅限使用一次。
+某大佬机场的IEPL专线+隧道中转SS协议机场，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。8折优惠码：888，每个用户仅限使用一次。
 
 
 [悠兔机场官网地址1](https://youtunice.com?path=register&code=3CxiqyOc)     
