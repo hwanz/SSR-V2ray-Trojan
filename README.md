@@ -1103,11 +1103,19 @@ TG频道和群组：有，1500人+，群组人数3000+
        悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)
 
 3. **协议分类：**
-   
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、Kycloud、Flyingbird、RelayCloud、 Just my sock、芬达、Cyanmori  、haita、贝贝云
-   
-    支持Trojan协议：WgetCloud、Nexitally、大哥云、SpeedCAT       
-    支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
+
+支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：
+悠兔、TAG、Sayss、WgetCloud、、奶昔、SpeedCAT、Kycloud、Flyingbird、Just my sock、Catnet、Cyanmori、海獭、kuromi、贝贝云   
+
+
+支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、sing-box、hiddify、nekoray、nekobox等）：芬达、STC-SERVER、跑路云 
+
+
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：奶昔、WgetCloud、老猫云   
+
+
+支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、EdNovas云、Just my sock       
+
 
 
   3.**屏蔽限制区分：**
