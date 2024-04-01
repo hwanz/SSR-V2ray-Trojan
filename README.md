@@ -16,13 +16,13 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows(停更也可以正常使用)0、V2rayN、Nekoray     
-Mac：Clash For Windows和Clash-verge-rec的Mac版本、ClashX、ClashX Pro、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
+>Windows：Clash For Windows、V2rayN、Nekoray、hiddify     
+Mac：Clash For Windows和Clash-verge-rec的Mac版本、ClashX、ClashX Pro、hiddify、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
 IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
-安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox     
-Linux：Shell clash、Clash For Windows、clash-verge-rec的Linux版本、sing-box     
+安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox、hiddify         
+Linux：Shell clash、Clash For Windows、clash-verge-rec的Linux版本、sing-box、hiddify      
 路由器：OpenWRT的OpenClash、passwall      
-总结：clash系列的、v2rayN、sing-box、Hiddify、NekoBox、Nekoray、shadowsocket小火箭基本啥协议都支持：包括ss、ssr、trojan、vmess、reality、hysteria2等；QuantumultX目前不支持hysteria2和reality这些新的，其它旧的协议基本都支持； 但shadowsocksR软件不支持ss订阅，所以如果你还用着shadowsocksR软件只能买ssr协议的机场，不能买ss协议的； sstap支持ss协议,需要使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR协议。 
+总结：clash系列、v2rayN、sing-box、Hiddify、NekoBox、Nekoray、shadowsocket小火箭基本啥协议都支持；QuantumultX目前不支持hysteria2和reality这些新的，其它旧的协议基本都支持； 但shadowsocksR软件不支持ss订阅，只能买ssr协议的机场； sstap支持ss协议,需要使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR协议。 
 
 
 https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
@@ -76,7 +76,7 @@ TG频道：有；无群
 套餐是否包含手续费：是   
 国外能否使用：否
 此机场适合推荐人群： 稳定且无特殊需求
-小白一键客户端: 有，windows+Mac+安卓
+小白一键客户端: 有，ios+windows+Mac+安卓
 家宽：英国，日本原生    
 注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；订阅在首页        
 <a href="https://jichangcesu.com/便宜SS机场推荐之悠兔.html" target="_blank">使用教程、ChatGPT、流媒体历史测速结果合集</a>
@@ -548,9 +548,10 @@ TG电报频道：官网，关注人数：1000+；群禁言
 注意：speedcat、龙猫云、Flyingbird应该是相同线路类型。  
 
 
-[龙猫云机场官网地址1](https://suo.st/zE7dAUT)
+[龙猫云机场官网地址1](https://reurl.cc/lg8LbY)
 
-[龙猫云机场官网地址2](https://linkdyv1.lmsub.com/#/register?code=Qb502cPh)
+[龙猫云机场官网地址2](https://jichangtj.lmvipaff.com/#/register?code=Qb502cPh)
+
 
 
 
