@@ -16,13 +16,13 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows、V2rayN、Nekoray、hiddify     
-Mac：Clash For Windows和Clash-verge-rec的Mac版本、ClashX、ClashX Pro、hiddify、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
+>Windows：Clash For Windows、Clash-verge-rev、V2rayN、Nekoray、hiddify     
+Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、hiddify、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
 IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox、hiddify         
-Linux：Shell clash、Clash For Windows、clash-verge-rec的Linux版本、sing-box、hiddify      
+Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本、sing-box、hiddify      
 路由器：OpenWRT的OpenClash、passwall      
-总结：clash系列、v2rayN、sing-box、Hiddify、NekoBox、Nekoray、shadowsocket小火箭基本啥协议都支持；QuantumultX目前不支持hysteria2和reality这些新的，其它旧的协议基本都支持； 但shadowsocksR软件不支持ss订阅，只能买ssr协议的机场； sstap支持ss协议,需要使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR协议。 
+总结：clash系列、v2rayN、sing-box、Hiddify、NekoBox、Nekoray、shadowsocket小火箭基本啥协议都支持；QuantumultX目前不支持hysteria2和reality，其它旧的协议基本都支持； 但shadowsocksR软件不支持ss订阅，只能买ssr协议的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR。 
 
 
 https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
