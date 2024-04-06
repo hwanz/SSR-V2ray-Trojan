@@ -36,9 +36,55 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
 
 
+## 一、BoostNet(39/月200G) 
+
+全IEPL内网专线ss协议机场，小众精品机场。相对低调。人少，体验还不错,速度很快，延迟较低。老板说是一线机场发展的，所有节点一倍率。新人8折优惠券：boost
+
+[BoostNet机场官网1](https://suo.st/E5k5rox)
+
+[BoostNet官网链接2](https://boostnet.top/#/register?code=Pj4Wrfai)  
+
+>开业时间：2024  
+老板肉身：墙外  
+入口与过境线路：广东入口，过境IEPL专线    
+节点数目： 30+      
+协议：Shadowsocks（不支持shadowsocksR软件）    
+UDP：支持    
+限制同时登录ip客户端数目：软性限制5个ip    
+ChatGPT/OpenAI解锁: 基本全解锁    
+流媒体：基本支持奈飞和迪士尼    
+墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong    
+SSH端口屏蔽：22端口已屏蔽    
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)    
+地区：香港、台湾、新加坡、日本、美国    
+落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
+ipv6支持情况：香港、台湾、日本、美国部分节点支持    
+付款方式：支付宝、微信    
+TG频道：无    
+套餐是否包含手续费：是    
+只能中国内地使用：是    
+家宽：无    
+面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
+客服：有    
+    
+套餐：
+
+流量 | 价格 
+:-: | :-: 
+200G/月 |39/月;100/季;220/半年;350/年
+400G/月 |58/月;150/季;310/半年;500/年
+1000G/月|108/月;280/季;600/半年;1000/年
+3000G/月|500/月;1500/季;2888/半年;5688/年
 
 
-## 一、悠兔(150年/200G)
+<details>
+ <summary>测速图和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
+
+<img src="https://jichangcesu.com/uploads/jichang/boostnet/流媒体.webp"  width = "95%"   align=center  alt="boostnet机场流媒体" />
+</details>
+
+## 二、悠兔(150年/200G)
 
 某大佬机场的IEPL专线+隧道中转SS协议机场，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。8折优惠码：888，每个用户仅限使用一次。
 
@@ -106,55 +152,7 @@ TG频道：有；无群
 
 
 
-## 二、BoostNet(39/月200G) 
 
-全IEPL内网专线ss协议机场，小众精品机场。相对低调。人少，体验还不错,速度很快，延迟较低。老板说是一线机场发展的，所有节点一倍率。
-
-[BoostNet机场官网1](https://suo.st/E5k5rox)
-
-[BoostNet官网链接2](https://boostnet.top/#/register?code=Pj4Wrfai)  
-
-
-
->开业时间：2024  
-老板肉身：墙外  
-入口与过境线路：广东入口，过境IEPL专线    
-节点数目： 30+      
-协议：Shadowsocks（不支持shadowsocksR软件）    
-UDP：支持    
-限制同时登录ip客户端数目：软性限制5个ip    
-ChatGPT/OpenAI解锁: 基本全解锁    
-流媒体：基本支持奈飞和迪士尼    
-墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong    
-SSH端口屏蔽：22端口已屏蔽    
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)    
-地区：香港、台湾、新加坡、日本、美国    
-落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
-ipv6支持情况：香港、台湾、日本、美国部分节点支持    
-付款方式：支付宝、微信    
-TG频道：无    
-套餐是否包含手续费：是    
-只能中国内地使用：是    
-家宽：无    
-面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
-客服：有    
-    
-套餐：
-
-流量 | 价格 
-:-: | :-: 
-200G/月 |39/月;100/季;220/半年;350/年
-400G/月 |58/月;150/季;310/半年;500/年
-1000G/月|108/月;280/季;600/半年;1000/年
-3000G/月|500/月;1500/季;2888/半年;5688/年
-
-
-<details>
- <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
-
-<img src="https://jichangcesu.com/uploads/jichang/boostnet/流媒体.webp"  width = "95%"   align=center  alt="boostnet机场流媒体" />
-</details>
 
 
 
