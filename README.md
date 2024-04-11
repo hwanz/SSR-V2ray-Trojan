@@ -16,13 +16,13 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows、Clash-verge-rev、V2rayN、Nekoray、hiddify     
-Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、hiddify、sing-box、有钱的买Surge，M1、M2还可以使用小火箭   
-IOS：小火箭、QuantumultX教程、Stash、Loon、sing-box、有钱的买Surge   
-安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG、NekoBoxForAndroid、sing-box 、nekobox、hiddify         
-Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本、sing-box、hiddify      
+>Windows：Clash For Windows、Clash-verge-rev     
+Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge  
+IOS：小火箭、QuantumultX、Stash、Loon、有钱的买Surge   
+安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG         
+Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
-总结：clash系列、v2rayN、sing-box、Hiddify、NekoBox、Nekoray、shadowsocket小火箭基本啥协议都支持；QuantumultX目前不支持hysteria2和reality，其它旧的协议基本都支持； 但shadowsocksR软件不支持ss订阅，只能买ssr协议的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR。 
+shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR。 
 
 
 https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
@@ -289,48 +289,8 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 </details>
 
  
-## 五、Nexitally(117/月)
-Nexitally，又叫奶昔机场，TG机场最出名的最高端的机场，以贵和线路出名，当然价格也高端。线路是唯云专线，很少机场用这个线路。老板说佛系推，无所谓。上一次测还是两年前🤣
-加上不用测我也知道测试的结果是怎么样的，一般都是轻松跑满我千兆带宽的，平时也没必要测。让推荐机场不说预算一般大家就推荐这家：奶昔机场，请~
 
-机场管理一般也会推荐他的用户买TAG,TAG老板也推荐买奶昔。商业互吹。
-
-[Nexitally机场官网地址1](https://reurl.cc/DoOoWe)   
-
-[Nexitally机场官网地址2](https://suo.st/RBBNNd4)   
-
->机场管理老板肉身：墙外     
-协议：SS+Trojan       
-入口：东莞、上海，镇江BGP等，可以自己选择入口和落地       
-过境：唯云专线，超大带宽       
-落地：Jinx、Eons、Kirino、HGC、Kirino等高端落地       
-流媒体:全解锁       
-设备数：2       
-一键客户端：有
-UDP: 有
-审计：voa、轮媒、pingcong    
-22端口：未屏蔽
-smtp邮件端口: 屏蔽            
-优点：高端专线、高端落地，大带宽  
-缺点：名声大，容易招打被DDOS。但是一般都能扛住，有钱买高防         
-点评：钞能力一流的机场。自研面板无瓜。还是那句话，买得起的推荐买。好就是贵贵就好。一般要推荐机场不说价格大家就推荐这个。除了不好用的时候（被打）其他时候都很好用          
-适合人群：不差钱且需要稳定+低延迟的线路的，高端玩家使用。小白勿买                
-[Nexitally奶昔机场拓扑结构检测和流媒体、历史测速结果合集和用户评价](https://jichangcesu.com/Nexitally%E5%A5%B6%E6%98%94%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.html)
-
-**套餐:**
-每月流量500G：月付117元；半年付606元；年付1102元       
-Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要在购买Smart Access的基础上才能用。        
-
-<details>
-<summary>测速图和流媒体详情，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/nexitally"  width = "90%"   align=center  alt="奶昔机场晚高峰电信1000M家宽测速" />
-流媒体：
-<img src="https://jichangcesu.com/uploads/jichang/nexitally/流媒体.webp"  width = "95%"   align=center  alt="奶昔机场流媒体" />
-</details>
-
-
-## 六、贝贝云(9.9/月80G)     
+## 五、贝贝云(9.9/月80G)     
 
 SS协议中转机场，过境大带宽。适合不想人太多的，速度不错。每月9.9起，性价比高。95折优惠码,只能使用一次： beibei.cloud     
 
@@ -384,7 +344,7 @@ TG频道：有；无群
 </details>
 
 
-## 七、Kycloud(150/年120G)          
+## 六、Kycloud(150/年120G)          
 
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
@@ -445,7 +405,7 @@ Team2 | 2T/月 | 609/季度
 
 
 
-##  八、Catnet
+##  七、Catnet
 
 ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
 
@@ -490,7 +450,7 @@ SSH端口屏蔽：已经屏蔽22端口
 </details> 
 
 
-## 九、Cyanmori(20/月160G)
+## 八、Cyanmori(20/月160G)
 
 青森云，运营三年+。SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
 
@@ -537,7 +497,7 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 
 
 
-## 十、SpeedCAT(20/月100G) 
+## 九、SpeedCAT(20/月100G) 
 
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
@@ -591,7 +551,7 @@ TG电报频道：官网，关注人数：1000+；群禁言
 
 
 
-## 十一、龙猫云(15/月100G)
+## 十、龙猫云(15/月100G)
 
 专线中转机场。观察挺久，感觉速度都挺好。  
 
@@ -650,7 +610,7 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 
 
 
-## 十二、老猫云(15/月50G)
+## 十一、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
@@ -704,7 +664,7 @@ F套餐: 50/月，每月500G
 
 
 
-## 十三、海獭-haita(8.9/月50G)
+## 十二、海獭-haita(8.9/月50G)
 SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
 202312：
@@ -763,16 +723,11 @@ haita机场流媒体检测：
 
 
 
-## 十四、Flyingbird(15/月100G)           
+## 十三、Flyingbird(15/月100G)           
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
-[Flyingbird机场官网1](https://reurl.cc/9Rn7oO)   
-
-[Flyingbird机场官网2](https://suo.st/LtzIHn1)   
-
-[Flyingbird机场官网3](https://honven20.flyb-aff01.com/auth/register?code=f34i)  
-
+[Flyingbird机场官网](https://fba01.fbva-ho0.cc/auth/register?code=f34i)
 
 
 >开业时间：2022.11         
@@ -814,7 +769,7 @@ TG频道：有，群组：无
 <img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
-## 十五、Sayss(100块/季150G)
+## 十四、Sayss(100块/季150G)
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
@@ -870,7 +825,7 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 
 
 
-##  十六、EdNovas云(10/月50G)  
+##  十五、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -934,7 +889,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十七、Just my sock(5.8刀/月108G)  
+## 十六、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -1017,7 +972,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十八、芬达(12.8/月88G)  
+## 十七、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -1156,13 +1111,13 @@ TG频道和群组：有，1500人+，群组人数3000+
 3. **协议分类：**
 
 支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：
-悠兔、BoostNet、TAG、Sayss、WgetCloud、、奶昔、SpeedCAT、Kycloud、Flyingbird、Just my sock、Catnet、Cyanmori、海獭、kuromi、贝贝云   
+悠兔、BoostNet、TAG、Sayss、WgetCloud、SpeedCAT、Kycloud、Flyingbird、Just my sock、Catnet、Cyanmori、海獭、kuromi、贝贝云   
 
 
 支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、sing-box、hiddify、nekoray、nekobox等）：芬达、STC-SERVER、跑路云 
 
 
-支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：奶昔、WgetCloud、老猫云   
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云   
 
 
 支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、EdNovas云、Just my sock       
@@ -1187,13 +1142,13 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 9. **大陆外用户可以使用**：TAG国际站、kycloud、飞鸟
 
-10. **相同线路**：tag和奶昔如果炸，会一起炸。speedcat 、龙猫云和飞鸟相同线路。别买相同线路的做备用
+10. **相同线路**：speedcat 、龙猫云和飞鸟相同线路。别买相同线路的做备用
 
 11.  需要回国线路：EdNovas云
 
 12.  有退款服务：EdNovas云、Just my sock、老猫云、悠兔
 
-13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas、老猫云、贝贝云、    
+13.  需要UDP：TAG、WgetCloud、Sayss、SpeedCAT、EdNovas、老猫云、贝贝云、    
 
 14.  需要emby：TAG 和ednovas。都是nsfw的
 
