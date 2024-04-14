@@ -399,52 +399,8 @@ Team2 | 2T/月 | 609/季度
 
 
 
-##  七、Catnet
 
-ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
-
-
-[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
-
-[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
-
-[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
-
-
-
->开业时间：2022年   
-过境：深港专线   
-流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
-UDP：支持   
-付款方式：支付宝   
-落地ip数量：48    
-协议：ss  
-专门客服：有   
-ChatGPT/OpenAI解锁: 除香港  
-地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
-SSH端口屏蔽：已经屏蔽22端口   
-邮件传统协议smtp/pop3/imap：未禁止
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】按钮中                  
-<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
-
-
-
-套餐:
-
-* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
-* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
-
-
-<details>
-<summary>测速图和流媒体点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
-</details> 
-
-
-## 八、Cyanmori(20/月160G)
+## 七、Cyanmori(20/月160G)
 
 青森云，运营三年+。SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
 
@@ -491,7 +447,7 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 
 
 
-## 九、SpeedCAT(20/月100G) 
+## 八、SpeedCAT(20/月100G) 
 
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
@@ -545,7 +501,7 @@ TG电报频道：官网，关注人数：1000+；群禁言
 
 
 
-## 十、龙猫云(15/月100G)
+## 九、龙猫云(15/月100G)
 
 专线中转机场。观察挺久，感觉速度都挺好。  
 
@@ -604,7 +560,7 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 
 
 
-## 十一、老猫云(15/月50G)
+## 十、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
@@ -658,7 +614,7 @@ F套餐: 50/月，每月500G
 
 
 
-## 十二、海獭-haita(8.9/月50G)
+## 十一、海獭-haita(8.9/月50G)
 SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
 202312：
@@ -717,7 +673,7 @@ haita机场流媒体检测：
 
 
 
-## 十三、Flyingbird(15/月100G)           
+## 十二、Flyingbird(15/月100G)           
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
@@ -763,7 +719,7 @@ TG频道：有，群组：无
 <img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
 </details> 
 
-## 十四、Sayss(100块/季150G)
+## 十三、Sayss(100块/季150G)
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
@@ -816,6 +772,50 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 </details>
 
 
+
+##  十四、Catnet(25/月100G)
+
+ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
+
+
+[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
+
+[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
+
+[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
+
+
+
+>开业时间：2022年   
+过境：深港专线   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+UDP：支持   
+付款方式：支付宝   
+落地ip数量：48    
+协议：ss  
+专门客服：有   
+ChatGPT/OpenAI解锁: 除香港  
+地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
+SSH端口屏蔽：已经屏蔽22端口   
+邮件传统协议smtp/pop3/imap：未禁止
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】按钮中                  
+<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+
+
+
+套餐:
+
+* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
+* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
+
+
+<details>
+<summary>测速图和流媒体点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
+</details> 
 
 
 
