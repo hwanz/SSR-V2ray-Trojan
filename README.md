@@ -855,20 +855,20 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 国外能否使用：否，有回国线路         
 <a href="https://jichangcesu.com/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
 
-套餐：
-5/月25G，5个地区
-10/月50G，5个地区
-20/月100G，5个地区
-38/月200G，5个地区
-45/月200G，130+个地区（这个套餐起才有多个地区的节点）
-110/月500G，130+个地区
-200/月1000G，130+个地区
-150/年总共200G，130+个地区
-420/年总共500G，130+个地区
+**内地使用套餐：**     
+5/月25G，5个地区  
+10/月50G，5个地区  
+20/月100G，5个地区  
+38/月200G，5个地区   
+45/月200G，130+个地区（这个套餐起才有多个地区的节点）     
+110/月500G，130+个地区   
+200/月1000G，130+个地区   
+150/年总共200G，130+个地区   
+420/年总共500G，130+个地区   
 
-国外境外套餐：
-200G Monthly Plan is for Foreign Customers Outside China ：30/月200G
-500G Monthly Plan is for Foreign Customers Outside China : 75/月500G
+国外境外套餐：   
+200G Monthly Plan is for Foreign Customers Outside China ：30/月200G    
+500G Monthly Plan is for Foreign Customers Outside China : 75/月500G      
 
 
 
