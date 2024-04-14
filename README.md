@@ -502,11 +502,11 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
 
-[SpeedCAT机场官网1](https://reurl.cc/Nyx416)  
+[SpeedCAT机场官网1](https://reurl.cc/lQLKvj)
 
-[SpeedCAT机场官网2](https://suo.st/LPYatJb)   
+[SpeedCAT机场官网2](https://suo.st/5sm3ntL)
 
-[SpeedCAT机场官网3](https://speedcat-aff.com/auth/register?code=52q2)  
+[SpeedCAT机场官网3](https://webinv01.sc-aff.cc/auth/register?code=52q2)
 
 
 
