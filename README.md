@@ -280,13 +280,7 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 
 
 
-<details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/tag.webp"  width = "90%"   align=center  alt="TAG晚高峰电信1000M家宽测速" />
-流媒体
-<img src="https://jichangcesu.com/uploads/jichang/tag/流媒体.webp"  width = "95%"   align=center  alt="TAG流媒体" />
-拓扑结构,看历史测速
-</details>
+测速图、拓扑结构检测和流媒体看历史测速
 
  
 
@@ -861,30 +855,24 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 国外能否使用：否，有回国线路         
 <a href="https://jichangcesu.com/回国机场EDCloud历史测速结果整合.html" target="_blank">回国机场EDCloud拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
 
+套餐：
+5/月25G，5个地区
+10/月50G，5个地区
+20/月100G，5个地区
+38/月200G，5个地区
+45/月200G，130+个地区（这个套餐起才有多个地区的节点）
+110/月500G，130+个地区
+200/月1000G，130+个地区
+150/年总共200G，130+个地区
+420/年总共500G，130+个地区
 
-拓扑结构和流媒体检测看历史测速
-
-
-<details>
- <summary>套餐、测速图，点击展开</summary>
-
-**套餐:**
-落地国家和节点多的需要“权宜”套餐以上才有。
-便宜的套餐只有基础节点,5块套餐没有了。
-<img src="https://jichangcesu.com/uploads/vpn/edcloudtaocan.webp"  width = "90%"  align=center  alt="EdNovas云套餐图" />
-单线程测速：
-<img src="https://jichangcesu.com/uploads/vpn/edcloud.webp"  width = "90%"  align=center  alt="EdNovas云晚高峰家宽测速" />
-
-
-</details>
+国外境外套餐：
+200G Monthly Plan is for Foreign Customers Outside China ：30/月200G
+500G Monthly Plan is for Foreign Customers Outside China : 75/月500G
 
 
 
-
-
-
-
-
+测速、拓扑结构和流媒体检测看历史测速
 
 
 
