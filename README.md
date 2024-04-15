@@ -423,8 +423,13 @@ Team2 | 2T/月 | 609/季度
 99/年，总共220G，不能重置   
 
 
-<img src="https://jichangcesu.com/uploads/vpn/arisaka.webp"  width = "90%"  align=center  alt="机场推荐之arisaka机场测速" />
 
+<details>
+<summary>测速图和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/arisaka.webp"  width = "90%"  align=center  alt="arisaka电信测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/arisaka/流媒体.webp"  width = "95%"   align=center  alt="arisaka流媒体" />
+</details>
 
 
 
@@ -537,10 +542,9 @@ TG电报频道：官网，关注人数：1000+；群禁言
 注意：speedcat、龙猫云、Flyingbird应该是相同线路类型。  
 
 
-[龙猫云机场官网地址1](https://reurl.cc/lg8LbY)
+[龙猫云机场官网地址1](https://suo.st/gbKtosX)
 
 [龙猫云机场官网地址2](https://jichangtj.lmvipaff.com/#/register?code=Qb502cPh)
-
 
 
 
