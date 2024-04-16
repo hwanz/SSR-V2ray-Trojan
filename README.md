@@ -399,45 +399,11 @@ Team2 | 2T/月 | 609/季度
 </details>
 
 
-## 七、Arisaka(16/月100G)  
-大带宽专线+隧道ss协议机场   
-南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月100G起，价格还行；8折优惠：UwtJ9Ov1   
-有 10G流量 试用
-
-[Arisaka官网1](https://reurl.cc/9vzkxY)
-
-[Arisaka官网2](https://arisaka.io/#/register?code=eYgRRmM3)
-
-
->地区：香港、新加坡、日本、德国、美国、台湾、韩国
-22端口：未屏蔽  
-屏蔽网站：主要是轮媒和品葱  
-优点:带宽大，目前最大晚上能跑到600+M/s  
-邮件传统协议smtp/pop3/imap：禁止   
-
-
-
-**套餐(所有套餐节点一样):**
-
-15.99/月，每月80G,提前用完当月流量重置12/次   
-25.99/月，每月200G,提前用完当月流量重置20/次   
-45.99/月，每月350G,提前用完当月流量重置40/次  
-65.99/月，每月650G,提前用完当月流量重置60/次   
-99/年，总共220G，不能重置   
-
-
-
-<details>
-<summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/arisaka.webp"  width = "90%"  align=center  alt="arisaka电信测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/arisaka/流媒体.webp"  width = "95%"   align=center  alt="arisaka流媒体" />
-</details>
 
 
 
 
-## 八、Cyanmori(20/月160G)
+##  七、Cyanmori(20/月160G)
 
 青森云，运营三年+。SS协议隧道中转机场，2G口大带宽独享物理机，中转是武汉移动。技术和客服是在香港。老板青森，一些机场主可能在油管看过他教搭建sspanel的视频。中转带宽大，白天和晚上速度都可以，落地没有复用，观察了下挺好。购买些套餐可以给共享奈飞账户，共享的奈飞账号同时使用的人多了可能会挤掉。
 
@@ -482,6 +448,40 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 </details>
 
 
+## 八、Arisaka(16/月80G)  
+大带宽专线+隧道ss协议机场   
+南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月100G起，价格还行；8折优惠：UwtJ9Ov1   
+有 10G流量 试用
+
+[Arisaka官网1](https://reurl.cc/9vzkxY)
+
+[Arisaka官网2](https://arisaka.io/#/register?code=eYgRRmM3)
+
+
+>地区：香港、新加坡、日本、德国、美国、台湾、韩国
+22端口：未屏蔽  
+屏蔽网站：主要是轮媒和品葱  
+优点:带宽大，目前最大晚上能跑到600+M/s  
+邮件传统协议smtp/pop3/imap：禁止   
+
+
+
+**套餐(所有套餐节点一样):**
+
+15.99/月，每月80G,提前用完当月流量重置12/次   
+25.99/月，每月200G,提前用完当月流量重置20/次   
+45.99/月，每月350G,提前用完当月流量重置40/次  
+65.99/月，每月650G,提前用完当月流量重置60/次   
+99/年，总共220G，不能重置   
+
+
+
+<details>
+<summary>测速图和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/arisaka.webp"  width = "90%"  align=center  alt="arisaka电信测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/arisaka/流媒体.webp"  width = "95%"   align=center  alt="arisaka流媒体" />
+</details>
 
 
 ## 九、SpeedCAT(20/月100G) 
