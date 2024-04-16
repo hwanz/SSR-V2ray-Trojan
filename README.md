@@ -402,8 +402,11 @@ Team2 | 2T/月 | 609/季度
 ## 七、Arisaka(16/月100G)  
 大带宽专线+隧道ss协议机场   
 南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月100G起，价格还行；8折优惠：UwtJ9Ov1   
-官网：https://reurl.cc/9vzkxY     
+有 10G流量 试用
 
+[Arisaka官网1](https://reurl.cc/9vzkxY)
+
+[Arisaka官网2](https://arisaka.io/#/register?code=eYgRRmM3)
 
 
 >地区：香港、新加坡、日本、德国、美国、台湾、韩国
