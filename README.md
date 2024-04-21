@@ -31,9 +31,9 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年）    
-3) 有试用：大哥云 、Taishan 、Cyanmori、老猫云       
-4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori   
+2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年） 、一云梯（15/月10G）      
+3) 有试用：Taishan 、Cyanmori、老猫云、Arisaka       
+4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori、一云梯       
 
 
 ## 一、BoostNet(39/月200G) 
@@ -492,7 +492,7 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 [一云梯官网](https://1ytcom01.1yunti.net/register?aff=5LY6r9cJ)
 
 
-开业时间：2024      
+>开业时间：2024      
 入口：广东     
 过境：专线中转     
 协议：Trojan     
@@ -1162,7 +1162,7 @@ TG频道和群组：有，1500人+，群组人数3000+
     
     **10块/月以下**：贝贝云(9.9/月)、大哥云(69/季200G/月)、EdNovas云(10块/每月50G)
     
-    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)、haita((15.99/100G))
+    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)、haita((15.99/100G)、一云梯（15/月10G）      
     
     **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、Cyanmori
     
@@ -1183,7 +1183,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、sing-box、hiddify、nekoray、nekobox等）：芬达、STC-SERVER、跑路云 
 
 
-支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云   
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云、一云梯（15/月10G）      
 
 
 支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、EdNovas云、Just my sock       
@@ -1191,9 +1191,9 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达 、Cyanmori 、老猫云、haita       
-   可用第三方软件发邮件：Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云    
-   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云    
+   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达 、Cyanmori 、老猫云、haita、一云梯（15/月10G）           
+   可用第三方软件发邮件：Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan 、老猫云、一云梯（15/月10G）       
+   审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan、Cyanmori、老猫云、一云梯（15/月10G）    
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、悠兔、flyingbird、taishan也有部分冷门节点；
