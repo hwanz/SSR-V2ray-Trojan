@@ -31,9 +31,9 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、大哥云(69/季200G/月)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年） 、一云梯（15/月10G）      
+2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、Flyingbird(15块/月100G)、EdNovas云(10块/每月50G)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年） 、一云梯（15/月10G）      
 3) 有试用：Taishan 、Cyanmori、老猫云、Arisaka       
-4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、大哥云、Taishan、Cyanmori、一云梯       
+4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、Taishan、Cyanmori、一云梯       
 
 
 ## 一、BoostNet(39/月200G) 
