@@ -762,11 +762,9 @@ F套餐: 50/月，每月500G
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
 
-[Sayss机场官网1](https://reurl.cc/DoOoN5)  
 
-[Sayss机场官网2](https://suo.st/k21dIwt)   
+[Sayss机场官网](https://reurl.cc/VzD9DN)   
   
-[Sayss机场官网3](https://www.epaybc.com/#/register/yv7SoTwk)  
 
 
 >开业时间：21年7月以前，具体不知道。不认识老板     
