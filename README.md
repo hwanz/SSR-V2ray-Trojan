@@ -805,56 +805,7 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 <img src="https://jichangcesu.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
 </details>
 
-## 十五、Flyingbird(15/月100G)           
-
-BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
-
-[Flyingbird机场官网](https://fba01.fbva-ho0.cc/auth/register?code=f34i)
-
-
->开业时间：2022.11         
-老板肉身：海外团队         
-入口 ：广东移动/联通/电信BGP多入口         
-过境: 专线         
-协议：Shadowsocks         
-UDP：基本支持Full-Cone NAT         
-客户端数目：不限制         
-落地ip数量： 73+         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：22端口已屏蔽         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-节点国家与地区：香港、台湾、日本、新加坡、美国、英国、马来西亚、阿根廷、土耳其         
-TG频道：有，群组：无           
-付款方式：支付宝、微信、USDT            
-套餐价格是否包含手续费：包含
-国外能否使用：可，自己更改入口          
-<a href="https://jichangcesu.com/飞鸟机场便宜BGP专线SS机场推荐.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
-
-
-**套餐:**
-
-所有套餐相同节点，不限速，不限制客户端数目。
-所有套餐季付9折，半年付8.5折，年付8折
-
-月付套餐：
-15块/月100G
-30块/月200G
-75块/月500G
-150块/月1000G
-
-
-<details>
-<summary>测速图和流媒体点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/flyingbird.webp"  width = "90%"  align=center  alt="flyingbird晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/flyingbird/流媒体.webp"  width = "90%"   align=center  alt="flyingbird流媒体" />
-</details> 
-
-
-
-
-##  十六、Catnet(25/月100G)
+## 十五、Catnet(25/月100G)
 
 ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
 
@@ -903,7 +854,7 @@ SSH端口屏蔽：已经屏蔽22端口
 
 
 
-##  十七、EdNovas云(10/月50G)  
+##  十六、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -961,7 +912,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十八、Just my sock(5.8刀/月108G)  
+## 十七、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -1044,7 +995,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十九、芬达(12.8/月88G)  
+## 十八、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
