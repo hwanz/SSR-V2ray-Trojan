@@ -40,7 +40,7 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 全IEPL内网专线ss协议机场，小众精品机场。相对低调。人少，体验还不错,速度很快，延迟较低。老板说是一线机场发展的。新人8折优惠券：boost
 
-[BoostNet官网链接1(https://boostqz.com?path=register&code=Pj4Wrfai)
+[BoostNet官网链接1](https://boostqz.com?path=register&code=Pj4Wrfai)
 
 [BoostNet官网链接2](https://boostnet.top/#/register?code=Pj4Wrfai) 
 
