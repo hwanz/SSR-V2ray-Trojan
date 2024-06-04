@@ -16,9 +16,9 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows、Clash-verge-rev、V2rayN     
-Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge  
-IOS：小火箭、QuantumultX、Stash、Loon、有钱的买Surge   
+>Windows：Clash For Windows、Clash-verge-rev、V2rayN、Hiddify（简单）        
+Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、Hiddify（简单）   
+IOS：小火箭、QuantumultX、Stash、Loon、有钱的买Surge、karing和strisand（免费且简单）   
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG         
 Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
