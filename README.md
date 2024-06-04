@@ -69,7 +69,8 @@ TG频道：无
 只能中国内地使用：是，新疆无法使用    
 家宽：无    
 面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
-客服：有    
+客服：有
+[BoostNet使用教程、拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集](https://jichangtuijian.com/boostnet.html)       
     
 **套餐(所有套餐节点一样):**
 
@@ -175,6 +176,8 @@ TG频道：有；无群
 [WgetCloud机场官网](https://reurl.cc/dmamKD)    
 
 [WgetCloud机场官网2](https://suo.st/18C0SJx)   
+
+
 [WgetCloud官网链接3](https://invite.wgetcloud.ltd/auth/register?code=n7z3)    
 
 
@@ -238,12 +241,13 @@ TG频道群组：无，主要使用邮件通知
 154块/一年的很适合做备用或者是轻度使用用户。
 
 
-[TAG机场官网链](https://reurl.cc/v0EEMj) (第一个打不开就点第二个，下面的也一样)
+[TAG机场官网1](https://reurl.cc/v0EEMj) (第一个打不开就点第二个，下面的也一样)
 
 
-[TAG机场官网链](https://suo.st/NubJ1Lm) 
+[TAG机场官网2](https://suo.st/NubJ1Lm) 
 
-[TAG官网链接3](https://tagss04.pro/#/auth/AJCjBhsw)
+
+[TAG机场官网3](https://tagss04.pro/#/auth/AJCjBhsw)
 
 
    
