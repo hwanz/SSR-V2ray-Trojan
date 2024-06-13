@@ -22,7 +22,7 @@ IOS：小火箭、QuantumultX、Stash、Loon、有钱的买Surge、karing和stri
 安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG         
 Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
-shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR。 
+shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard、Singbox内核的和Surge不支持shadowsocksR。 
 
 
 https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
