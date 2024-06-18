@@ -16,16 +16,16 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows、Clash-verge-rev、V2rayN、Hiddify（简单）        
-Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、Hiddify（简单）   
-IOS：小火箭、QuantumultX、Stash、Loon、有钱的买Surge、karing和strisand（免费且简单）   
-安卓：ClashforAndroid(CFA)、Surfboard、V2rayNG         
-Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本    
+>Windows：Clash For Windows、Clash-verge-rev、V2rayN、FLClash（简单）        
+Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、FLClash（简单）   
+IOS：小火箭Shadowrocket、QuantumultX、Stash、Loon、有钱的买Surge、karing和strisand（免费且简单）   
+安卓：ClashMetaforAndroid(CMFA)、FLClash、Surfboard、V2rayNG         
+Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
 shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard、Singbox内核的和Surge不支持shadowsocksR。 
 
 
-https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，TRX 波の场 能量租赁，水果成品号，Netflix 全区号，ChatGPT 账号，Telegram 正规会员充值、Twitter和脸书Facebook号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
+https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Loon成品号，apple id，Netflix 全区号，ChatGPT 账号、Gmail和Google Voice 、iTunes 礼品卡、Steam充值卡等
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
