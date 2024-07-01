@@ -42,10 +42,11 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 [BoostNet官网链接1](https://boostqz.com?path=register&code=Pj4Wrfai)
 
-[BoostNet官网链接2](https://boostnet.top/#/register?code=Pj4Wrfai) 
+[BoostNet官网链接2](https://boostnet1.com/#/register?code=Pj4Wrfai) 
 
-[BoostNet官网链接3](https://boostnet2.top/#/register?code=Pj4Wrfai)  
+[BoostNet官网链接3](https://boostnet.top/#/register?code=Pj4Wrfai)  
 
+[BoostNet官网链接4](https://boostnet2.top/#/register?code=Pj4Wrfai) 
 
 
 >开业时间：2024  
@@ -705,56 +706,7 @@ F套餐: 50/月，每月500G
 </details>
 
 
-## 十三、Sayss(100块/季150G)
-
-Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
-
-
-[Sayss机场官网](https://www.sayss.net/#/login?code=yv7SoTwk)
-
-
-
->开业时间：21年7月以前，具体不知道。不认识老板     
-肉身：官网右下角问老板说是在外。具体不详   
-入口与过境线路：广港IEPL专线+Ucloud的UDPN，入口广州移动、深圳移动、   
-节点数目： 26   
-协议：Shadowsocks  
-ip设置数目：不限制  
-UDP：支持  
-付款方式：支付宝、微信  
-ChatGPT/OpenAI解锁: 除了香港基本全解锁    
-地区：土耳其、印度、香港、菲律宾、德国、美国、英国、法国、日本、阿根廷、韩国、加拿大、台湾、新加坡、马来西亚、澳大利亚、越南   
-落地提供商：看拓扑、啥都有   
-屏蔽情况：屏蔽新闻网站较少   
-SSH端口屏蔽：22端口未屏蔽   
-邮件传统协议smtp/pop3/imap：未禁止 
-TG频道和群：有，群禁言了  
-客服：有，应该就是老板    
-小白一键客户端: 有，windows  
-退款：不支持  
-推荐指数：4星，适合需要稳定的机场，不想审计太多的用户。   
-<a href="https://jichangcesu.com/Sayss%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速</a>
-
-套餐：
-
-套餐 |  流量 | 价格 
-:-: |  :-: | :-: 
-Basic | 150G/月 |100/季;190/半年;340/年
-Standard | 300G/月 |65/月;146/季;290/半年;540/年
-Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
-
-按量：
-1064G永久时间 ，一次性700块
-2048G永久时间 ，一次性1200块
-
-<details>
-<summary>测速图详情资料，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/sayss.webp"  width = "100%"   align=center   />
-<img src="https://jichangcesu.com/uploads/jichang/sayss/%E6%B5%81%E5%AA%92%E4%BD%93.webp"  width = "100%"   align=center   />
-</details>
-
-## 十四、Catnet(25/月100G)
+## 十三、Catnet(25/月100G)
 
 ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
 
@@ -803,7 +755,7 @@ SSH端口屏蔽：已经屏蔽22端口
 
 
 
-##  十五、EdNovas云(10/月50G)  
+##  十四、EdNovas云(10/月50G)  
 
 vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机场。最便宜5块/25G流量起，5元套餐限时开放，也有在读学生教育计划，私聊机场老板提供教育邮箱课程表可以获得6折优惠码（具体看网站公告）。老板人不错，小白不会用，可以找老板帮你远程电脑操作，老板由于在国外，所以一般是在北京时间中午前在线。
 有两个特色：
@@ -861,7 +813,7 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 
 
-## 十六、Just my sock(5.8刀/月108G)  
+## 十五、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -944,7 +896,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十七、芬达(12.8/月88G)  
+## 十六、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
