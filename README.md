@@ -31,9 +31,9 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、EdNovas云(10块/每月50G)、芬达(12.8块/月88G)、翼游(10块/月50G)、Taishan（50一年） 、一云梯（15/月10G）      
-3) 有试用：Taishan 、Cyanmori、老猫云、Arisaka       
-4) 想要买不限制设备数目的：Sayss、SpeedCAT、Kycloud、Flyingbird、Taishan、Cyanmori、一云梯       
+2) 想要便宜的，10块/月左右机场：贝贝云(9.9/月80G)、悠兔（120一年券后）、海獭（25/季50G/月）、EdNovas云(10块/每月50G)、芬达(12.8块/月88G)
+3) 有试用：Cyanmori、老猫云、Arisaka       
+4) 想要买不限制设备数目的：SpeedCAT、Kycloud、Cyanmori、一云梯       
 
 
 ## 一、BoostNet(39/月200G) 
@@ -1043,16 +1043,16 @@ TG频道和群组：有，1500人+，群组人数3000+
 
      1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
     
-    **10块/月以下**：贝贝云(9.9/月)、大哥云(69/季200G/月)、EdNovas云(10块/每月50G)
+    **10块/月以下**：贝贝云(9.9/月)、EdNovas云(10块/每月50G)、海獭（25/季50G/月）
     
     **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)、haita((15.99/100G)、一云梯（15/月10G）      
     
     **20-30块/月**： kycloud(75/季度50G/月)、Catnet(25/月100G)、Cyanmori
     
-    **30块/月起高端机场**： BoostNet（39/月200G）、Sayss（100块/季） 、Just my sock(5.8刀/月108G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)
+    **30块/月起高端机场**： BoostNet（39/月200G） 、Just my sock(5.8刀/月108G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)
     
      2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、 大哥云(88/年，15G/月)、EdNovas云(150/年200G)、STC-SERVER(0.8块/G，8块起买)
+       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、EdNovas云(150/年200G)、STC-SERVER(0.8块/G，8块起买)
     
      3)**需要1T起大流量月付套餐**：
        悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、EdNovas云(200/月1T)、Just my sock(9.88美元/月起)
@@ -1060,10 +1060,10 @@ TG频道和群组：有，1500人+，群组人数3000+
 3. **协议分类：**
 
 支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：
-悠兔、BoostNet、TAG、Sayss、WgetCloud、SpeedCAT、Kycloud、Just my sock、Catnet、Cyanmori、kuromi、贝贝云   
+悠兔、BoostNet、TAG、WgetCloud、SpeedCAT、Kycloud、Just my sock、Catnet、Cyanmori、kuromi、贝贝云   
 
 
-支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、nekoray、nekobox等）：芬达、STC-SERVER、跑路云 
+支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、nekoray、nekobox等）：芬达
 
 
 支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云、一云梯（15/月10G）、海獭     
@@ -1074,30 +1074,28 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、Just my sock、芬达 、Cyanmori 、老猫云、haita、一云梯（15/月10G）           
-   可用第三方软件发邮件：Sayss、Kycloud、EdNovas云、Just my sock、芬达、Taishan 、老猫云、一云梯（15/月10G）       
-   审计较少：Just my sock、Sayss、Kycloud、EdNovas云、Taishan、Cyanmori、老猫云、一云梯（15/月10G）    
+   未屏蔽22端口：SpeedCAT、Kycloud、EdNovas云、Just my sock、芬达 、Cyanmori 、老猫云、haita、一云梯（15/月10G）           
+   可用第三方软件发邮件：Kycloud、EdNovas云、Just my sock、芬达、老猫云、一云梯（15/月10G）       
+   审计较少：Just my sock、Kycloud、EdNovas云、Cyanmori、老猫云、一云梯（15/月10G）    
 
 
-4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), Sayss、悠兔、flyingbird也有部分冷门节点；
+4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 悠兔、flyingbird也有部分冷门节点；
 
 5. **想要家宽**:TAG、EdNovas云
 
-6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**： Kycloud、EdNovas云、飞鸟。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
+6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**： Kycloud、EdNovas云。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
 
-7. **有TG群**：悠兔、TAG、 Kycloud、RelayCloud、大哥云、EdNovas云
+7. **有TG群**：悠兔、TAG、 Kycloud、EdNovas云
 
-8. **方便小白需要一键使用客户端的**：悠兔、贝贝云、WgetCloud 、EdNovas云、芬达、Sayss    
+8. **方便小白需要一键使用客户端的**：悠兔、贝贝云、WgetCloud 、EdNovas云、芬达
 
 9. **大陆外和新疆用户可以使用**：TAG国际站、kycloud、speedcat
 
-10. **相同线路**：speedcat 、飞鸟相同线路。别买相同线路的做备用
+10.  需要回国线路：EdNovas云
 
-11.  需要回国线路：EdNovas云
+12.  有退款服务：EdNovas云、Just my sock、老猫云
 
-12.  有退款服务：EdNovas云、Just my sock、老猫云、悠兔
-
-13.  需要UDP：TAG、WgetCloud、Sayss、SpeedCAT、EdNovas、老猫云、贝贝云、    
+13.  需要UDP：TAG、WgetCloud、SpeedCAT、EdNovas、老猫云、贝贝云、    
 
 14.  需要emby：TAG 和ednovas。都是nsfw的
 
