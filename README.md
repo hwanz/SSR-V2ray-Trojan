@@ -172,7 +172,7 @@ TG频道：有；无群
 
 ## 三、WgetCloud(49/月120G) 
 
-中转机场，原GaCloud。香港老板，已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。此机场值得推荐     
+多入口专线+中转机场，大量带宽冗余。原GaCloud。香港老板，已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。此机场值得推荐     
 有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。
 通过这个链接注册新用户全员无门槛8折优惠券，只能用一次：
 
@@ -464,49 +464,8 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 
 
 
-
-
-## 八、一云梯(15/月100G)
-
-专线中转Trojan协议机场。某个机场的Trojan协议分站。
-
-[一云梯官网](https://1ytcom01.1yunti.net/register?aff=5LY6r9cJ)
-
-
->开业时间：2024      
-入口：广东     
-过境：专线中转     
-协议：Trojan     
-流媒体解锁：基本全解     
-落地ip数量：84     
-协议：Trojan     
-地区：香港、日本、新加坡、美国、台湾、英国、印度、土耳其、阿根廷、马来、菲律宾、泰国、越南     
-22端口：未屏蔽     
-新闻屏蔽：基本无     
-面板:v2board     
-udp：开启     
-客户端数目：不限制     
-邮件传统协议smtp/pop3/imap：未禁止     
-套餐限速：无     
-TG频道和群：无       
-<a href="https://jichangcesu.com/yiyunti.html" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
-
-**套餐：**
-15/月100G    
-30/月200G   
-60/月400G   
-120/月1000G   
-   
-<details>
-<summary>测速图和流媒体，点击展开</summary>
-南方电信测速结果
-<img src="https://jichangcesu.com/uploads/vpn/yiyunti.webp"  width = "90%"   align=center  alt="机场推荐之一云梯机场测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/yiyunti/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之一云梯机场流媒体" />
-</details> 
-
-## 九、海獭-haita(8.9/月50G)
-SS协议中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
+## 八、海獭(25/季50G)
+trojan协议专线+中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
 
 
 中转带宽很大，大部分用户家里打开最大可能就1G也足够了。
@@ -518,7 +477,7 @@ SS协议中转机场。人少，新机场,速度会很不错。节点暂时不�
 >开业时间：2023.11         
 入口：深圳、北京移动、江苏移动、广州移动        
 过境: 公网中转        
-协议：Shadowsocks        
+协议：trojan       
 付款方式：支付宝        
 TG频道和群：无        
 客户端数目：不限制        
@@ -556,6 +515,47 @@ haita机场流媒体检测：
 
 
 
+
+
+
+## 九、一云梯(15/月100G)
+
+专线中转Trojan协议机场。某个机场的Trojan协议分站。
+
+[一云梯官网](https://1ytcom01.1yunti.net/register?aff=5LY6r9cJ)
+
+
+>开业时间：2024      
+入口：广东     
+过境：专线中转     
+协议：Trojan     
+流媒体解锁：基本全解     
+落地ip数量：84     
+协议：Trojan     
+地区：香港、日本、新加坡、美国、台湾、英国、印度、土耳其、阿根廷、马来、菲律宾、泰国、越南     
+22端口：未屏蔽     
+新闻屏蔽：基本无     
+面板:v2board     
+udp：开启     
+客户端数目：不限制     
+邮件传统协议smtp/pop3/imap：未禁止     
+套餐限速：无     
+TG频道和群：无       
+<a href="https://jichangcesu.com/yiyunti.html" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
+
+**套餐：**
+15/月100G    
+30/月200G   
+60/月400G   
+120/月1000G   
+   
+<details>
+<summary>测速图和流媒体，点击展开</summary>
+南方电信测速结果
+<img src="https://jichangcesu.com/uploads/vpn/yiyunti.webp"  width = "90%"   align=center  alt="机场推荐之一云梯机场测速" />
+流媒体检测：
+<img src="https://jichangcesu.com/uploads/jichang/yiyunti/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之一云梯机场流媒体" />
+</details> 
 
 
 
@@ -1060,13 +1060,13 @@ TG频道和群组：有，1500人+，群组人数3000+
 3. **协议分类：**
 
 支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：
-悠兔、BoostNet、TAG、Sayss、WgetCloud、SpeedCAT、Kycloud、Just my sock、Catnet、Cyanmori、海獭、kuromi、贝贝云   
+悠兔、BoostNet、TAG、Sayss、WgetCloud、SpeedCAT、Kycloud、Just my sock、Catnet、Cyanmori、kuromi、贝贝云   
 
 
 支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、nekoray、nekobox等）：芬达、STC-SERVER、跑路云 
 
 
-支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云、一云梯（15/月10G）      
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云、一云梯（15/月10G）、海獭     
 
 
 支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、EdNovas云、Just my sock       
