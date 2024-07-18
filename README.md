@@ -89,8 +89,6 @@ TG频道：无
 <details>
  <summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
-
-<img src="https://jichangcesu.com/uploads/jichang/boostnet/流媒体.webp"  width = "95%"   align=center  alt="boostnet机场流媒体" />
 </details>
 
 ## 二、悠兔(150年/200G)
@@ -153,10 +151,8 @@ TG频道：有；无群
 
 <details>
  <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu电信家宽测速" />
- 
-<img src="https://jichangcesu.com/uploads/jichang/youtu/流媒体.webp"  width = "95%"   align=center  alt="Youtu流媒体" />
-</details>
+<img src="https://jichangcesu.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu悠兔机场测速" />
+ </details>
 
 
 
@@ -226,10 +222,8 @@ TG频道群组：无，主要使用邮件通知
 
 <details>
 <summary>测速图和流媒体详情，点击展开</summary>
-以下为精品套餐节点晚高峰测速：
-<img src="https://jichangcesu.com/uploads/vpn/gacloud.webp"  width = "90%"   align=center  alt="WgetCloud晚高峰电信1000M家宽测速" />
-流媒体：
-<img src="https://jichangcesu.com/uploads/jichang/gacloud/流媒体.webp"  width = "95%"   align=center  alt="WgetCloud流媒体" />
+以下为精品套餐节点测速：
+<img src="https://jichangcesu.com/uploads/vpn/gacloud.webp"  width = "90%"   align=center  alt="WgetCloud测速" />
 </details>
 
 
@@ -291,8 +285,11 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 
 
 
+<details>
+<summary>部分节点测速图和流媒体详情，点击展开。全图看历史测速</summary>
+<img src="https://jichangcesu.com/uploads/vpn/tag.webp"  width = "90%"   align=center  alt="TAG晚高峰测速" />
+</details>
 
-测速图、拓扑结构检测和流媒体看历史测速
 
  
 
@@ -345,8 +342,6 @@ TG频道：有；无群
 <details>
 <summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/beibei.webp"  width = "90%"  align=center  alt="贝贝云电信测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/beibei/流媒体.webp"  width = "95%"   align=center  alt="贝贝云流媒体" />
 </details>
 
 
@@ -455,8 +450,7 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 
 <details>
 <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰移动600M家宽测速" />
-<img src="https://jichangcesu.com/uploads/jichang/cyanmori/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之cyanmori机场流媒体" />
+<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰测速" />
 </details>
 
 
@@ -506,11 +500,7 @@ ipv6支持情况：不支持
 
 <details>
 <summary>haita机场测速图和流媒体-点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场晚高峰电信1000M家宽测速" />
- 
-haita机场流媒体检测：
-
- <img src="https://jichangcesu.com/uploads/jichang/haita/流媒体.webp"  width = "90%"  align=center  alt="haita机场流媒体.webp测速" />
+<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
 </details>
 
 
