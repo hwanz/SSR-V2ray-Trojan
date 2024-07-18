@@ -398,10 +398,8 @@ Team1 | 1T/月 | 369/季度
 Team2 | 2T/月 | 609/季度 
 
 <details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
+<summary>测速图测和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/kycloud.webp"  width = "90%"  align=center  alt="kycloud晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/kycloud/流媒体.webp"  width = "95%"   align=center  alt="kycloud流媒体" />
 </details>
 
 
@@ -543,8 +541,6 @@ TG频道和群：无
 <summary>测速图和流媒体，点击展开</summary>
 南方电信测速结果
 <img src="https://jichangcesu.com/uploads/vpn/yiyunti.webp"  width = "90%"   align=center  alt="机场推荐之一云梯机场测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/yiyunti/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之一云梯机场流媒体" />
 </details> 
 
 
@@ -598,8 +594,6 @@ TG电报频道：官网，关注人数：1000+；群禁言
 <summary>测速图和流媒体，点击展开</summary>
 南方电信测速结果
 <img src="https://jichangcesu.com/uploads/vpn/speedcat.webp"  width = "90%"   align=center  alt="晚高峰家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/speedcat/流媒体.webp"  width = "95%"   align=center  alt="speedcat流媒体" />
 </details> 
 
 
@@ -651,8 +645,6 @@ F套餐: 50/月，每月500G
 <details>
 <summary>测速图流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/laomao/流媒体.webp"  width = "95%"   align=center  alt="机场推荐之老猫云流媒体" />
 </details>
 
 
@@ -693,8 +685,6 @@ F套餐: 50/月，每月500G
 <details>
 <summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/arisaka.webp"  width = "90%"  align=center  alt="arisaka电信测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/arisaka/流媒体.webp"  width = "95%"   align=center  alt="arisaka流媒体" />
 </details>
 
 
@@ -738,8 +728,6 @@ SSH端口屏蔽：已经屏蔽22端口
 <details>
 <summary>测速图和流媒体点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/catnet/流媒体.webp"  width = "90%"   align=center  alt="catnet机场流媒体" />
 </details> 
 
 
@@ -933,8 +921,6 @@ TG频道和群组：无
 
 <summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangcesu.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
 </details>
 
 <!-- 
