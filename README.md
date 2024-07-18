@@ -450,7 +450,7 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 
 <details>
 <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/cyanmori_yidong.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场晚高峰测速" />
+<img src="https://jichangcesu.com/uploads/vpn/cyanmori.webp"  width = "90%"   align=center  alt="机场推荐之cyanmori机场测速" />
 </details>
 
 
