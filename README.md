@@ -408,7 +408,7 @@ Team2 | 2T/月 | 609/季度
 
 
 
-
+<!-- 
 
 ##  七、Cyanmori(20/月160G-老板出车祸，节点暂时不可用)
 
@@ -455,13 +455,14 @@ Plan A | 160G/月 | 85/季度  | 无限设备
 </details>
 
 
+ -->
 
 
 
 
-## 八、海獭(25/季50G)
+## 七、海獭(25/季50G)
 trojan协议专线+中转机场。人少，新机场,速度会很不错。节点暂时不多，但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。入口：香港是移动电信联通三线人口。入口有北京、江苏、广州。不限制客户端数目。广东使用的话香港延迟很低。  85折优惠码：pN02HX5n
-
+流媒体解锁非常好。
 
 中转带宽很大，大部分用户家里打开最大可能就1G也足够了。
 
@@ -509,7 +510,7 @@ ipv6支持情况：不支持
 
 
 
-## 九、一云梯(15/月100G)
+## 八、一云梯(15/月100G)
 
 专线中转Trojan协议机场。某个机场的Trojan协议分站。
 
@@ -550,7 +551,7 @@ TG频道和群：无
 
 
 
-## 十、SpeedCAT(20/月100G) 
+## 九、SpeedCAT(20/月100G) 
 
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
@@ -601,7 +602,7 @@ TG电报频道：官网，关注人数：1000+；群禁言
 
 
 
-## 十一、老猫云(15/月50G)
+## 十、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
@@ -657,7 +658,7 @@ F套餐: 50/月，每月500G
 
 
 
-## 十二、Arisaka(16/月80G)  
+## 十一、Arisaka(16/月80G)  
 大带宽专线+隧道ss协议机场   
 南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月100G起，价格还行；8折优惠：UwtJ9Ov1   
 有 10G流量 试用
@@ -691,54 +692,8 @@ F套餐: 50/月，每月500G
 </details>
 
 
-## 十三、Catnet(25/月100G)
 
-ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
-
-
-[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
-
-[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
-
-[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
-
-
-
->开业时间：2022年   
-过境：深港专线   
-流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
-UDP：支持   
-付款方式：支付宝   
-落地ip数量：48    
-协议：ss  
-专门客服：有   
-ChatGPT/OpenAI解锁: 除香港  
-地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
-SSH端口屏蔽：已经屏蔽22端口   
-邮件传统协议smtp/pop3/imap：未禁止
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】按钮中                  
-<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
-
-
-
-套餐:
-
-* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
-* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
-
-
-<details>
-<summary>测速图和流媒体点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
-</details> 
-
-
-
-
-
-
-##  十四、TaiShan(60/年)
+##  十二、TaiShan(60/年)
 taishan，泰山，老板说是寓意稳如泰山的意思。便宜公网中转+ iepl，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术。看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。价格便宜的话大家也宽容一点哈哈。
 
 便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。   
@@ -793,6 +748,100 @@ TG频道和群：有
 <details>
  <summary>测速图，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/taishan.webp"  width = "90%"  align=center  alt="taishan晚高峰电信1000M家宽测速" />
+</details>
+
+
+
+## 十三、Catnet(25/月100G)
+
+ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
+
+
+[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
+
+[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
+
+[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
+
+
+
+>开业时间：2022年   
+过境：深港专线   
+流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
+UDP：支持   
+付款方式：支付宝   
+落地ip数量：48    
+协议：ss  
+专门客服：有   
+ChatGPT/OpenAI解锁: 除香港  
+地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
+墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
+SSH端口屏蔽：已经屏蔽22端口   
+邮件传统协议smtp/pop3/imap：未禁止
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】按钮中                  
+<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
+
+
+
+套餐:
+
+* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
+* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
+
+
+<details>
+<summary>测速图和流媒体点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
+</details> 
+
+
+
+
+## 十四、芬达(12.8/月88G)  
+
+
+全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
+
+[芬达机场官网1](https://reurl.cc/dmaL0M)     
+ 
+[芬达机场官网2](https://suo.yt/B9SCB5h)       
+
+[芬达机场官网3](https://fenda.cloud/auth/register?code=BkFF)   
+
+
+
+>开业时间：2021         
+老板肉身：北美(确定)         
+过境：IEPL专线中转         
+入口ip数量：2         
+协议：Shadowsocks         
+UDP：支持         
+ChatGPT/OpenAI解锁: 全解锁         
+墙外新闻网站屏蔽情况：屏蔽轮媒         
+SSH端口屏蔽：未屏蔽22端口         
+邮件传统协议smtp/pop3/imap：未禁止         
+落地：美国、台湾、新加坡、日本、香港、韩国         
+一键使用客户端： 有         
+TG频道和群组：无         
+付款方式：支付宝         
+套餐价格是否包含手续费：包含         
+国外能否使用：否         
+<a href="https://jichangcesu.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
+
+
+**套餐(所有套餐节点一样):**
+
+套餐 |  流量 | 价格 |客户端数目 
+:-:  | :-: | :-: | :-:
+基础月付 | 88G/月 | 12.8块/月 | 3   
+进阶月付 | 188G/月 | 22.8块/月 | 4   
+旗舰月付 | 288G/月 | 32.8块/月 | 6   
+
+
+<details>
+
+<summary>测速图和流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
 </details>
 
 
@@ -881,52 +930,6 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十六、芬达(12.8/月88G)  
-
-
-全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
-
-[芬达机场官网1](https://reurl.cc/dmaL0M)     
- 
-[芬达机场官网2](https://suo.yt/B9SCB5h)       
-
-[芬达机场官网3](https://fenda.cloud/auth/register?code=BkFF)   
-
-
-
->开业时间：2021         
-老板肉身：北美(确定)         
-过境：IEPL专线中转         
-入口ip数量：2         
-协议：Shadowsocks         
-UDP：支持         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：未屏蔽22端口         
-邮件传统协议smtp/pop3/imap：未禁止         
-落地：美国、台湾、新加坡、日本、香港、韩国         
-一键使用客户端： 有         
-TG频道和群组：无         
-付款方式：支付宝         
-套餐价格是否包含手续费：包含         
-国外能否使用：否         
-<a href="https://jichangcesu.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
-
-
-**套餐(所有套餐节点一样):**
-
-套餐 |  流量 | 价格 |客户端数目 
-:-:  | :-: | :-: | :-:
-基础月付 | 88G/月 | 12.8块/月 | 3   
-进阶月付 | 188G/月 | 22.8块/月 | 4   
-旗舰月付 | 288G/月 | 32.8块/月 | 6   
-
-
-<details>
-
-<summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="fenda晚高峰电信1000M家宽测速" />
-</details>
 
 <!-- 
 
