@@ -41,9 +41,9 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 广港+深港双IEPL内网专线ss协议机场，小众精品机场。相对低调。人少，体验还不错,速度很快，延迟较低。也稳定。老板说是一线机场发展的。新人8折优惠券：boost
 
 
-[BoostNet官网链接](https://boostnet1.com/#/register?code=Pj4Wrfai) 
+[BoostNet机场官网地址1](https://boostqz.com?path=register&code=Pj4Wrfai)  
 
-[BoostNet永久官网链接](https://boostqz.com?path=register&code=Pj4Wrfai)
+[BoostNet机场官网地址2](https://boostnet1.com/#/register?code=Pj4Wrfai)  
 
 
 >开业时间：2024  
