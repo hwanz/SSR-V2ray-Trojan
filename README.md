@@ -40,13 +40,10 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 广港+深港双IEPL内网专线ss协议机场，小众精品机场。相对低调。人少，体验还不错,速度很快，延迟较低。也稳定。老板说是一线机场发展的。新人8折优惠券：boost
 
-[BoostNet官网链接1](https://boostqz.com?path=register&code=Pj4Wrfai)
 
-[BoostNet官网链接2](https://boostnet1.com/#/register?code=Pj4Wrfai) 
+[BoostNet官网链接](https://boostnet1.com/#/register?code=Pj4Wrfai) 
 
-[BoostNet官网链接3](https://boostnet.top/#/register?code=Pj4Wrfai)  
-
-[BoostNet官网链接4](https://boostnet2.top/#/register?code=Pj4Wrfai) 
+[BoostNet永久官网链接](https://boostqz.com?path=register&code=Pj4Wrfai)
 
 
 >开业时间：2024  
@@ -300,11 +297,12 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定性也不错。单条带宽不大但是足够使用，适合不想人太多的，速度不错，性价比高。95折优惠码,只能使用一次： beibei.cloud     
 
 
-[贝贝云机场官网地址1](https://beibei.cloud?path=register&code=qwqDFEUW)    
+[贝贝云机场官网地址1](https://link1.beibeicloud.shop/#/register?code=qwqDFEUW)
 
-[贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)    
+[贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)
 
-[贝贝云机场官网地址3](https://beibeicloud.shop/#/register?code=qwqDFEUW)     
+[贝贝云机场官网永久地址](https://beibei.cloud?path=register&code=qwqDFEUW)
+
 
 
 
