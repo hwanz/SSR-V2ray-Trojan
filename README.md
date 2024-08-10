@@ -101,8 +101,6 @@ IEPL专线+隧道中转SS协议机场，过境大带宽。适合不想人太多�
 
 [悠兔机场官网地址4](https://youtu6.shop/register?aff=3CxiqyOc)      
 
-[悠兔机场官网地址5，福建可打开](https://xn--h5qt68a.xn--sjqr9mozc.com/register?aff=3CxiqyOc)     
-
 
 
 机场官网是很容易被污染的，打不开使用全局代理，下面所有机场官网都是。
