@@ -16,10 +16,10 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。
 
 6. 各平台客户端推荐：
->Windows：Clash For Windows、Clash-verge-rev、V2rayN、FLClash（简单）        
-Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、FLClash（简单）   
+>Windows：Clash For Windows、Clash-verge-rev、V2rayN、FLClash和Hiddiify（简单）        
+Mac：Clash For Windows和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、FLClash和Hiddiify（简单）   
 IOS：小火箭Shadowrocket、QuantumultX、Stash、Loon、有钱的买Surge、karing和strisand（免费且简单）   
-安卓：ClashMetaforAndroid(CMFA)、FLClash、Surfboard、V2rayNG         
+安卓：ClashMetaforAndroid(CMFA)、FLClash和Hiddiify、Surfboard、V2rayNG         
 Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
 shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard、Singbox内核的和Surge不支持shadowsocksR。 
