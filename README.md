@@ -509,30 +509,40 @@ ipv6支持情况：不支持
 
 
 
-## 八、一云梯(15/月100G)
+## 八、龙猫云(15/月100G)
 
-专线中转Trojan协议机场。某个机场的Trojan协议分站。
+totorocloud，专线中转机场。观察挺久，感觉速度都挺好。观察了很久才推荐的。值得推荐。而且也退出了TG宣传。更加稳定。
 
-[一云梯官网](https://1ytcom01.1yunti.net/register?aff=5LY6r9cJ)
+注意：speedcat、龙猫云、Flyingbird、一云梯是相同线路类型。别买重复了。
+
+[龙猫云机场官网地址1](https://suo.st/gbKtosX)
+
+[龙猫云机场官网地址2](https://jichangtj.lmvipaff.com/#/register?code=Qb502cPh)
 
 
->开业时间：2024      
-入口：广东     
-过境：专线中转     
-协议：Trojan     
-流媒体解锁：基本全解     
-落地ip数量：84     
-协议：Trojan     
-地区：香港、日本、新加坡、美国、台湾、英国、印度、土耳其、阿根廷、马来、菲律宾、泰国、越南     
-22端口：未屏蔽     
-新闻屏蔽：基本无     
+
+>开业时间：2022   
+入口：3   
+肉身：老板说是在外  
+过境线路：专线  
+节点数目： 67  
+协议：Shadowsocks  
+ip设置数目：不限制   
+付款方式：支付宝、微信  
+ChatGPT/OpenAI解锁: 全节点解锁  
+墙外新闻网站屏蔽情况：基本不屏蔽   
+SSH端口屏蔽：屏蔽22端口   
+邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)  
+地区：香港、日本、马来西亚、新加坡、美国、台湾、土耳其、阿根廷  
+落地： Hytron、Akari、Oracle  
+TG电报频道：机场官网，关注人数：1000+;群禁言  
+付款方式：支付宝、微信  
+套餐价格是否包含手续费：包含 
+只能中国内地使用：否，具体咨询站长  
+小白一键客户端: 无 
 面板:v2board     
-udp：开启     
-客户端数目：不限制     
-邮件传统协议smtp/pop3/imap：未禁止     
-套餐限速：无     
-TG频道和群：无       
-<a href="https://jichangcesu.com/yiyunti.html" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】按钮中     
+<a href="https://jichangcesu.com/totorocloud" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
 
 **套餐：**
 15/月100G    
@@ -543,7 +553,7 @@ TG频道和群：无
 <details>
 <summary>测速图和流媒体，点击展开</summary>
 南方电信测速结果
-<img src="https://jichangcesu.com/uploads/vpn/yiyunti.webp"  width = "90%"   align=center  alt="机场推荐之一云梯机场测速" />
+<img src="https://jichangcesu.com/uploads/vpn/totorocloud.webp"  width = "90%"   align=center  alt="机场推荐之龙猫云机场测速" />
 </details> 
 
 
