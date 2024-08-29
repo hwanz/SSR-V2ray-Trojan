@@ -98,7 +98,7 @@ IEPL专线+隧道中转SS协议机场，过境大带宽。适合不想人太多�
 [悠兔机场官网地址2](https://youtu0.com?path=register&code=3CxiqyOc)     
 
 
-[悠兔机场官网地址3](https://youtu7.shop/register?aff=3CxiqyOc) 
+[悠兔机场官网地址3](https://link1.youtu6.shop/register?aff=3CxiqyOc) 
 
 [悠兔机场官网地址4](https://link1.yootu.shop/register?aff=3CxiqyOc)     
 
