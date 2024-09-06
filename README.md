@@ -1018,30 +1018,30 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：SpeedCAT、Kycloud、EdNovas云、Just my sock、芬达 、Cyanmori 、老猫云、haita、一云梯（15/月10G）           
-   可用第三方软件发邮件：Kycloud、EdNovas云、Just my sock、芬达、老猫云、一云梯（15/月10G）       
-   审计较少：Just my sock、Kycloud、EdNovas云、Cyanmori、老猫云、一云梯（15/月10G）    
+   未屏蔽22端口：SpeedCAT、Kycloud、Just my sock、芬达  、老猫云、haita           
+   可用第三方软件发邮件：Kycloud、EdNovas云、Just my sock、芬达、老猫云     
+   审计较少：Just my sock、Kycloud、老猫云 
 
 
 4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 悠兔、flyingbird也有部分冷门节点；
 
 5. **想要家宽**:TAG、EdNovas云
 
-6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**： Kycloud、EdNovas云。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
+6. **支持虚拟币（虚拟币支付注意会有1U手续费，到账金额需要和显示的一样）**： Kycloud。注意到账金额需要和显示的一样，币安和okx会从转载金额里面扣1U手续费。
 
-7. **有TG群**：悠兔、TAG、 Kycloud、EdNovas云
+7. **有TG群**：悠兔、TAG、 Kycloud
 
-8. **方便小白需要一键使用客户端的**：悠兔、贝贝云、WgetCloud 、EdNovas云、芬达
+8. **方便小白需要一键使用客户端的**：悠兔、贝贝云、WgetCloud 、芬达
 
-9. **大陆外和新疆用户可以使用**：TAG国际站、kycloud、speedcat
+9. **大陆外和新疆用户可以使用**：TAG国际站、kycloud
 
 10.  需要回国线路：EdNovas云
 
 12.  有退款服务：EdNovas云、Just my sock、老猫云
 
-13.  需要UDP：TAG、WgetCloud、SpeedCAT、EdNovas、老猫云、贝贝云、    
+13.  需要UDP：TAG、WgetCloud、SpeedCAT、老猫云、贝贝云    
 
-14.  需要emby：TAG 和ednovas。都是nsfw的
+14.  需要emby：TAG ，nsfw的
 
 
 
