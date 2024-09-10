@@ -45,6 +45,8 @@ https://appleidbook.top 独享和租借美区小火箭和Quantumult、stash、Lo
 
 [BoostNet机场官网地址2](https://boostnet1.com/#/register?code=Pj4Wrfai)  
 
+[BoostNet机场官网地址2](https://boostnet2.com/#/register?code=Pj4Wrfai)  
+
 
 >开业时间：2024  
 老板肉身：墙外  
@@ -466,9 +468,9 @@ trojan协议专线+中转机场。人少，新机场,速度会很不错。节点
 中转带宽很大，大部分用户家里打开最大可能就1G也足够了。
 
 
-[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)  
 [Haita机场官网地址](https://haita.io/register?aff=VQq8ZO5j)
 
+[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)  
 
 
 >开业时间：2023.11         
@@ -748,66 +750,9 @@ TG频道和群组：无
 </details>
 
 
-##  十三、TaiShan(60/年)
-taishan，泰山，老板说是寓意稳如泰山的意思。便宜公网中转+ iepl，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术。看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜8.5块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。稳定性和速度还行，优点就是便宜。价格便宜的话大家也宽容一点哈哈。
-
-便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。   
-  
-从群里反馈看还可以。速度不错，但是稳定性只能说对得起价格，流媒体解锁也不错。老板和技术出问题修得快，态度也不错。近期老有人在群里问有没不限时、按量付费的,推荐这家  
-
-[taishan官网地址1](https://jp.taishan.pro/register?code=HgVGfDEz)   
-
-[taishan官网地址2](https://ru.taishan.pro/register?code=HgVGfDEz)   
-
-[taishan官网地址3](https://hk.taishan.pro/register?code=HgVGfDEz)    
-
-专属一键客户端：  支持安卓、Windows、苹果电脑  
-开业时间：22年6月以前,新开。怕跑路，就月付。 
-肉身：日本  
-入口与过境线路：公网中转 + iepl 
-节点数目： 58个  
-协议：Shadowsocks（不支持shadowsocksR软件）
-ip设置数目：不限制 
-UDP：支持    
-付款方式：支付宝、微信、USDT\TRX 
-ChatGPT/OpenAI解锁: 除了香港基本全解锁   
-地区：香港、美国、日本、台湾、新加坡、法国、英国、俄罗斯、土耳其、越南、韩国等17个地区  
-落地提供商：主要就是hytron和akamai、wapac等，能跑起来就行。  
-新闻屏蔽情况：大概看来下就屏蔽轮媒  
-SSH端口屏蔽：屏蔽   
-邮件传统协议smtp/pop3/imap：未禁止  
-TG频道和群：有   
-退款：不支持  
-试用：1天5G   
-只能中国内地使用：是，仅有一个海外可用节点  
-面板:v2board   
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；   
-<a href="./taishan机场怎么样.html" target="_blank">https://jichangcesu.com/TaiShan机场使用教程和历史测速</a>
 
 
-套餐：
-
-流量 | 价格 
-:-: | :-: 
-64G/月 |8.5/月;21/季;38/半年;60/年
-128G/月 |10/月;27/季;50/半年;84/年
-256G/月 |18/月;48/季;90/半年;150/年
-512G/月 |32/月;86/季;160/半年;268/年
-
-
-按量不限时：
-150G永久时间，一次性27块   
-500G永久时间，一次性65块  
-1000G永久时间，一次性120块    
-
-<details>
- <summary>测速图，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/taishan.webp"  width = "90%"  align=center  alt="taishan晚高峰电信1000M家宽测速" />
-</details>
-
-
-
-## 十四、Just my sock(5.8刀/月108G)  
+## 十三、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
