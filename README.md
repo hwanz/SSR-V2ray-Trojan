@@ -470,7 +470,7 @@ trojan协议专线+中转机场。人少，新机场,速度会很不错。节点
 
 [Haita机场官网地址](https://haita.io/register?aff=VQq8ZO5j)
 
-[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)  
+[Haita机场官网地址](https://haita.me/register?aff=VQq8ZO5j)  
 
 
 >开业时间：2023.11         
@@ -519,9 +519,7 @@ totorocloud，专线中转机场。观察挺久，感觉速度都挺好。观察
 
 注意：speedcat、龙猫云、Flyingbird、一云梯是相同线路类型。别买重复了。
 
-[龙猫云机场官网地址1](https://suo.st/gbKtosX)
-
-[龙猫云机场官网地址2](https://jichangtj.lmvipaff.com/#/register?code=Qb502cPh)
+[龙猫云机场官网地址](https://jichangtj01.lmvipaff.com/#/register?code=Qb502cPh)
 
 
 
