@@ -468,9 +468,9 @@ trojan协议专线+中转机场。人少，新机场,速度会很不错。节点
 中转带宽很大，大部分用户家里打开最大可能就1G也足够了。
 
 
-[Haita机场官网地址](https://haita.io/register?aff=VQq8ZO5j)
+[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
 
-[Haita机场官网地址](https://haita.me/register?aff=VQq8ZO5j)  
+[Haita机场官网地址](https://cdn.haita.org/register?aff=VQq8ZO5j)  
 
 
 >开业时间：2023.11         
