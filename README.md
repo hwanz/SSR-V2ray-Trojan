@@ -630,52 +630,10 @@ F套餐: 50/月，每月500G
 
 
 
-## 十二、Catnet(25/月100G)
-
-ss协议，入口江苏镇江移动，过境深港专线。比主站人少。速度不错。 之前更换了老板。
-
-
-[Catnet机场官网链接1](https://suo.st/4aMdzcZ)     
-
-[Catnet机场官网链接2，需要代理](https://reurl.cc/2EQExv)    
-
-[Catnet机场官网链接3](https://www.58catnet.com/#/register?code=3yC7AZHo)    
 
 
 
->开业时间：2022年   
-过境：深港专线   
-流媒体解锁：youtube Premium、HBO Max 、Abema TV 、 DAZN、PCR jP   
-UDP：支持   
-付款方式：支付宝   
-落地ip数量：48    
-协议：ss  
-专门客服：有   
-ChatGPT/OpenAI解锁: 除香港  
-地区：香港、日本、新加坡、美国、台湾、德国、荷兰、印度、英国、加拿大、澳大利亚     
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa  
-SSH端口屏蔽：已经屏蔽22端口   
-邮件传统协议smtp/pop3/imap：未禁止
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】按钮中                  
-<a href="https://jichangcesu.com/catnet历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体chatGPT、历史测速结果合集与用户评价</a>
-
-
-
-套餐:
-
-* Small:25/月， 每月100G，可3个在线设备，限速250Mbps
-* Meduim：50/月，每月300G；可3个在线设备，限速750Mbps
-
-
-<details>
-<summary>测速图和流媒体点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/catnet.webp"  width = "90%"  align=center  alt="catnet机场晚高峰电信1000M家宽测速" />
-</details> 
-
-
-
-
-## 十三、芬达(12.8/月88G)  
+## 十二、芬达(12.8/月88G)  
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -725,7 +683,7 @@ TG频道和群组：无
 
 
 
-## 十四、Just my sock(5.8刀/月108G)  
+## 十三、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -811,7 +769,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十五、大哥云(19.8/月100G)           
+## 十四、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。机场主在东南亚，不用担心跑路。注册可以试用，试用没问题再买。稳定还是稳定的.在我监督下 ，更换了机器，测速好看了。单条2G带宽起。
 
