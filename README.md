@@ -235,7 +235,7 @@ IEPL专线中转SS协议机场
 154块/一年的很适合做备用或者是轻度使用用户。
 
 
-[TAG机场官网](https://tagss06.pro/#/auth/AJCjBhsw)
+[TAG机场官网](https://honven.dedicated-afflink.com/#/auth/AJCjBhsw)
 
 
    
@@ -345,11 +345,8 @@ IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，�
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
 
 
-[kycloud机场官网1](https://reurl.cc/QeGMyo) 
 
-[kycloud机场官网2](https://suo.st/27wgsFR) 
-
-[kycloud机场官网3](https://my.cloudn.cc/aff.php?aff=40961)
+[kycloud机场官网](https://my.cloudn.cc/aff.php?aff=40961)
 
 
 
@@ -543,12 +540,8 @@ TG电报频道：有
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
 
-[官网1](https://reurl.cc/orgVV5)
 
-[官网1](https://suo.st/t1mfXFF)
-
-
-[官网3](https://laomao.biz/?path=register&code=i0Vv9N5R)
+[老猫云官网](https://laomao.biz/?path=register&code=i0Vv9N5R)
  
 
 
@@ -599,9 +592,8 @@ F套餐: 50/月，每月500G
 南部是深圳入口全走专线；东部1倍率走隧道，3倍率走专线。15.99/月100G起，价格还行；8折优惠：UwtJ9Ov1   
 有 10G流量 试用
 
-[Arisaka官网1](https://reurl.cc/9vzkxY)
 
-[Arisaka官网2](https://arisaka.io/#/register?code=eYgRRmM3)
+[Arisaka官网](https://arisaka.io/#/register?code=eYgRRmM3)
 
 
 >地区：香港、新加坡、日本、德国、美国、台湾、韩国
@@ -639,11 +631,8 @@ F套餐: 50/月，每月500G
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
 
-[芬达机场官网1](https://reurl.cc/dmaL0M)     
  
-[芬达机场官网2](https://suo.yt/B9SCB5h)       
-
-[芬达机场官网3](https://fenda.cloud/auth/register?code=BkFF)   
+[芬达机场官网,需要代理](https://fenda.cloud/auth/register?code=BkFF)   
 
 
 
@@ -694,7 +683,9 @@ TG频道和群组：无
 
 IPLC专线非常稳定，直连线路被封会免费秒换ip。反正搬瓦工自己有大量ip。建议根据自己使用的网络运营商测试。实在不好用就开工单退款，英文不会写就谷歌翻译。         
 
-[官网注册地址，需要代理或全局模式访问](https://bit.ly/3weANGp)
+[Just my sock机场官网注册地址](https://justmysocks3.net/members/aff.php?aff=3207)
+
+[Just my sock机场官网注册地址2](https://justmysocks6.net/members/aff.php?aff=3207)
 
 >专线: 有         
 落地：香港、日本、美国         
@@ -755,14 +746,8 @@ HK CMI是中国移动香港数据中心，走NTT香港中转。中国电信使�
 搬瓦工CN2-GIA是目前最稳定的线路之一，三网表现都不错。绝版瓦工套餐价格居高不下，已经成为传家宝，理财产品。         
 虽然市面上有很多vps厂商声称有GIA线路，但是搬瓦工比他们中的绝大多数都要好不少。         
 YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场呢。         
-[搬瓦工官网](https://bit.ly/3sDxUwC)
 
-想知道更多自建翻墙代理的VPS主机，参考：[适合翻墙建站国外VPS服务器主机推荐](https://jichangcesu.com/国外VPS主机推荐.html)
-
-
-
-
-
+想知道更多自建翻墙代理的VPS主机，参考：[适合翻墙建站国外VPS服务器主机推荐](https://jichangtuijian.com/国外VPS主机推荐.html
 
 
 
