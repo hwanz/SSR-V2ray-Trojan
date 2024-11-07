@@ -454,7 +454,7 @@ totorocloud，中转trojan机场。观察挺久，感觉速度都挺好。观察
 
 注意：speedcat、龙猫云、Flyingbird、一云梯是相同线路类型。别买重复了。
 
-[龙猫云机场官网地址](https://jichangtj.lmvipaff01.cc/#/register?code=Qb502cPh)
+[龙猫云机场官网地址](https://jctj02.lmvipaff01.cc/#/register?code=Qb502cPh)
 
 
 
