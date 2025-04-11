@@ -29,8 +29,10 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版�
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
 2) 想要便宜的，10块/月左右机场：贝贝云(14.9/月100G/月)、悠兔（120一年）、海獭（25/季50G/月）、EdNovas云(10块/每月50G)、芬达(12.8块/月88G)
 3) 有试用：Cyanmori、老猫云、Arisaka、万达云       
-4) 想要买不限制设备数目的：SpeedCAT、Kycloud、Cyanmori、一云梯       
-5) 按量付费：stc、万达云      
+4) 想要买不限制设备数目的：SpeedCAT、Kycloud、Cyanmori、一云梯          
+5) 按量付费：stc、万达云、泰山         
+6) 小流量备用：BoostNet:20G/月118/年； 悠兔:120块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月       
+     
 
 ## 一、BoostNet(39/月200G) 
 
