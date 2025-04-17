@@ -18,19 +18,19 @@
 6. 各平台客户端推荐：
 >Windows：Clash-verge-rev、Mihomo-Party、FLClash和Hiddify（简单）        
 Mac：Mihomo-Party和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、FLClash和Hiddify（简单）   
-IOS：Hiddify（免费）、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge、karing（免费）   
+IOS：Hiddify（免费）、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge、karing（免费）   
 安卓：ClashMetaforAndroid(CMFA)、FLClash和Hiddify、Surfboard、V2rayNG         
-Linux：Shell clash、Clash For Windows、clash-verge-rev和FLClash的Linux版本    
+Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(14.9/月100G/月)、悠兔（120一年）、海獭（25/季50G/月）、EdNovas云(10块/每月50G)、芬达(12.8块/月88G)
-3) 有试用：Cyanmori、老猫云、Arisaka、万达云       
-4) 想要买不限制设备数目的：SpeedCAT、Kycloud、Cyanmori、一云梯          
-5) 按量付费：stc、万达云、泰山         
+2) 想要便宜的，10块/月左右机场：贝贝云(14.9/月100G/月)、悠兔（120一年）、海獭（25/季50G/月）、芬达(12.8块/月88G)
+3) 有试用：老猫云、万达云       
+4) 想要买不限制设备数目的：SpeedCAT、Kycloud         
+5) 按量付费：stc、万达云         
 6) 小流量备用：BoostNet:20G/月118/年； 悠兔:120块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月       
      
 
@@ -97,11 +97,9 @@ TG频道：无
 
 [悠兔机场官网地址2](https://youtu0.com?path=register&code=3CxiqyOc)     
 
-
 [悠兔机场官网地址3](https://link1.youtu6.shop/register?aff=3CxiqyOc) 
 
 [悠兔机场官网地址4](https://a.youtu7.shop/register?aff=3CxiqyOc)     
-
 
 
 机场官网是很容易被污染的，打不开使用全局代理，下面所有机场官网都是。
@@ -150,17 +148,6 @@ TG频道：有；无群
  <summary>测速图和流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu悠兔机场测速" />
  </details>
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 三、WgetCloud(59/月140G) 
@@ -217,8 +204,6 @@ TG频道群组：无，主要使用邮件通知
 优质 | 15个节点 | 160G/月69块/月；220G/月207块/季；280G/月708块/年
 精品 | 29个节点 | 180G/月79块/月；240G/月207块/季；320G/月828块/年
 
-
-
 <details>
 <summary>测速图和流媒体详情，点击展开</summary>
 以下为精品套餐节点测速：
@@ -234,14 +219,9 @@ IEPL专线中转SS协议机场
 
 特色：流媒体解锁和落地，有大量冷门节点，全球92+国家地区，各地家宽IP、原生ip。老板很认真挑选落地节点，基本都是原生(解锁各种流媒体)并且带宽大的才用，高质量的落地，各类型商宽与罕见的家宽，非常适合各类流媒体爱好者。机场主在香港。不买他家套餐，也推荐买140一年的流量包可做备用。也有海外站点。家宽适合拿来注册账号之类的，比如spotify解锁；使用ChatGPT、去墙内定位不同国家IP装逼等。还有Starlink（马斯克的星链）、国外蜂窝数据网络。（但是因为是机场很多人使用过，所以即使是家宽也可能会被污染）
 观察这家很多年了也，从测速记录也可以看得到，一直在升级线路，节点也越来越多。TG里面也是很出名的存在，以节点多著名。TG机场圈子里面评价也很不错，大家常推荐的机场。
-
-
 154块/一年的很适合做备用或者是轻度使用用户。
 
-
 [TAG机场官网](https://honven.dedicated-afflink.com/#/auth/AJCjBhsw)
-
-
    
 >开业时间：2018         
 老板肉身：香港(确定)         
@@ -278,29 +258,20 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 特选套餐 | 200G/年 |154块/年，很适合做备用
 团队套餐 |3000G/月 | 627块/月
 
-
-
 <details>
 <summary>部分节点测速图和流媒体详情，点击展开。全图看历史测速</summary>
 <img src="https://jichangcesu.com/uploads/vpn/tag.webp"  width = "90%"   align=center  alt="TAG晚高峰测速" />
 </details>
 
-
- 
-
 ## 五、贝贝云(14.9/月100G/月)     
 
 SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定性也不错。单条带宽不大但是足够使用，适合不想人太多的，速度不错，性价比高。95折优惠码,只能使用一次： beibei.cloud     
-
 
 [贝贝云机场官网地址1](https://link1.beibeicloud.shop/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网永久地址](https://beibei.cloud?path=register&code=qwqDFEUW)
-
-
-
 
 >开业时间：2022       
 老板肉身：墙外      
@@ -348,13 +319,7 @@ TG频道：有；无群
 IEPL专线中转SS+Vmess机场，老机场，多个入口，目前是不同的入口写了不同的东南西北节点名称。E电信S联通W移动N三网BGP,三网BGP也就是你是啥网就走啥网.可避免日常同时全挂，自行选择入口使用，测速看每条线路带宽都挺大。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
 
-
-
 [kycloud机场官网](https://my.cloudn.cc/aff.php?aff=40961)
-
-
-
-
 
 >开业时间：2017年开的老牌机场         
 老板肉身：海外(确定)         
@@ -378,7 +343,6 @@ TG频道和群组：有，在套餐内，频道关注人数2000+
 注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。点【重置】付费重置                
 <a href="https://jichangcesu.com/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">kycloud教程、拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集与用户评价</a>
 
-
 **套餐(所有套餐节点一样，不包支付手续费，不同支付通道费率不一样):**
 
 套餐 |  流量 | 价格  
@@ -398,19 +362,12 @@ Team2 | 2T/月 | 885/季度
 </details>
 
 
-
-
-
-
 ## 七、海獭(25/季50G)
 trojan协议专线+中转机场。 带宽日常足够，速度很不错。但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。 目前是大陆中部入口，这样全国的使用的比较平衡。  85折优惠码：pN02HX5n
  
- 
-
 [Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
 
 [Haita机场官网地址](https://honven20.haitacdn.com/register?aff=VQq8ZO5j)  
-
 
 >开业时间：2023.11         
 过境: 公网中转        
@@ -428,8 +385,6 @@ ipv6支持情况：不支持
 注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置        
 <a href="https://jichangcesu.com/海獭机场怎么样.html" target="_blank">海獭机场使用教程、拓扑结构和测速</a>
 
-
-
 **套餐:**
 
 25块/季度50G/月  
@@ -439,16 +394,10 @@ ipv6支持情况：不支持
 54.99块700G/月  
 92.99块900G/月  
        
-
-
 <details>
 <summary>haita机场测速图和流媒体-点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
 </details>
-
-
-
-
 
 
 ## 八、龙猫云(15/月100G)
@@ -458,10 +407,6 @@ totorocloud，中转trojan机场。观察挺久，感觉速度都挺好。观察
 注意：speedcat、龙猫云、Flyingbird、一云梯是相同线路类型。别买重复了。
 
 [龙猫云机场官网地址](https://jctj02.lmvipaff03.cc/#/register?code=Qb502cPh)
-
-
-
-
 
 
 >开业时间：2022   
@@ -500,19 +445,11 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 </details> 
 
 
-
-
-
-
-
 ## 九、老猫云(15/月50G)
 
 IEPL专线机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。    还是一如既往比较宽松，各种限制不多。   
 
-
-
 [老猫云官网](https://laomao.biz/?path=register&code=i0Vv9N5R)
- 
 
 
 >开业时间：主站是2017年开的老牌机场，很少开了7年的机场  
@@ -532,8 +469,6 @@ TG频道和群：无
 注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】中       
 <a href="https://jichangcesu.com/老猫云历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
   
-  
-
 **套餐:**      
 B套餐:15/月，每月50G      
 B套餐: 20/月，每月100G      
@@ -543,18 +478,13 @@ F套餐: 50/月，每月500G
 
 某老机场分站。SS协议，入口是深圳移动。延迟比较低，速度不错，口子大。注册可免费试用。      
 
-
-
 <details>
 <summary>测速图流媒体，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
 </details>
 
 
-
 ## 十、STC-SERVER(88/月100G)
-
-
 
 IEPL专线+隧道中转机场 ，SSR + Vmess协议，老板在香港，有按量付费，需要按量付费的可以推荐买这个机场，起步价低(8块10G起365天有效期)。默认订阅的是所在等级的线路，但是高级节点可以用低级节点，需要去面板选择。    
 
@@ -579,9 +509,6 @@ SSH端口屏蔽：未屏蔽22端口
 邮件传统协议smtp/pop3/imap：未禁止
 <a href="https://jichangcesu.com/stc历史测速结果整合.html" target="_blank">stc使用教程、拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
 
-
-
-
 **套餐:**
 
 套餐年付更加便宜。具体查看机场官网。
@@ -602,7 +529,84 @@ SSH端口屏蔽：未屏蔽22端口
 </details>
 
 
-## 十一、万达云(14/月150G)
+## 十一、E-IX(199/月1T/年)
+深圳电信入口IEPl专线（香港+新加坡+台湾）+上海ucloud专线（日本美国）+北京ucloud专线（欧洲方向）机场，台湾机场老板。有几年的机场经验。线路一流，多个专线入口，每个入口带宽都还不错。流媒体解锁也不错。高端线路机场。
+[E-IX官网](https://cdn12.e-ix.com/#/register?code=Aon7FQ85)
+
+>开业时间：2025 
+老板肉身：台湾 
+过境：IEPL专线中转 
+入口ip数量：3  
+协议：Shadowsocks  
+UDP：支持  
+ChatGPT/OpenAI解锁: 全解锁  
+墙外新闻网站屏蔽情况：屏蔽轮媒  
+邮件传统协议smtp/pop3/imap：禁止  
+SSH端口屏蔽：屏蔽22端口  
+落地：美国、台湾、新加坡、日本、香港、德国、英国、法国、荷兰  
+一键使用客户端： 无  
+TG频道和群组：无  
+付款方式：支付宝+微信  
+套餐价格是否包含手续费：不包含（5%） 
+只能中国内地使用：是   
+<a href="https://jichangcesu.com/eix.html" target="_blank">E-IX机场拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
+
+
+**套餐(所有套餐节点一样):**    
+199/年,1024G一年有效期   
+199/季度,256G/月    
+75/季度,512G/月    
+
+
+<details>
+ <summary>测速图，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/eix.webp"  width = "90%"   align=center  alt="机场推荐之E-IX机场测速" />
+</details>
+
+
+## 十二、芬达(18/月158G)  
+
+IEPL ssr协议机场，机场主在北美，优点：不会跑路。缺点：工单得半夜可能得半夜才能回你。 注意：singbox和surge、surboard都不支持ssr协议。
+
+[芬达机场官网,不需要代理](https://loyz.xyz/auth/register?code=BkFF) 
+
+
+>开业时间：2021 
+老板肉身：北美(确定) 
+过境：IEPL专线中转 
+入口ip数量：2 
+协议：ShadowsocksR（支持shadowsocksR软件） 
+UDP：支持  
+ChatGPT/OpenAI解锁: 全解锁 
+墙外新闻网站屏蔽情况：屏蔽轮媒  
+SSH端口屏蔽：未屏蔽22端口  
+邮件传统协议smtp/pop3/imap：未禁止  
+落地：美国、台湾、新加坡、日本、香港、韩国 
+ipv6:美国、日本  
+一键使用客户端： 有  
+TG频道和群组：无  
+付款方式：支付宝   
+套餐价格是否包含手续费：包含 
+只能中国内地使用：是  
+<a href="https://jichangcesu.com/ss中转机场推荐-fenda.html" target="_blank">fenda拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
+
+
+**套餐(所有套餐节点一样):**     
+
+套餐 |  流量 | 价格 |客户端数目 
+:-:  | :-: | :-: | :-:
+基础月付 | 158G/月 | 18块/月 | 2     
+进阶月付 | 308G/月 | 28块/月 | 3     
+旗舰月付 | 508G/月 | 38块/月 | 5 
+
+
+<details>
+ <summary>测速图，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/fenda.webp"  width = "90%"   align=center  alt="机场推荐之芬达机场测速" />
+</details>
+
+
+## 十三、万达云(14/月150G)
 
 广东移动4G带宽公网中转机场，有条高倍率的IEPL线路。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。有3G流量试用。这家机场的老板应该不少机场老板认识。近期稳定性不够好，稳定很看上游资源。
 [万达云官网](https://www.z1z1.top/vip)      
@@ -610,7 +614,7 @@ SSH端口屏蔽：未屏蔽22端口
 >老板肉身：新加坡  
 开业时长：2023.11之前   
 过境：公网隧道    
-协议：SS   
+协议：   
 UDP：支持   
 落地ip数量： 70左右   
 节点国家与地区：日本、新加坡、台湾、韩国、越南、印度、德国、迪拜、瑞典、马来西亚、英国、法国、意大利、土耳其、孟加拉、南极、朝鲜、哈萨克斯坦、菲律宾、泰国、卢森堡。（接下来的有家宽：）香港、美国、印尼、柬埔寨、荷兰、德国   
@@ -625,7 +629,7 @@ TG电报频道：有
 <a href="https://jichangcesu.com/wanda.html" target="_blank">万达云拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
 
 
-**套餐 **：       
+**套餐**：       
 150G/月，13.9/月，5设备，30个节点 
 300G/月，24/月，10设备，50个节点  
 600G/月，40/月，50设备，60个节点  
@@ -640,15 +644,7 @@ TG电报频道：有
 
 
 
-
-
-
-
-
-
-
-
-## 十二、Just my sock(5.8刀/月108G)  
+## 十四、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -730,7 +726,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十三、大哥云(19.8/月100G)           
+## 十五、大哥云(19.8/月100G)           
 
 3年老机场了。Vmess+Trojan中转线路机场。机场主在东南亚，不用担心跑路。稳定还是稳定的。在我监督下 ，更换了机器，测速好看了。单条2G带宽起。
 
