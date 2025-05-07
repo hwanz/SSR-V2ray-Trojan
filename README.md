@@ -96,9 +96,9 @@ TG频道：无
 
 [悠兔机场官网地址2](https://youtu0.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址3](https://link1.youtu6.shop/register?aff=3CxiqyOc) 
+[悠兔机场官网地址3](https://youtu6.shop/register?aff=3CxiqyOc) 
 
-[悠兔机场官网地址4](https://a.youtu7.shop/register?aff=3CxiqyOc)     
+[悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)     
 
 
 机场官网是很容易被污染的，打不开使用全局代理，下面所有机场官网都是。
@@ -157,10 +157,7 @@ TG频道：有；无群
 
 [WgetCloud机场官网](https://reurl.cc/dmamKD)    
 
-[WgetCloud机场官网2](https://suo.st/18C0SJx)   
-
-
-[WgetCloud官网链接3](https://invite.wgetcloud.ltd/auth/register?code=n7z3)    
+[WgetCloud官网链接2](https://invite.wgetcloud.ltd/auth/register?code=n7z3)    
 
 
 
