@@ -263,7 +263,7 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 
 SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定性也不错。单条带宽不大但是足够使用，适合不想人太多的，速度不错，性价比高。95折优惠码,只能使用一次： beibei.cloud     
 
-[贝贝云机场官网地址1](https://link1.beibeicloud.shop/#/register?code=qwqDFEUW)
+[贝贝云机场官网地址1](https://beibeicloud.shop/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)
 
