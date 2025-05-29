@@ -16,9 +16,9 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。TG过于高调的机场也需要谨慎购买。
 
 6. 各平台客户端推荐：
->Windows：Clash-verge-rev、Mihomo-Party、FLClash和Hiddify（简单）        
-Mac：Mihomo-Party和Clash-verge-rev的Mac版本、ClashX、ClashX Pro、有钱的买Surge、FLClash和Hiddify（简单）   
-IOS：Hiddify（免费）、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge、karing（免费）   
+>Windows：Clash-verge-rev、Mihomo-Party、FLClash和Hiddify（简单）、v2rayN              
+Mac：Mihomo-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash和Hiddify（简单）   
+IOS：Hiddify（免费）、ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge、karing（免费）   
 安卓：ClashMetaforAndroid(CMFA)、FLClash和Hiddify、Surfboard、V2rayNG         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
