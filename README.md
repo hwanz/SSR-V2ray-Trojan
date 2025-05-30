@@ -32,7 +32,8 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 4) 想要买不限制设备数目的：SpeedCAT、Kycloud         
 5) 按量付费：stc、万达云         
 6) 小流量备用：BoostNet:20G/月118/年； 悠兔:120块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
-7) 境外可用：龙猫云、万达云（万达云还有新疆入口，新疆用户买其他家都不能用）
+7) 境外可用：龙猫云、万达云    
+8) 新疆用户可用：万达云，E-IX ,新疆用户买其他家都不能用     
        
      
 
