@@ -90,68 +90,6 @@ TG频道：无
 <img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
 </details>
 
-## 二、悠兔(120年/200G)
-
-电信入口IEPL专线+隧道中转SS协议机场，过境大带宽。电信入口各个运营商的网络都比较友好，比移动入口好。比较低调。体验可以，稳定性和速度都不错，流媒体解锁得也不错。后端负载均衡。有120一年200G可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了，安心。他家动态倍率，日常可以使用隧道，倍率较低。8折优惠码：888，每个用户仅限使用一次。
-
-
-[悠兔机场官网地址1](https://youtunice.com?path=register&code=3CxiqyOc)     
-
-[悠兔机场官网地址2](https://youtu0.com?path=register&code=3CxiqyOc)     
-
-[悠兔机场官网地址3](https://youtu6.shop/register?aff=3CxiqyOc) 
-
-[悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)     
-
-
-机场官网是很容易被污染的，打不开使用全局代理，下面所有机场官网都是。
-
->开业时间：2022    
-老板肉身：墙外      
-入口与过境线路：入口广东。过境IEPL+隧道公网中转
-节点数目： 35+，后端负载均衡，多种落地      
-协议：Shadowsocks      
-UDP：支持      
-限制同时登录ip客户端数目：软性限制5个ip   
-ChatGPT/OpenAI解锁: 基本全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong      
-SSH端口屏蔽：22端口已屏蔽      
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
-地区：澳洲、香港、台湾、新加坡、日本、美国、英国、印度、马来西亚、阿根廷、土耳其      
-落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、英国家宽、香港HGC、台湾家宽Hinet、日本软银   
-付款方式：支付宝、微信 
-TG频道：有；无群  
-客服：有   
-套餐是否包含手续费：否（手续费6-9%）  
-国外能否使用：否，且新疆无法使用
-此机场适合推荐人群： 稳定且无特殊需求
-小白一键客户端: 有，ios+windows+Mac+安卓
-家宽：英国，日本原生    
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；订阅在首页        
-<a href="https://jichangcesu.com/便宜SS机场推荐之悠兔.html" target="_blank">使用教程、ChatGPT、流媒体历史测速结果合集</a>
-
-
-**套餐(所有套餐节点一样)：**
-
-流量 | 价格 
-:-: | :-: 
-50G/月 |55/季;110/半年;200/年  
-150G/月 |29/月;85/季;160/半年;300/年    
-300G/月 |39/月;110/季;210/半年;400/  
-500G/月 |59/月;160/季;310/半年;500/年 
-1000G/月|100/月;280/季;520/半年;1000/年   
-
-按量付费：一年120总共200G。可以做备用。     
-
-
-
-
-<details>
- <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/youtu.webp"  width = "90%"   align=center  alt="Youtu悠兔机场测速" />
- </details>
-
-
 ## 三、WgetCloud(59/月140G) 
 
 多入口专线+中转机场，大量带宽冗余。原GaCloud。香港老板，已有机场行业多年经验。自有机房，自己开发的面板，稳定性不错。如果需要极其稳定的基础，此机场值得推荐。你也可以看得到不少博客也推荐这家。稳定性确实可以。缺点也很明显就是贵了点。     
