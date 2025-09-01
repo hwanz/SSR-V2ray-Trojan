@@ -16,8 +16,8 @@
 5.  一下别买太长时间，谁也不知道机场什么时候跑路。TG过于高调的机场也需要谨慎购买。
 
 6. 各平台客户端推荐：
->Windows：Clash-verge-rev、Mihomo-Party、FLClash和Hiddify（简单）、v2rayN              
-Mac：Mihomo-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash和Hiddify（简单）   
+>Windows：Clash-verge-rev、Clash-Party、FLClash和Hiddify（简单）、v2rayN              
+Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash和Hiddify（简单）   
 IOS：Hiddify（免费）、ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge、karing（免费）   
 安卓：ClashMetaforAndroid(CMFA)、FLClash和Hiddify、Surfboard、V2rayNG         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
@@ -570,7 +570,7 @@ TG频道和群组：无
 ## 十二、万达云(14/月150G)
 
 广东移动4G带宽公网中转机场，有条高倍率的IEPL线路。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。有3G流量试用。这家机场的老板应该不少机场老板认识。近期稳定性不够好，稳定很看上游资源。有新疆可用套餐。
-[万达云官网](https://www.z1z1.top/vip)      
+[万达云官网](https://link.wdyserver.com/register?code=XBO0alIK)         
 
 >老板肉身：新加坡  
 开业时长：2023.11之前   
