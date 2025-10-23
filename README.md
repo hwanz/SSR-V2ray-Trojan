@@ -18,7 +18,7 @@
 6. 各平台客户端推荐：
 >Windows：Clash-verge-rev、Clash-Party、FLClash和Hiddify（简单）、v2rayN              
 Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash和Hiddify（简单）   
-IOS：Hiddify（免费）、ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge、karing（免费）   
+IOS：Hiddify（免费）、ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge  
 安卓：ClashMetaforAndroid(CMFA)、FLClash和Hiddify、Surfboard、V2rayNG         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
