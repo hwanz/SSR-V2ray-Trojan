@@ -32,7 +32,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 4) 想要买不限制设备数目的：Kycloud         
 5) 按量付费：stc、万达云         
 6) 小流量备用：BoostNet:20G/月118/年； 悠兔:120块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
-7) 境外可用：龙猫云、万达云    
+7) 境外可用：BoostNet、龙猫云、万达云    
 8) 新疆用户可用：万达云，E-IX ,新疆用户买其他家都不能用     
        
      
@@ -51,7 +51,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 >开业时间：2024  
 老板肉身：墙外  
-入口与过境线路：广东入口，过境IEPL专线    
+入口与过境线路：广东入口，过境IEPL专线；还有海外入口    
 节点数目： 30+      
 协议：Shadowsocks（不支持shadowsocksR软件）    
 UDP：支持    
@@ -66,7 +66,7 @@ SSH端口屏蔽：22端口已屏蔽
 付款方式：支付宝、微信    
 TG频道：无    
 套餐是否包含手续费：否（手续费6-9%）    
-只能中国内地使用：是，新疆无法使用
+只能中国内地使用：否，有海外入口，但新疆无法使用
 小白一键客户端：win+mac       
 家宽：无    
 面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
