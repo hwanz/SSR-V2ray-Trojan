@@ -27,7 +27,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(14.9/月100G/月)、悠兔（120一年）、海獭（25/季50G/月）、芬达(12.8块/月88G)
+2) 想要便宜的，10块/月左右机场：贝贝云(14.9/月100G/月)、悠兔（120一年）、芬达(12.8块/月88G)
 3) 有试用：老猫云、万达云       
 4) 想要买不限制设备数目的：Kycloud         
 5) 按量付费：stc、万达云         
@@ -359,44 +359,7 @@ Team2 | 2T/月 | 885/季度
 </details>
 
 
-## 七、海獭(25/季50G)
-trojan协议三线入口隧道公网中转机场。 带宽日常足够，速度很不错。但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。 目前是大陆中部入口，这样全国的使用的比较平衡。  85折优惠码：pN02HX5n
- 
-[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
-
-[Haita机场官网地址](https://honven20.haitacdn.com/register?aff=VQq8ZO5j)  
-
->开业时间：2023.11         
-过境: 公网中转        
-协议：trojan       
-付款方式：支付宝        
-TG频道和群：无        
-客户端数目：不限制        
-落地ip数量： 23+        
-节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
-ChatGPT/OpenAI解锁: 部分解锁        
-墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
-SSH端口屏蔽：22端口未屏蔽        
-只能内地使用：是。新疆无法使用           
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置        
-<a href="https://jichangcesu.com/海獭机场怎么样.html" target="_blank">海獭机场使用教程、拓扑结构和测速</a>
-
-**套餐:**
-
-25块/季度50G/月  
-15.99块100G/月   
-25.99块200G/月  
-34.99块350G/月   
-54.99块700G/月  
-92.99块900G/月  
-       
-<details>
-<summary>haita机场测速图和流媒体-点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
-</details>
-
-
-## 八、龙猫云(15/月100G)
+## 七、龙猫云(15/月100G)
 
 
 totorocloud，中转trojan机场。观察挺久，感觉速度都挺好。观察了很久才推荐的。值得推荐。而且也退出了TG宣传。更加稳定。有hytron香港入口，海外/境外用户可以使用。
@@ -442,7 +405,7 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 </details> 
 
 
-## 九、老猫云(45/季50G/月)
+## 八、老猫云(45/季50G/月)
 
 IEPL专线Trojan协议机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。日常测速都挺好，电信网也很好。各种限制不多。   
 
@@ -481,7 +444,7 @@ F套餐: 150/季，每月500G
 </details>
 
 
-## 十、STC-SERVER(88/月100G)
+## 九、STC-SERVER(88/月100G)
 
 IEPL专线+隧道中转机场 ，SSR + Vmess协议，老板在香港，有按量付费，需要按量付费的可以推荐买这个机场，起步价低(8块10G起365天有效期)。默认订阅的是所在等级的线路，但是高级节点可以用低级节点，需要去面板选择。    
 
@@ -526,7 +489,7 @@ SSH端口屏蔽：未屏蔽22端口
 </details>
 
 
-## 十一、E-IX(199/月1T/年)
+## 十、E-IX(199/月1T/年)
 深圳三线入口IEPl专线（香港+新加坡+台湾）+上海ucloud专线（日本美国）+北京ucloud专线（欧洲方向）机场，台湾机场老板。有几年的机场经验。线路一流，多个专线入口，每个入口带宽都还不错。流媒体解锁也不错。高端线路机场。 有新疆用户套餐。
 [E-IX官网](https://cdn12.e-ix.com/#/register?code=Aon7FQ85)
 
@@ -564,7 +527,7 @@ TG频道和群组：无
 
 
 
-## 十二、万达云(14/月150G)
+## 十一、万达云(14/月150G)
 
 20251118 --近期被攻击。只能使用官方客户端
 
@@ -601,7 +564,7 @@ TG电报频道：有
 </details>
 
 
-## 十三、web3加速器(25/月100G)   
+## 十二、web3加速器(25/月100G)   
 
 20251123被攻击，使用高防服务器中
 
@@ -646,7 +609,7 @@ vip3:800G/月| 880/年
 
 
 
-## 十四、Just my sock(5.8刀/月108G)  
+## 十三、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -728,7 +691,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十五、大哥云(19.8/月100G)           
+## 十四、大哥云(19.8/月100G)           
 
 20251122 近期被攻击，高防服务器防御中
 
@@ -818,9 +781,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
      1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
     
-    **10块/月以下**： 海獭（25/季50G/月）
-    
-    **10-20块/月**：贝贝云(14.9/月)、haita((15.99/100G)、万达云（14/月）、Arisaka(16/月80G) 、大哥云(19.8/月100G)
+    **10-20块/月**：贝贝云(14.9/月)、万达云（14/月）、Arisaka(16/月80G) 、大哥云(19.8/月100G)
                
     **20-30块/月**： kycloud(75/季度50G/月)、悠兔(29块/月100G)
     
@@ -841,7 +802,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、nekoray、nekobox等）：芬达
 
 
-支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云、海獭     
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：WgetCloud、老猫云
 
 
 支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）：Kycloud、Just my sock       
@@ -849,7 +810,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
   3.**屏蔽限制区分：**
-   未屏蔽22端口：Kycloud、Just my sock、老猫云、haita           
+   未屏蔽22端口：Kycloud、Just my sock、老猫云
    可用第三方软件发邮件：Kycloud、Just my sock、老猫云     
    审计较少：Just my sock、Kycloud、老猫云 
 
