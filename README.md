@@ -480,50 +480,48 @@ F套餐: 150/季，每月500G
 <img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
 </details>
 
+## 十、瑶瑶领先(9.9/月384G)
 
-## 十、STC-SERVER(88/月100G)
+Anytls新协议和tuic协议国内公网中转。2个hy2直连节点。 Anytls新协议跑测速能跑满，tuic因为是基于udp，由于很多地方运营商对udp限速，所以测速跑不满，但是使用足够，老板说是因为有用户说好用所以就留着了，udp主要是更少握手所以延迟会更低且体感会比tcp反应快一点。客户端还有vless协议节点。     
 
-IEPL专线+隧道中转机场 ，SSR + Vmess协议，老板在香港，有按量付费，需要按量付费的可以推荐买这个机场，起步价低(8块10G起365天有效期)。默认订阅的是所在等级的线路，但是高级节点可以用低级节点，需要去面板选择。    
+注意目前只有部分客户端支持：最新版本的： Shadowrocket、mihomo内核的（Flclash、Clash verge rev、Sparkle、clash party、clash meta、clashMi）、NekoBox For Android、singbox、karing、v2rayN    
 
-缺点：价格较贵。总有节点不在线。流媒体的解锁不好。
-优点：剩余带宽很足够。老板在墙外。很耐活，也好多年了。比较低调。有按量付费，比较适合需要按量付费的用户。
-  
+[瑶瑶领先机场官网1](https://yyssr.org/auth/register?code=3fcd85f6aa)   
 
-[STC机场官网](https://acidrate.stc-spare1.com/auth/register?code=4k1L) 
+[瑶瑶领先机场官网2](https://yyssr.net/auth/register?code=3fcd85f6aa)  
 
+[瑶瑶领先机场官网3](https://瑶瑶领先.com/auth/register?code=3fcd85f6aa)   
 
->老板肉身：香港   
-开业时长：2020年前的老牌机场   
-过境：中转+专线   
-协议：SSR + Vmess（支持shadowsocksR软件）   
-UDP：部分支持Full Cone   
-落地ip数量： 32+   
-ChatGPT/OpenAI解锁: 日本/台湾   
-节点国家与地区：香港、日本、新加坡、美国、台湾   
-墙外新闻网站屏蔽情况：屏蔽轮媒   
-SSH端口屏蔽：未屏蔽22端口   
-按量付费：有   
-邮件传统协议smtp/pop3/imap：未禁止
-<a href="https://jichangcesu.com/stc历史测速结果整合.html" target="_blank">stc使用教程、拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
+>老板肉身：欧洲  
+开业时长：2022.3之前     
+过境：国内公网隧道       
+协议：Anytls+TUIC     
+UDP：支持     
+节点国家与地区：香港、台湾、新加坡、日本、美国、澳洲、泰国、加拿大、德国、法国、英国、墨西哥、马来、印尼、 越南     
+墙外新闻网站屏蔽情况：轮媒     
+SSH端口屏蔽：未屏蔽22端口     
+TG电报频道和群：有     
+试用：有1G流量试用     
+只能中国内地使用：否，有直连线路，大陆外用户可用     
+同时使用客户端限制数：3     
+有一键客户端，内有vless节点。     
+包含美区 Apple ID 可用，Emby 硬盘服（目前资源6677部电影，2198部电视剧）     
+大部分节点开启动态倍率，0.1~1倍率，按时间段计算倍率。usa有两个节点0.1倍率     
+<a href="https://jichangcesu.com/yylx.html" target="_blank">拓扑结构、流媒体和历史测速结果合集</a>
 
-**套餐:**
-
-套餐年付更加便宜。具体查看机场官网。
-
-按量付费：普通和进阶线路,0.8块/G，8块起买。不用不花钱。可以先买这个看看好用与否。手动生效。
-
-套餐 | 线路 | 流量  |客户端 
----- | ---  | ---  | --- 
-基础 | 中转线路，60条+BGP专线节点 |100G/月，38块/月 | 2+
-进阶 | 20条+BGP专线 |100G/月，48块/月  | 3+
-旗舰（只推荐这个） | 中转+20条+专线+负载均衡，线路38+13+7条 |100G/月，88块/月  | 4+
-企业 | 中转+专线线路，线路38+13+7+4条 |100G/月，108块/月 | 5+
+**套餐**：      
+384G/月，9.9/月，限速300mbps     
+768G/月，18/月，限速600mbps     
+1536G/月，36/月，限速1000mbps     
+3072G/月，72/月 ，限速1000mbps     
 
 
 <details>
  <summary>测速图，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/stc.webp"  width = "90%"   align=center  alt="机场推荐之stc机场测速" />
+<img src="https://jichangcesu.com/uploads/vpn/yylx.webp"  width = "90%"   align=center  alt="机场推荐之瑶瑶领先机场测速" />
 </details>
+
+
 
 
 ## 十一、E-IX(199/月1T/年)
@@ -644,9 +642,52 @@ vip3:800G/月| 880/年
 <img src="https://jichangcesu.com/uploads/vpn/web3.webp"  width = "90%"   align=center  alt="机场推荐之万达云机场测速" />
 </details>
 
+## 十四、STC-SERVER(88/月100G)
+
+IEPL专线+隧道中转机场 ，SSR + Vmess协议，老板在香港，有按量付费，需要按量付费的可以推荐买这个机场，起步价低(8块10G起365天有效期)。默认订阅的是所在等级的线路，但是高级节点可以用低级节点，需要去面板选择。    
+
+缺点：价格较贵。总有节点不在线。流媒体的解锁不好。
+优点：剩余带宽很足够。老板在墙外。很耐活，也好多年了。比较低调。有按量付费，比较适合需要按量付费的用户。
+  
+
+[STC机场官网](https://acidrate.stc-spare1.com/auth/register?code=4k1L) 
 
 
-## 十四、Just my sock(5.8刀/月108G)  
+>老板肉身：香港   
+开业时长：2020年前的老牌机场   
+过境：中转+专线   
+协议：SSR + Vmess（支持shadowsocksR软件）   
+UDP：部分支持Full Cone   
+落地ip数量： 32+   
+ChatGPT/OpenAI解锁: 日本/台湾   
+节点国家与地区：香港、日本、新加坡、美国、台湾   
+墙外新闻网站屏蔽情况：屏蔽轮媒   
+SSH端口屏蔽：未屏蔽22端口   
+按量付费：有   
+邮件传统协议smtp/pop3/imap：未禁止
+<a href="https://jichangcesu.com/stc历史测速结果整合.html" target="_blank">stc使用教程、拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
+
+**套餐:**
+
+套餐年付更加便宜。具体查看机场官网。
+
+按量付费：普通和进阶线路,0.8块/G，8块起买。不用不花钱。可以先买这个看看好用与否。手动生效。
+
+套餐 | 线路 | 流量  |客户端 
+---- | ---  | ---  | --- 
+基础 | 中转线路，60条+BGP专线节点 |100G/月，38块/月 | 2+
+进阶 | 20条+BGP专线 |100G/月，48块/月  | 3+
+旗舰（只推荐这个） | 中转+20条+专线+负载均衡，线路38+13+7条 |100G/月，88块/月  | 4+
+企业 | 中转+专线线路，线路38+13+7+4条 |100G/月，108块/月 | 5+
+
+
+<details>
+ <summary>测速图，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/stc.webp"  width = "90%"   align=center  alt="机场推荐之stc机场测速" />
+</details>
+
+
+## 十五、Just my sock(5.8刀/月108G)  
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -728,7 +769,7 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 
 
 
-## 十五、大哥云(19.8/月100G)           
+## 十六、大哥云(19.8/月100G)           
 
 20251122 近期被攻击，高防服务器防御中
 
