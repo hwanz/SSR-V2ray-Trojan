@@ -44,9 +44,9 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 [BoostNet机场官网地址1](https://boostqz.com?path=register&code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://boostnet1.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址2](https://boostnet3.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://boostnet2.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址2](https://boostnet4.com/#/register?code=Pj4Wrfai)  
 
 
 >开业时间：2024  
@@ -101,7 +101,9 @@ TG频道：无
 
 [悠兔机场官网地址3](https://youtu6.shop/register?aff=3CxiqyOc) 
 
-[悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)     
+[悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)
+
+[悠兔机场官网地址5](https://youtu1.xyz/register?aff=3CxiqyOc)     
 
 
 机场官网是很容易被污染的，打不开使用全局代理，下面所有机场官网都是。
@@ -268,7 +270,7 @@ SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定
 
 [贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)
 
-[贝贝云机场官网永久地址](https://beibei.cloud?path=register&code=qwqDFEUW)
+[贝贝云机场官网永久地址](https://666.beibei.cloud?path=register&code=qwqDFEUW)
 
 >开业时间：2022       
 老板肉身：墙外      
