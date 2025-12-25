@@ -274,7 +274,7 @@ SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定
 
 [贝贝云机场官网地址1](https://2beibei.com/#/register?code=qwqDFEUW)
 
-[贝贝云机场官网地址2](https://666.beibeicloud.shop/#/register?code=qwqDFEUW)
+[贝贝云机场官网地址2](https://beibeicloud.shop/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网地址3](https://666.beibeilink.top/#/register?code=qwqDFEUW)
 
