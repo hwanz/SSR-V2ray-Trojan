@@ -44,9 +44,13 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 [BoostNet机场官网地址1](https://boostqz.com?path=register&code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://boostnet3.com/#/register?code=Pj4Wrfai)  
-
 [BoostNet机场官网地址2](https://boostnet4.com/#/register?code=Pj4Wrfai)  
+
+[BoostNet机场官网地址2](https://666.boostnet1.com/#/register?code=Pj4Wrfai)  
+
+[BoostNet机场官网地址2](https://666.boostnet3.com/#/register?code=Pj4Wrfai)  
+
+[BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
 
 
 >开业时间：2024  
@@ -97,9 +101,9 @@ TG频道：无
 
 [悠兔机场官网地址1](https://youtunice.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址2](https://youtu0.com?path=register&code=3CxiqyOc)     
+[悠兔机场官网地址2](https://666.youtu0.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址3](https://youtu6.shop/register?aff=3CxiqyOc) 
+[悠兔机场官网地址3](https://666.youtu6.shop/register?aff=3CxiqyOc) 
 
 [悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)
 
@@ -266,11 +270,14 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 
 SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定性也不错。单条带宽不大但是足够使用，适合不想人太多的，速度不错，性价比高。95折优惠码,只能使用一次： beibei.cloud     
 
-[贝贝云机场官网地址1](https://666.beibeicloud.shop/#/register?code=qwqDFEUW)
-
-[贝贝云机场官网地址2](https://beibeilink.top/#/register?code=qwqDFEUW)
-
 [贝贝云机场官网永久地址](https://666.beibei.cloud?path=register&code=qwqDFEUW)
+
+[贝贝云机场官网地址1](https://2beibei.com/#/register?code=qwqDFEUW)
+
+[贝贝云机场官网地址2](https://666.beibeicloud.shop/#/register?code=qwqDFEUW)
+
+[贝贝云机场官网地址3](https://666.beibeilink.top/#/register?code=qwqDFEUW)
+
 
 >开业时间：2022       
 老板肉身：墙外      
