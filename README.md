@@ -16,10 +16,10 @@
 5. 需注意：1)一下别买太长时间，谁也不知道机场什么时候跑路。TG过于高调的机场也需要谨慎购买;  2)机场倍率，2倍率就是使用1G算2G;  3)很多机场有审计;  4)延迟和速度无关,不是延迟低速度就快。
 
 6. 各平台客户端推荐：
->Windows：Clash-verge-rev、Clash-Party、FLClash和Hiddify（简单）、v2rayN              
-Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash和Hiddify（简单）   
-IOS：Hiddify（免费）、ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge  
-安卓：ClashMetaforAndroid(CMFA)、FLClash和Hiddify、Surfboard、V2rayNG         
+>Windows：Clash-verge-rev、Clash-Party、FLClash、v2rayN              
+Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash      
+IOS：ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge  
+安卓：ClashMetaforAndroid(CMFA)、FLClash和、Surfboard、V2rayNG         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、passwall      
 
@@ -27,11 +27,11 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 太长不看版：
 1) 想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了   
-2) 想要便宜的，10块/月左右机场：贝贝云(14.9/月100G/月)、悠兔（120一年）、海獭（25/季50G/月）、芬达(12.8块/月88G)
+2) 想要便宜的，10块/月左右机场：贝贝云(19.9/月100G/月)、悠兔（120一年）、海獭（25/季50G/月）、芬达(12.8块/月88G)
 3) 有试用：老猫云、万达云       
 4) 想要买不限制设备数目的：Kycloud         
 5) 按量付费：stc、万达云         
-6) 小流量备用：BoostNet:20G/月118/年； 悠兔:120块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
+6) 小流量备用：BoostNet:20G/月158/年； 悠兔:149块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
 7) 境外可用：BoostNet、龙猫云、万达云    
 8) 新疆用户可用：万达云，E-IX ,新疆用户买其他家都不能用     
        
@@ -82,7 +82,7 @@ TG频道：无
 
 流量 | 价格 
 :-: | :-: 
-20G/月 |118/年  
+20G/月 |158/年  
 200G/月 |39/月;100/季;220/半年;350/年
 400G/月 |58/月;150/季;310/半年;500/年
 1000G/月|108/月;280/季;600/半年;1000/年
@@ -94,7 +94,7 @@ TG频道：无
 <img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
 </details>
 
-## 二、悠兔(120年/200G)
+## 二、悠兔(149年/200G)
 
 三网IEPL专线+移动隧道中转SS协议机场，过境大带宽。各个运营商的网络都比较友好。比较低调，体验可以，稳定性、速度和流媒体解锁得也不错。后端负载均衡。有120一年200G可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了，安心。他家动态倍率，日常可以使用隧道，倍率较低。8折优惠码：888，每个用户仅限使用一次。
 
@@ -147,7 +147,7 @@ TG频道：有；无群
 500G/月 |59/月;160/季;310/半年;500/年 
 1000G/月|100/月;280/季;520/半年;1000/年   
 
-按量付费：一年120总共200G。可以做备用。     
+按量付费：一年149总共200G。可以做备用。     
 
 
 
@@ -266,7 +266,7 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 <img src="https://jichangcesu.com/uploads/vpn/tag.webp"  width = "90%"   align=center  alt="TAG晚高峰测速" />
 </details>
 
-## 五、贝贝云(42.9/季度100G/月)     
+## 五、贝贝云(19.9/月100G/月)     
 
 SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定性也不错。单条带宽不大但是足够使用，适合不想人太多的，速度不错，性价比高。95折优惠码,只能使用一次： beibei.cloud     
 
@@ -307,11 +307,11 @@ TG频道：有；无群
 
 流量 | 价格 
 :-: | :-: 
-100G/月 |42.9/季，42.9/季,提前用完每次重置价格：15块
-200G/月 |月付22.9/月，季付62.9,提前用完重置价格：23块
-300G/月 |月付32.9,提前用完重置价格：33块
-500G/月|月 付49.9,提前用完重置价格：50块
-1000G/月| 月付79.9/,提前用完重置价格：80块
+100G/月 |月付19.9，提前用完每次重置价格：20块
+200G/月 |月付29.9/月，季付62.9,提前用完重置价格：30块
+300G/月 |月付39.9,提前用完重置价格：40块
+500G/月| 月付59.9,提前用完重置价格：50块
+1000G/月| 月付89.9/,提前用完重置价格：90块
 
 
 <details>
@@ -325,7 +325,7 @@ TG频道：有；无群
 IEPL专线中转SS+Vmess机场，老机场，多个入口，目前是不同的入口写了不同的东南西北节点名称。E电信S联通W移动N三网BGP,三网BGP也就是你是啥网就走啥网.可避免日常同时全挂，自行选择入口使用，测速看每条线路带宽都挺大。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
 
-[kycloud机场官网](https://my.cloudn.cc/aff.php?aff=40961)
+[kycloud机场官网](https://my.cloudnz.cc/aff.php?aff=40961)
 
 >开业时间：2017年开的老牌机场         
 老板肉身：海外(确定)         
