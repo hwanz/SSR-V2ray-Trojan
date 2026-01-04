@@ -455,7 +455,7 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 
 IEPL专线Trojan协议机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。日常测速都挺好，电信网也很好。各种限制不多。   
 
-[老猫云官网](https://laomao.biz/?path=register&code=i0Vv9N5R)
+[老猫云官网](https://www.laomaourl.com?path=register&code=i0Vv9N5R)
 
 
 >开业时间：主站是2017年开的老牌机场，很少开了7年的机场  
