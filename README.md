@@ -373,7 +373,7 @@ trojan协议三线入口隧道公网中转机场。 带宽日常足够，速度�
  
 [Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
 
-[Haita机场官网地址](https://honven20.haitacdn.com/register?aff=VQq8ZO5j)  
+[Haita机场官网地址](http://jichangtj.haita.io/register?aff=VQq8ZO5j)
 
 >开业时间：2023.11         
 过境: 公网中转        
