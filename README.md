@@ -48,7 +48,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 [BoostNet机场官网地址2](https://666.boostnet1.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://666.boostnet3.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址2](https://999.boostnet3.com/#/register?code=Pj4Wrfai)  
 
 [BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
 
@@ -103,7 +103,7 @@ TG频道：无
 
 [悠兔机场官网地址2](https://666.youtu0.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址3](https://666.youtu6.shop/register?aff=3CxiqyOc) 
+[悠兔机场官网地址3](https://999.youtu6.shop/register?aff=3CxiqyOc) 
 
 [悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)
 
@@ -272,7 +272,7 @@ SS协议中转机场，多隧道入口机场。不用担心完全失联，稳定
 
 [贝贝云机场官网永久地址](https://666.beibei.cloud?path=register&code=qwqDFEUW)
 
-[贝贝云机场官网地址1](https://2beibei.com/#/register?code=qwqDFEUW)
+[贝贝云机场官网地址1](https://666.2beibei.com/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网地址2](https://beibeicloud.shop/#/register?code=qwqDFEUW)
 
