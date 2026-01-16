@@ -50,7 +50,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 [BoostNet机场官网地址2](https://888.boostnet3.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://boostnet4.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
 
 
 >开业时间：2024  
