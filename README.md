@@ -31,68 +31,11 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 3) 有试用：老猫云、万达云       
 4) 想要买不限制设备数目的：Kycloud         
 5) 按量付费：stc、万达云         
-6) 小流量备用：BoostNet:20G/月158/年； 悠兔:149块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
-7) 境外可用：BoostNet、龙猫云、万达云    
+6) 小流量备用：~~BoostNet:20G/月158/年；~~ 悠兔:149块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
+7) 境外可用：~~BoostNet~~、龙猫云、万达云    
 8) 新疆用户可用：万达云，E-IX ,新疆用户买其他家都不能用     
        
      
-
-## 一、BoostNet(39/月200G) 
-
-移动联通电信三网深港IEPL内网专线ss协议机场，小众精品机场。三网IEPL,可以解决目前跨网限速的问题。对于各个运营商的网络都比较友好。如果是单网特别是移动IEPL其它运营商可能体验不佳，相对低调。人少，体验还不错,速度很快，延迟较低，稳定性不错，流媒体还可以。老板说是一线机场发展的。有118一年200G的可以做备用。新人8折优惠券：boost
-
-
-[BoostNet机场官网地址1](https://boostqz.com?path=register&code=Pj4Wrfai)  
-
-[BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
-
-[BoostNet机场官网地址2](https://999.boostnet1.com/#/register?code=Pj4Wrfai)  
-
-[BoostNet机场官网地址2](https://888.boostnet3.com/#/register?code=Pj4Wrfai)  
-
-[BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
-
-
->开业时间：2024  
-老板肉身：墙外  
-入口与过境线路：广东入口，过境IEPL专线；还有海外入口    
-节点数目： 30+      
-协议：Shadowsocks（不支持shadowsocksR软件）    
-UDP：支持    
-限制同时登录ip客户端数目：软性限制5个ip    
-ChatGPT/OpenAI解锁: 基本全解锁    
-流媒体：基本支持奈飞和迪士尼    
-墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong    
-SSH端口屏蔽：22端口已屏蔽    
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)    
-地区：香港、台湾、新加坡、日本、美国、英国、马来西亚、土耳其、阿根廷      
-落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
-付款方式：支付宝、微信    
-TG频道：无    
-套餐是否包含手续费：否（手续费6-9%）    
-只能中国内地使用：否，有海外入口，但新疆无法使用
-小白一键客户端：win+mac       
-家宽：无    
-面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
-客服：有       
-[BoostNet使用教程、拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集](https://jichangtuijian.com/boostnet.html)       
-    
-**套餐(所有套餐节点一样):**
-
-
-流量 | 价格 
-:-: | :-: 
-20G/月 |158/年  
-200G/月 |39/月;100/季;220/半年;350/年
-400G/月 |58/月;150/季;310/半年;500/年
-1000G/月|108/月;280/季;600/半年;1000/年
-3000G/月|500/月;1500/季;2888/半年;5688/年
-
-
-<details>
- <summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/boostnet.webp"  width = "90%"   align=center  alt="机场推荐之BoostNet机场测速" />
-</details>
 
 ## 二、悠兔(149年/200G)
 
