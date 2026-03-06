@@ -17,8 +17,8 @@
 
 6. 各平台客户端推荐：
 >Windows：Clash-verge-rev、Clash-Party、FLClash、v2rayN              
-Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、有钱的买Surge、FLClash      
-IOS：ClashMi(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon、有钱的买Surge  
+Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX (Pro)、FLClash      
+IOS：ClashMi(免费)、Egern(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon
 安卓：ClashMetaforAndroid(CMFA)、FLClash和、Surfboard、V2rayNG         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、PassWall      
@@ -32,7 +32,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 4) 想要买不限制设备数目的：Kycloud         
 5) 按量付费：stc、万达云         
 6) 小流量备用：BoostNet:20G/月158/年； 悠兔:149块/年 200G/年 ；tag:154块/年 200G/年;  kycloud: 150/年 10G/月 ； 大哥云：88/年 15G/月
-7) 境外可用：BoostNet、龙猫云、万达云    
+7) 境外可用：龙猫云、万达云    
 8) 新疆用户可用：万达云，E-IX ,新疆用户买其他家都不能用     
        
      
@@ -50,7 +50,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 [BoostNet机场官网地址2](https://888.boostnet3.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址2](https://999.boostnet2.com/#/register?code=Pj4Wrfai)  
 
 
 >开业时间：2024  
