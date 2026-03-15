@@ -65,7 +65,7 @@ ChatGPT/OpenAI解锁: 基本全解锁
 墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong    
 SSH端口屏蔽：22端口已屏蔽    
 邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)    
-地区：香港、台湾、新加坡、日本、美国、英国、马来西亚、土耳其、阿根廷      
+地区：香港、台湾、新加坡、日本、美国     
 落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
 付款方式：支付宝、微信    
 TG频道：无    
@@ -123,7 +123,7 @@ ChatGPT/OpenAI解锁: 基本全解锁
 墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong      
 SSH端口屏蔽：22端口已屏蔽      
 邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
-地区：澳洲、香港、台湾、新加坡、日本、美国、英国、印度、马来西亚、阿根廷、土耳其      
+地区：香港、台湾、新加坡、日本、美国     
 落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、英国家宽、香港HGC、台湾家宽Hinet、日本软银   
 付款方式：支付宝、微信 
 TG频道：有；无群  
@@ -289,7 +289,7 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 墙外新闻网站屏蔽情况：屏蔽轮媒、rfa、pincong      
 SSH端口屏蔽：22端口已屏蔽      
 邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)      
-地区：澳洲、香港、台湾、新加坡、日本、美国、英国、马来西亚、土耳其、阿根廷           
+地区：香港、台湾、新加坡、日本、美国           
 落地：Hytron、Akari、PoloCloud、nexeon、Eons、Ipxo LLC、香港HGC等      
 付款方式：支付宝、微信          
 TG频道：有；无群      
