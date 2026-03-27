@@ -530,7 +530,7 @@ TG电报频道：有
 
 Anytls新协议和tuic协议国内公网中转。2个hy2直连节点。 Anytls新协议跑测速能跑满，tuic因为是基于udp，由于很多地方运营商对udp限速，所以测速跑不满，但是使用足够，老板说是因为有用户说好用所以就留着了，udp主要是更少握手所以延迟会更低且体感会比tcp反应快一点。客户端还有vless协议节点。     
 
-注意目前只有部分客户端支持：最新版本的： Shadowrocket、mihomo内核的（Flclash、Clash verge rev、Sparkle、clash party、clash meta、clashMi）、NekoBox For Android、singbox、karing、v2rayN    
+注意目前只有部分客户端支持：最新版本的： Shadowrocket、mihomo内核的（Flclash、Clash verge rev、Sparkle、Clash Party、Clash meta、ClashMi）、NekoBox For Android、Singbox、Karing、Stash、Surge、Egern、Surfboard     
 
 [瑶瑶领先机场官网1](https://yyssr.org/auth/register?code=3fcd85f6aa)   
 
