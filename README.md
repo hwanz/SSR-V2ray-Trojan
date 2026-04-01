@@ -39,7 +39,9 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 
 ## 一、BoostNet(39/月200G) 
 
-移动联通电信三网深港IEPL内网专线ss协议机场，小众精品机场。三网IEPL,可以解决目前跨网限速的问题。对于各个运营商的网络都比较友好。如果是单网特别是移动IEPL其它运营商可能体验不佳，相对低调。人少，体验还不错,速度很快，延迟较低，稳定性不错，流媒体还可以。老板说是一线机场发展的。有118一年200G的可以做备用。新人8折优惠券：boost
+移动联通电信三网深港IEPL内网专线Anytls协议机场，小众精品机场。三网IEPL,可以解决目前跨网限速的问题。对于各个运营商的网络都比较友好。如果是单网特别是移动IEPL其它运营商可能体验不佳，相对低调。人少，体验还不错,速度很快，延迟较低，稳定性不错，流媒体还可以。老板说是一线机场发展的。有118一年200G的可以做备用。新人8折优惠券：boost
+
+Anytls协议部分客户端支持，需要升级到下面客户端的最新版本：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge、karing、Shadowrocket、stash、Surge、Egern、Loon
 
 
 [BoostNet机场官网地址1](https://boostqz.com?path=register&code=Pj4Wrfai)  
@@ -57,7 +59,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 老板肉身：墙外  
 入口与过境线路：广东入口，过境IEPL专线；还有海外入口    
 节点数目： 30+      
-协议：Shadowsocks（不支持shadowsocksR软件）    
+协议：Anytls（下面客户端最新版本支持：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge、karing、Shadowrocket、stash、Surge、Egern、Loon）     
 UDP：支持    
 限制同时登录ip客户端数目：软性限制5个ip    
 ChatGPT/OpenAI解锁: 基本全解锁    
@@ -96,7 +98,7 @@ TG频道：无
 
 ## 二、悠兔(149年/200G)
 
-三网IEPL专线+移动隧道中转SS协议机场，过境大带宽。各个运营商的网络都比较友好。比较低调，体验可以，稳定性、速度和流媒体解锁得也不错。后端负载均衡。有120一年200G可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了，安心。他家动态倍率，日常可以使用隧道，倍率较低。8折优惠码：888，每个用户仅限使用一次。
+三网IEPL专线+移动隧道中转Anytls协议机场，过境大带宽。各个运营商的网络都比较友好。比较低调，体验可以，稳定性、速度和流媒体解锁得也不错。后端负载均衡。有120一年200G可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了，安心。他家动态倍率，日常可以使用隧道，倍率较低。8折优惠码：888，每个用户仅限使用一次。
 
 
 [悠兔机场官网地址1](https://youtunice.com?path=register&code=3CxiqyOc)     
@@ -116,7 +118,7 @@ TG频道：无
 老板肉身：墙外      
 入口与过境线路：入口广东。过境IEPL+隧道公网中转
 节点数目： 35+，后端负载均衡，多种落地      
-协议：Shadowsocks      
+协议：Anytls（下面客户端最新版本支持：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge、karing、Shadowrocket、stash、Surge、Egern、Loon）      
 UDP：支持      
 限制同时登录ip客户端数目：软性限制5个ip   
 ChatGPT/OpenAI解锁: 基本全解锁         
