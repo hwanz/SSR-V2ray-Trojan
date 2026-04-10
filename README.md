@@ -35,7 +35,7 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 7) 境外可用：龙猫云、万达云    
 8) 新疆用户可用：万达云，E-IX ,新疆用户买其他家都不能用     
        
-     
+7.近期新闻：由于近期国内中转被大规模清退，因为大部分机场可能带宽不足，稳定性欠佳。这是不可抗因素。     
 
 ## 一、BoostNet(39/月200G) 
 
