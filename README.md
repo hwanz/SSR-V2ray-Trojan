@@ -44,15 +44,15 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 Anytls协议部分客户端支持，需要升级到下面客户端的最新版本：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)     
 
 
-[BoostNet机场官网地址1](https://boostqz.com?path=register&code=Pj4Wrfai)  
+[BoostNet永久机场官网地址](https://boostqz.com?path=register&code=Pj4Wrfai)  
 
-[BoostNet机场官网地址2](https://666.boostnet4.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址1](https://777.boostnet3.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址3](https://999.boostnet1.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址2](https://999.boostnet1.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址4](https://777.boostnet3.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址3](https://999.boostnet2.com/#/register?code=Pj4Wrfai)  
 
-[BoostNet机场官网地址5](https://999.boostnet2.com/#/register?code=Pj4Wrfai)  
+[BoostNet机场官网地址4](https://999.boostnet4.com/#/register?code=Pj4Wrfai)  
 
 
 >开业时间：2024  
@@ -105,7 +105,7 @@ TG频道：无
 
 [悠兔机场官网地址2](https://666.youtu0.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址3](https://888.youtu6.shop/register?aff=3CxiqyOc) 
+[悠兔机场官网地址3](https://777.youtu6.shop/register?aff=3CxiqyOc) 
 
 [悠兔机场官网地址4](https://youtu7.shop/register?aff=3CxiqyOc)
 
