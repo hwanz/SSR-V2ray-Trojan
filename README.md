@@ -859,11 +859,11 @@ TG频道和群组：有，1500人+，群组人数3000+
 SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quantumultX、loon、stash、surge、sing-box等）：
 TAG、Kycloud、Just my sock
 
-Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：WgetCloud、老猫云、海獭     
+Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：WgetCloud、海獭、大哥云       
 
 Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、nekoray、nekobox等）：Kycloud、Just my sock          
 
-Anytls协议（Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)）：悠兔、BoostNet、贝贝云、瑶瑶领先         
+Anytls协议（Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)）：悠兔、BoostNet、贝贝云、瑶瑶领先、Kycloud、老猫云、万达云、E-IX            
 
 
   3.**屏蔽限制区分：**
