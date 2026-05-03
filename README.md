@@ -370,44 +370,82 @@ Team2 | 2T/月 | 885/季度
 </details>
 
 
-## 七、海獭(25/季50G)
-trojan协议三线入口隧道公网中转机场。 带宽日常足够，速度很不错。但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。 目前是大陆中部入口，这样全国的使用的比较平衡。  85折优惠码：pN02HX5n
- 
-[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
+## 七、老猫云(45/季50G/月)
 
-[Haita机场官网地址](http://jichangtj.haita.io/register?aff=VQq8ZO5j)
+IEPL专线协议机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。日常测速都挺好，电信网也很好。各种限制不多。   
 
->开业时间：2023.11         
-过境: 公网中转        
-协议：trojan       
-付款方式：支付宝        
-TG频道和群：无        
-客户端数目：不限制        
-落地ip数量： 23+        
-节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
-ChatGPT/OpenAI解锁: 部分解锁        
-墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
-SSH端口屏蔽：22端口未屏蔽        
-只能内地使用：是。新疆无法使用           
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置        
-<a href="https://jichangcesu.com/海獭机场怎么样.html" target="_blank">海獭机场使用教程、拓扑结构和测速</a>
+[老猫云官网](https://www.laomaourl.com?path=register&code=i0Vv9N5R)
 
-**套餐:**
 
-25块/季度50G/月  
-15.99块100G/月   
-25.99块200G/月  
-34.99块350G/月   
-54.99块700G/月  
-92.99块900G/月  
-       
+>开业时间：主站是2017年开的老牌机场，很少开了7年的机场  
+过境：IEPL专线      
+机场主肉身：海外      
+流媒体解锁：参考流媒体解锁图      
+UDP：支持      
+付款方式：支付宝      
+落地ip数量：51      
+协议：Anytls      
+专门客服：有
+TG频道和群：无          
+地区：香港、日本、新加坡、美国、台湾、英国、俄罗斯      
+落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH      
+退款：7天无理由
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】中       
+<a href="https://jichangcesu.com/老猫云历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
+  
+**套餐:**      
+B套餐:45/季，每月50G   
+C套餐: 60/季，每月100G      
+D套餐: 90/月，每月200G   
+E套餐: 40/月，每月300G   
+F套餐: 150/季，每月500G   
+    
+
+某老机场分站。Trojan协议，入口是深圳移动。延迟比较低，速度不错，口子大。     
+
 <details>
-<summary>haita机场测速图和流媒体-点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
+<summary>测速图流媒体，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
 </details>
 
 
-## 八、龙猫云(15/月100G)
+## 八、E-IX(199/月1T/年)
+香港透传专线机场，台湾机场老板。有几年的机场经验。线路一流，多个专线入口，每个入口带宽都还不错。流媒体解锁也不错。高端线路机场。 有新疆用户套餐。
+[E-IX官网](https://cdn12.e-ix.com/#/register?code=Aon7FQ85)
+
+>开业时间：2025 
+老板肉身：台湾 
+过境：IEPL专线中转 
+入口ip数量：3  
+协议：Anytls协议 
+UDP：支持  
+ChatGPT/OpenAI解锁: 全解锁  
+墙外新闻网站屏蔽情况：屏蔽轮媒  
+邮件传统协议smtp/pop3/imap：禁止  
+SSH端口屏蔽：屏蔽22端口  
+落地：美国、台湾、新加坡、日本、香港、德国、英国、法国、荷兰  
+一键使用客户端： 无  
+TG频道和群组：无  
+付款方式：支付宝+微信  
+套餐价格是否包含手续费：不包含（5%） 
+只能中国内地使用：是,新疆可用       
+<a href="https://jichangcesu.com/eix.html" target="_blank">E-IX机场拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
+
+
+**套餐(所有套餐节点一样):**    
+199/年,1024G一年有效期   
+199/季度,256G/月    
+75/季度,512G/月    
+
+
+<details>
+ <summary>测速图，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/eix.webp"  width = "90%"   align=center  alt="机场推荐之E-IX机场测速" />
+</details>
+
+
+
+## 九、龙猫云(15/月100G)
 
 
 totorocloud，中转trojan机场。观察挺久，感觉速度都挺好。观察了很久才推荐的。值得推荐。而且也退出了TG宣传。更加稳定。有hytron香港入口，海外/境外用户可以使用。目前只允许使用官方客户端，不支持小火箭，clash等第三方通用客户端使用   
@@ -453,47 +491,46 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 </details> 
 
 
-## 九、老猫云(45/季50G/月)
-
-IEPL专线协议机场，老猫云机场之前旧机场主不做了，被新老板接管了，两个老板应该是认识的。流媒体解锁不错。日常测速都挺好，电信网也很好。各种限制不多。   
-
-[老猫云官网](https://www.laomaourl.com?path=register&code=i0Vv9N5R)
 
 
->开业时间：主站是2017年开的老牌机场，很少开了7年的机场  
-过境：IEPL专线      
-机场主肉身：海外      
-流媒体解锁：参考流媒体解锁图      
-UDP：支持      
-付款方式：支付宝      
-落地ip数量：51      
-协议：Anytls      
-专门客服：有
-TG频道和群：无          
-地区：香港、日本、新加坡、美国、台湾、英国、俄罗斯      
-落地：Nerocloud、FDCSERVERS、Hinet、DEDIPATH      
-退款：7天无理由
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置；节点订阅在首页仪表盘【一键订阅】中       
-<a href="https://jichangcesu.com/老猫云历史测速结果整合.html" target="_blank">使用教程、拓扑结构检测和流媒体、历史测速结果合集</a>
-  
-**套餐:**      
-B套餐:45/季，每月50G   
-C套餐: 60/季，每月100G      
-D套餐: 90/月，每月200G   
-E套餐: 40/月，每月300G   
-F套餐: 150/季，每月500G   
-    
+## 十、海獭(25/季50G)
+trojan协议三线入口隧道公网中转机场。 带宽日常足够，速度很不错。但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。 目前是大陆中部入口，这样全国的使用的比较平衡。  85折优惠码：pN02HX5n
+ 
+[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
 
-某老机场分站。Trojan协议，入口是深圳移动。延迟比较低，速度不错，口子大。     
+[Haita机场官网地址](http://jichangtj.haita.io/register?aff=VQq8ZO5j)
 
+>开业时间：2023.11         
+过境: 公网中转        
+协议：trojan       
+付款方式：支付宝        
+TG频道和群：无        
+客户端数目：不限制        
+落地ip数量： 23+        
+节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
+ChatGPT/OpenAI解锁: 部分解锁        
+墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
+SSH端口屏蔽：22端口未屏蔽        
+只能内地使用：是。新疆无法使用           
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置        
+<a href="https://jichangcesu.com/海獭机场怎么样.html" target="_blank">海獭机场使用教程、拓扑结构和测速</a>
+
+**套餐:**
+
+25块/季度50G/月  
+15.99块100G/月   
+25.99块200G/月  
+34.99块350G/月   
+54.99块700G/月  
+92.99块900G/月  
+       
 <details>
-<summary>测速图流媒体，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/laomao.webp"  width = "90%"  align=center  alt="机场推荐之老猫云机场晚高峰电信测速" />
+<summary>haita机场测速图和流媒体-点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
 </details>
 
 
-
-## 十、万达云(14/月150G)
+## 十一、万达云(14/月150G)
 
 
 
@@ -530,7 +567,7 @@ TG电报频道：有
 </details>
 
 
-## 十一、瑶瑶领先(9.9/月384G)
+## 十二、瑶瑶领先(9.9/月384G)
 
 Anytls新协议和tuic协议国内公网中转。2个hy2直连节点。 Anytls新协议跑测速能跑满，tuic因为是基于udp，由于很多地方运营商对udp限速，所以测速跑不满，但是使用足够，老板说是因为有用户说好用所以就留着了，udp主要是更少握手所以延迟会更低且体感会比tcp反应快一点。客户端还有vless协议节点。     
 
@@ -573,40 +610,6 @@ TG电报频道和群：有
 
 
 
-
-## 十二、E-IX(199/月1T/年)
-香港透传专线机场，台湾机场老板。有几年的机场经验。线路一流，多个专线入口，每个入口带宽都还不错。流媒体解锁也不错。高端线路机场。 有新疆用户套餐。
-[E-IX官网](https://cdn12.e-ix.com/#/register?code=Aon7FQ85)
-
->开业时间：2025 
-老板肉身：台湾 
-过境：IEPL专线中转 
-入口ip数量：3  
-协议：Anytls协议 
-UDP：支持  
-ChatGPT/OpenAI解锁: 全解锁  
-墙外新闻网站屏蔽情况：屏蔽轮媒  
-邮件传统协议smtp/pop3/imap：禁止  
-SSH端口屏蔽：屏蔽22端口  
-落地：美国、台湾、新加坡、日本、香港、德国、英国、法国、荷兰  
-一键使用客户端： 无  
-TG频道和群组：无  
-付款方式：支付宝+微信  
-套餐价格是否包含手续费：不包含（5%） 
-只能中国内地使用：是,新疆可用       
-<a href="https://jichangcesu.com/eix.html" target="_blank">E-IX机场拓扑结构检测和流媒体、OpenAI解锁、历史测速结果合集</a>
-
-
-**套餐(所有套餐节点一样):**    
-199/年,1024G一年有效期   
-199/季度,256G/月    
-75/季度,512G/月    
-
-
-<details>
- <summary>测速图，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/eix.webp"  width = "90%"   align=center  alt="机场推荐之E-IX机场测速" />
-</details>
 
 
 
