@@ -716,7 +716,7 @@ SSH端口屏蔽：未屏蔽22端口
 ## 十五、Just my sock(5.8刀/月108G)  
 
 
-搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
+搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是GIA+CN2。         
 相比私人的机场，好处就是安全，无审计(只审计BT)，基本不会跑路，信息泄露概率小。IP 被墙自动切换。同时，不满意一般可以退款！         
 如果是对安全性的重视程度较大的和担心私人机场跑路的用户，有敏感操作的，推荐这家机场。整体性价比不高。         
 支持paypal和支付宝支付，5.2%折扣循环优惠码：JMS9272283          
@@ -743,40 +743,27 @@ SSH端口屏蔽：未屏蔽22端口
 
 **套餐:**
 
-1)Just My Socks IPLC HK 100**EARLY ACCESS：深圳-香港 IPLC 跨境专线。     非常稳定，值得推荐给需要高度稳定且不想要审计的用户。         
-Vmess协议，IPLC香港线路。3条线路：         
- 100G/每月21刀，3个设备。         
- 300G/每月49刀，3个设备。         
-对电信联调和移动三网有优化，延迟低。我之前实测是不限速的。适合游戏爱好者。         
-ct:适合中国电信；cu：适合中国联通，cm：适合中国移动网络。         
-不一定有货，挺抢手的，用了一个月，挺稳的，但是就是比一般机场贵。         
 
-<details>
-<summary>JMS-IPLC测速图，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/jms.webp"  width = "90%"   align=center  alt="JMS-IPLC测速图" />
-很强
-</details> 
-
-2)Just My Socks Hong Kong  香港节点：         
+1)Just My Socks Hong Kong  香港节点：         
 100流量，34.99美元/月，3个设备。限速100Mbps         
 500G流量，149.99美元/月，5个设备.限速500Mbps         
 1000G流量，279.99美元/月，无限个设备.限速1000Mbps         
 三网直连，电信双向CN2 GIA，移动和联通直连，跟搬瓦工香港机房的线路一样是香港机房的最优线路。速度快、延迟低、线路稳         
 
-3)Just My Socks Tokyo 日本节点：         
+2)Just My Socks Tokyo 日本节点：         
 100G流量，29.99美元/月，3个设备。限速100Mbps         
 500G流量，135.99美元/月，5个设备.限速200Mbps。         
 日本东京节点，三网 CN2 GIA 线路。适合电信和联调带宽。移动的没优势。比Just My Socks LA好一点。         
 
-4)Just My Socks HK CMI+NTT Plan 500 ：         
+3)Just My Socks HK CMI+NTT Plan 500 ：         
 8.99刀/月，500GB/月，不限速，5个设备。         
 HK CMI是中国移动香港数据中心，走NTT香港中转。中国电信使用CN2 GIA线路，联通电信直连。         
 新套餐：电信，早晚速度可以，其他时段速度比较感人(1080P)，延迟稳定在80-95ms。非电信网络，速度稳定，延迟在40-60ms左右，500MB宽带以下能跑满，上传速度20Mbps左右。使用移动和联通网络的可以试试，电信不建议。         
 
-5)Just My Socks London 500：6.8刀/月，500GB/月，不限速， 5个设备。ss+v2ray(Vmess)。         
+4)Just My Socks London 500：6.8刀/月，500GB/月，不限速， 5个设备。ss+v2ray(Vmess)。         
 
 
-6)Just My Socks LA，洛杉矶节点，(直连线路，因为最便宜，很多人买这个，不推荐，慢，超售，可以自己试试，反正可以退款)：         
+5)Just My Socks LA，洛杉矶节点，(直连线路，因为最便宜，很多人买这个，不推荐，慢，超售，可以自己试试，反正可以退款)：         
 500G流量，5.88美元/月，5个设备。限速2.5 Gbps          
 1T流量，9.88美元/月，不限设备数。限速5 Gbps         
 5T流量，48.99美元/月，不限设备数。限速5 Gbps         
