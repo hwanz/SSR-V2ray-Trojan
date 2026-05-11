@@ -19,11 +19,11 @@
 6. 各平台客户端推荐：
 >Windows：Clash-verge-rev、Clash-Party、FlClash、V2rayN              
 Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX.Meta、FlClash      
-IOS：ClashMi(免费)、Egern(免费)、Karing(免费)、小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon
+IOS：免费：ClashLite、ClashMi、Egern；付费：小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon
 安卓：ClashMetaforAndroid、FlClash和、Surfboard、V2rayNG(不支持Anytls)         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
 路由器：OpenWRT的OpenClash、PassWall、梅林Clash          
-不少机场改为了Anytls协议：部分客户端支持，需要升级到下面客户端的最新版本：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)
+不少机场改为了Anytls协议：部分客户端支持，需要升级到下面客户端的最新版本：ClashLite、Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)
 
      
 7. 买机场就像买基金，当前表现不代表未来表现
