@@ -459,6 +459,9 @@ TG频道和群组：无
  
 Anytls新协议专线+直连。有不限时套餐。双线路更安全，且不是所有网络都适合直连。也做了常见流媒体解锁。老板比较负责，买线路也积极。
 注意目前只有部分客户端支持：最新版本的：Shadowrocket、mihomo内核的（Flclash、Clash verge rev、Sparkle、clash party、clash meta、clashMi）、NekoBox For Android、singbox、karing、surge、stash、loon、egern、Surfboard
+
+建议使用他家客户端，体验更好。使用第三方客户端使用体验可能不好。
+
 [山海官网](https://shanhai.me/#/register?code=CbE2YfJJ)
 
 >老板肉身：澳洲     
