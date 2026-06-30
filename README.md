@@ -7,7 +7,7 @@
 
 1. 一般来说专线机场体验最好。专线主要是不过墙延迟低，网络波动小，又专门出口，专线机场日常使用体验会更丝滑更舒服。机场比的是钞能力，速度要看机场的总带宽大小，稳定要看机场的上游的线路质量，解锁看的是机场的落地/解锁商是否优秀。机场带宽大和稳定性最重要。开得久的大机场也有处理各种情况的经验，比如经常出现的域名被墙。202604：由于近期国内中转被大规模清退，无国内中转可用，大部分机场在使用路由好的海外机器做中转，也是直连或者是使用透传专线（避免被通报）。 那如果是电信网，则需要购买有三网优化或者电信优化的直连，否则体验会很差。         
 
-2. 对于中转机场而言，协议不是最重要的，但是目前很多机场为了能走直连改为了使用Anytls协议了。中转机子的稳定性和带宽大小才是。中转机场一般只能中国内地使用，新疆目前也不能用，找海外入口机场或直连。大部分中转机场都是移动入口，所以电信网用户建议选择有电信入口或者三网入口的机场，否则可能跨网速度慢。由于目前国内中转机子大规模被端，很多机场主为了避免被通报，开始封端。因此如果要稳定的国内中转建议找封端的机场。
+2. 对于中转机场而言，协议不是最重要的，但是目前很多机场为了能走直连改为了使用Anytls协议了。中转机子的稳定性和带宽大小才是。大部分中转机场都是移动入口，所以电信网用户建议选择有电信入口或者三网入口的机场，否则可能跨网速度慢。由于目前国内中转机子大规模被端，很多机场主为了避免被通报，开始封端。因此如果要稳定的国内中转建议找封端的机场。
 
 3. 备用很重要，如果经常需要科学上网，那么就不能只有一个机场，特别是202604之后大规模清理国内中机之后很多机场都不稳定，因此高强度翻墙的建议买有多个中转入口的机场或者买两家不同入口的机场，避免失联。
 
@@ -21,8 +21,8 @@ Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX.Meta、FlClash
 IOS：免费：ClashLite、ClashMi、Egern；付费：小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon
 安卓：ClashMetaforAndroid、FlClash和、Surfboard、V2rayNG(不支持Anytls)         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
-路由器：OpenWRT的OpenClash、PassWall、梅林Clash          
-不少机场改为了Anytls协议：部分客户端支持，需要升级到下面客户端的最新版本：ClashLite、Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge Rev、Shadowrocket、stash、Surge、Egern、Loon、v2rayN、openwrt(openclash、passwall)
+路由器：OpenWRT的OpenClash、PassWall、梅林Clash            
+不少机场改为了Anytls协议：部分客户端支持，建议使用上面推荐的客户端然后需要升级到最新版本     
 
      
 7. 买机场就像买基金，当前表现不代表未来表现。
