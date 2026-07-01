@@ -234,7 +234,7 @@ IEPL专线中转SS协议机场
 
 建议使用他家客户端，体验更好。使用第三方客户端使用体验可能不好。
 
-[TAG机场官网](https://honven.dedicated-afflink.com/#/auth/AJCjBhsw)
+[TAG机场官网](https://honven.l49.net/#/auth/AJCjBhsw)
    
 >开业时间：2018         
 老板肉身：香港(确定)         
