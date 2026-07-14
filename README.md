@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-07-07
+最后更新时间：2026-07-14
 
 本文持续整理目前仍值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -38,7 +38,7 @@
 
 ### 1. 买机场和买基金一样
 
-当前表现不代表未来表现。因为机场很快线路和稳定性。然而线路总是会有各种问题。
+当前表现不代表未来表现。因为机场就是vps+线路，是线路总是会有各种问题。
 
 ### 2. 线路比流量更重要
 
@@ -50,7 +50,7 @@
 
 ### 4. 一定准备备用机场
 
-备用很重要，如果经常需要科学上网，那么就不能只有一个机场，特别是202604之后大规模清理国内中转机之后很多机场都不稳定，因此高强度翻墙的推荐买多个机场，避免失联。
+备用很重要，如果经常需要科学上网，就不能只有一个机场，特别是202604大规模清理国内中转机之后很多机场都不稳定，因此高强度翻墙的推荐买多个机场，避免失联。
 
 ### 5. 不推荐超便宜机场
 
@@ -59,7 +59,7 @@
 
 ## 机场客户端推荐：
 >Windows：Clash-verge-rev、Clash-Party、FlClash、V2rayN              
-Mac：Clash-Party和Clash-verge-rev的Mac版本、ClashX.Meta、FlClash      
+Mac：Clash-Party和Clash-verge-rev的Mac版本、FlClash      
 IOS：免费：ClashLite、ClashMi、Egern；付费：小火箭Shadowrocket（最常见）、QuantumultX、Stash、Loon
 安卓：ClashMetaforAndroid、FlClash和、Surfboard、V2rayNG(不支持Anytls)         
 Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的Linux版本    
@@ -69,8 +69,6 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
  
 
 下面有十几家值得推荐的机场，这些机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
-
-
     
 
 ## 机场推荐
@@ -80,9 +78,6 @@ Linux：Shell clash（命令行）、Mihomo-Party、clash-verge-rev和FLClash的
 **一句话评价：**
 
 目前比较推荐的小众三网IEPL专线+透传专线机场，人少、稳定性不错，适合作为主力机场。
-
-
-
 
 BoostNet 是一家采用 AnyTLS 协议的三网 IEPL 专线+透传专线机场，也是我近一年持续测速的一家小众机场。三网IEPL,可以解决目前跨网限速的问题。对于各个运营商的网络都比较友好。如果是单网特别是移动IEPL其它运营商可能体验不佳，相对低调。人少，体验还不错,速度很快，延迟较低，稳定性不错，流媒体还可以。我自己测速一年下来，BoostNet晚高峰速度一直比较稳定。有200一年200G的可以做备用。建议使用他家客户端，体验更好。使用第三方客户端使用体验可能不好。
 
