@@ -363,7 +363,7 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 
 [贝贝云机场官网地址1](https://111.2beibei.com/#/register?code=qwqDFEUW)
 
-[贝贝云机场官网地址2](https://222.2beibei.com/#/register?code=qwqDFEUW)
+[贝贝云机场官网地址2](https://444.2beibei.com/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网地址3](https://333.2beibei.com/#/register?code=qwqDFEUW)
 
