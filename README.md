@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-09-21
+最后更新时间：2026-09-22
 
 这里整理了我目前觉得值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等，会持续更新。
 
@@ -536,12 +536,12 @@ TG频道和群组：无
 
 私有协议，深圳联通入口IEPL专线， 没订阅链接无法导入到其他代理软件使用，本地测速可跑满我家1G 带宽。  
    
-走自己开发代理软的vpn的类型，他家有自己的ios客户端了。    
+走自己开发代理软的vpn的类型，他家有自己的ios客户端。    
 
 **推荐购买人群：** 
 - 需要无限流量 
 - 周付 
-- 新手小白，一键链接 
+- 新手小白，一键连接   
 - 不推荐：不想使用他家客户端只想使用第三方通用客户端的 
 
 
@@ -564,7 +564,7 @@ TG频道和群组：无
 一个账号限制1-5个设备同时使用    
 解锁常见的流媒体    
 可免费试用，且15天无理由退款。可按周购买。    
-一键连接适合不知道怎么导入订阅的小白。快连那种模式     
+一键连接适合不知道怎么导入订阅的小白,快连那种模式     
 还卖独享ip    
 独立客户端，无通报    
 
@@ -592,16 +592,15 @@ TG频道和群组：无
 
 部分节点测速。
 
-
 **测速：**
 <details>
  <summary>测速图，点击展开</summary>
  香港：
-<img src="https://jichangcesu.co/uploads/jichang/365vpn/2025-11-14移动香港.webp"  width = "90%"  align=center  alt="365vpnn香港节点测速" />
+<img src="https://jichangcesu.com/uploads/jichang/365vpn/2025-11-14移动香港.webp"  width = "90%"  align=center  alt="365vpnn香港节点测速" />
 新加坡：
-<img src="https://jichangcesu.co/uploads/jichang/365vpn/2025-11-14移动新加坡.webp"  width = "90%"  align=center  alt="365vpnn新加坡节点测速" />
+<img src="https://jichangcesu.com/uploads/jichang/365vpn/2025-11-14移动新加坡.webp"  width = "90%"  align=center  alt="365vpnn新加坡节点测速" />
 日本：
-<img src="https://jichangcesu.co/uploads/jichang/365vpn/2025-11-14移动日本.webp"  width = "90%"  align=center  alt="365vpnn日本节点测速" />
+<img src="https://jichangcesu.com/uploads/jichang/365vpn/2025-11-14移动日本.webp"  width = "90%"  align=center  alt="365vpnn日本节点测速" />
 </details>
 
 
@@ -1024,7 +1023,7 @@ TG电报频道和群：有
 
 AWS中转+优化海外直连中转机场。目前（20260921）电信网速度不行。
 
-官方客户端走的是另外的线路，ios 上线后，2.0版本会上私有协议。ios 上线了会切国内入口专线（20260920）建议等10月份老板修复后再买
+官方客户端走的是另外的线路，ios 上线后，2.0版本会上私有协议。ios 上线了会切国内入口专线（20260920）建议等10月份老板修复后再买    
  
 老板在日本,跑路概率低。但是落地不多且有复用，。
 流量使用完毕后，不停机只限速。套餐不到期，永远不离线。
@@ -1039,7 +1038,7 @@ AWS中转+优化海外直连中转机场。目前（20260921）电信网速度�
 
 
 #### 官网：
-官网： https://alink.web3aff1.com/f/dW9NXX7v   
+[web3加速器机场官网](https://alink.web3aff1.com/f/dW9NXX7v)      
 
 
 >机场名称：web3加速器   
@@ -1164,7 +1163,7 @@ TG电报频道：有
 | 类型    | 推荐机场                                                      |
 | ----- | --------------------------------------------------------- |
 | 年付小流量 | 悠兔（199 元/年，全年200G）、TAG（154 元/年，全年200G）、Kycloud（150 元/年，10G/月）、BoostNet（200 元/年，20G/月） |
-| 按量付费  | STC-SERVER（0.8 元/G，8 元起，365天有效）                                  |
+
 
 ### 大流量（1TB 左右）
 | 推荐机场          | 套餐                |
