@@ -93,7 +93,7 @@ BoostNet 是一家采用 AnyTLS 协议的三网 IEPL 专线+透传专线机场�
 
 #### 官网：
 
-[BoostNet永久机场官网地址](https://jctj.boostqz.com?path=register&code=Pj4Wrfai)  
+[BoostNet永久机场官网地址](https://jc.boostqz.com?path=register&code=Pj4Wrfai)  
 
 [BoostNet机场官网地址1](https://222.boostnet3.com/#/register?code=Pj4Wrfai)  
 
@@ -363,7 +363,7 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 
 [贝贝云机场官网地址2](https://444.2beibei.com/#/register?code=qwqDFEUW)
 
-[贝贝云机场官网地址3](https://333.2beibei.com/#/register?code=qwqDFEUW)
+[贝贝云机场官网地址3](https://555.2beibei.com/#/register?code=qwqDFEUW)
 
 
 >开业时间：2022       
