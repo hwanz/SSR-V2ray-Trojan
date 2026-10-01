@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-09-28   
+最后更新时间：2026-10-01     
 
 这里整理了我目前觉得值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等，会持续更新。
 
@@ -359,7 +359,7 @@ TG频道和交流群：官网指导进入，关注人数1万+；群需要绑定�
 #### 官网：
 [贝贝云机场官网永久地址](https://jctj.beibei.cloud?path=register&code=qwqDFEUW)
 
-[贝贝云机场官网地址1](https://111.2beibei.com/#/register?code=qwqDFEUW)
+[贝贝云机场官网地址1](https://1.2beibei.com/#/register?code=qwqDFEUW)
 
 [贝贝云机场官网地址2](https://444.2beibei.com/#/register?code=qwqDFEUW)
 
