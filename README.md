@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-11-20     
+最后更新时间：2026-11-21    
 
 这里整理了我目前觉得值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等，会持续更新。
 
@@ -20,11 +20,12 @@
     - WgetCloud机场
     - TAG机场
     - 贝贝云机场
-    - Kycloud机场
     - E-IX机场
-    - 海獭机场
     - 365VPN
+    - 海獭机场
     - 灯塔加速器
+    - web3加速器
+    - Kycloud机场
     - 山海机场
     - 老猫云机场
     - Just my sock机场
@@ -407,74 +408,10 @@ TG频道：无
 </details>
 
 
-<a name="六kycloud机场iepl专线ss150年120g"></a>
-
-### 六、Kycloud机场(IEPL专线|Anytls|150元/年10G/月)          
-
-**一句话评价：**
-
-多入口 IEPL 专线机场，不限制设备数量，网络限制较少，适合多设备和开发运维用户。
-
-Kycloud是一家运营很多年老牌Anytls协议多入口机场，目前是不同的入口写了不同的东南西北节点名称。  
-
-最近测速时入口：香港腾讯云+aws海外中转（（202609））
-     
-套餐不限同时在线客户端数。注册需要先购买。    
-
-**适合：**
-- 需要运营足够时间长
-- 追求稳定性
-- 非小白新手用户
-  
-缺点：
-- 回复工单可能较慢   
-
-#### 官网：
-[kycloud机场官网](https://my.ihcloud.cc/aff.php?aff=40961)
-
->开业时间：2017年开的老牌机场         
-老板肉身：海外(确定)         
-协议：Anytls        
-UDP：基本支持Full-Cone NAT         
-客户端数目：不限制         
-流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等         
-落地ip数量： 60+         
-ChatGPT/OpenAI解锁: 全解锁         
-大陆外能使用：是，购买套餐包括海外直连节点。新疆也用他家直连试试         
-墙外新闻网站屏蔽情况：基本未屏蔽         
-SSH端口屏蔽：未屏蔽22端口         
-邮件传统协议smtp/pop3/imap：未禁止         
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、德国、阿根廷、土耳其、阿根廷、印度、马来西亚、泰国、菲律宾、俄罗斯         
-落地：HKT、Vultr、OVH、Hinet、Sakura等         
-TG频道和群组：有，在套餐内，频道关注人数2000+         
-付款方式：支付宝、虚拟币USDT、信用卡         
-套餐价格是否包含手续费：支付宝不包含(大概3%费率)
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。点【重置】付费重置                
-<a href="https://jichangcesu.com/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">kycloud教程、拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集与用户评价</a>
-
-#### 套餐：
-套餐 |  流量 | 价格  
-:-:  | :-: | :-:   
-Mini | 10G/月 | 150/年，可做备用 
-Basic | 50G/月 | 75/季度 
-Silver | 100G/月 | 105/季  
-Platinum | 200G/年 | 60/月  
-Ultimate1 | 300G/年 | 195/季，598/年  
-Ultimate2 | 500G/年 | 285/季，798/年
-Team1 | 1T/月 | 510/季度  
-Team2 | 2T/月 | 885/季度 
-
-#### 测速：
-<details>
-<summary>测速图和流媒体，点击展开</summary>
-测试网络：电信1000M家宽，晚高峰测速。
-<img src="https://jichangcesu.com/uploads/vpn/kycloud.webp"  width = "90%"  align=center  alt="Kycloud机场晚高峰电信1000M家宽测速" />
-</details>
-
-<a name="七e-ix机场iepl专线anytls199月1t年"></a>
+<a name="六e-ix机场iepl专线anytls199月1t年"></a>
 
 
-### 七、E-IX机场(透传专线|Anytls|199元/年1024G/年)
+### 六、E-IX机场(透传专线|Anytls|199元/年1024G/年)
 
 **一句话评价：**
 
@@ -522,10 +459,10 @@ TG频道和群组：无
 
 
 
-<a name="八365VPN专线私有协议25元每季50G月"></a>
+<a name="七365VPN专线私有协议25元每季50G月"></a>
 
 
-### 八、365VPN(专线|私有协议|25元/季50G/月)
+### 七、365VPN(专线|私有协议|25元/季50G/月)
 
 
 365VPN是一个8年老机场主的新机场。近期结束了内测。     
@@ -605,9 +542,9 @@ TG频道和群组：无
 
 
 
-<a name="九灯塔加速器30/月120G"></a>
+<a name="八灯塔加速器30/月120G"></a>
 
-### 九、灯塔加速器(专线|Vless|30/月120G)
+### 八、灯塔加速器(专线|Vless|30/月120G)
 
 灯塔加速器是Vless（reality）海外中转+专线机场。采用订阅+客户端专属线路模式         
 第三方客户端订阅是海外中转，客户端是专线，客户端端内线路配备ucloud BGP专线+三线IEPL动态负载。全平台客户端包括TVOS、Linux、RouterOS（Openwrt和梅林）       
@@ -652,9 +589,9 @@ TG频道和群组：无
 
 
 
-<a name="十海獭机场中转Trojan25元每季50G每月"></a>
+<a name="九海獭机场中转Trojan25元每季50G每月"></a>
 
-### 十、海獭机场(中转|Trojan|25元/季50G/月)
+### 九、海獭机场(中转|Trojan|25元/季50G/月)
 
 **一句话评价：**
 
@@ -712,9 +649,9 @@ SSH端口屏蔽：22端口未屏蔽
 
 
 
-<a name="十一web3加速器机场IEPLAnytls25每月200G)"></a>
+<a name="十web3加速器机场IEPLAnytls25每月200G)"></a>
 
-### 十一、web3加速器机场(IEPL|Anytls|25/月200G)   
+### 十、web3加速器机场(IEPL|Anytls|25/月200G)   
 
 **一句话评价：**
 
@@ -771,6 +708,71 @@ vip3:800G/月| 880/年
 <img src="https://jichangcesu.com/uploads/vpn/web3.webp"  width = "90%"   align=center  alt="web3加速器机场测速" />
 </details>
 
+
+
+<a name="十一kycloud机场iepl专线ss150年120g"></a>
+
+### 十一、Kycloud机场(IEPL专线|Anytls|150元/年10G/月)          
+
+**一句话评价：**
+
+多入口 直连机场，不限制设备数量，网络限制较少，适合多设备和开发运维用户。
+
+Kycloud是一家运营很多年老牌Anytls协议多入口机场，目前是不同的入口写了不同的东南西北节点名称。  
+
+最近测速时入口：香港腾讯云+aws海外中转（（202609））
+     
+套餐不限同时在线客户端数。注册需要先购买。    
+
+**适合：**
+- 需要运营足够时间长
+- 追求稳定性
+- 非小白新手用户
+  
+缺点：
+- 回复工单可能较慢   
+
+#### 官网：
+[kycloud机场官网](https://my.ihcloud.cc/aff.php?aff=40961)
+
+>开业时间：2017年开的老牌机场         
+老板肉身：海外(确定)         
+协议：Anytls        
+UDP：基本支持Full-Cone NAT         
+客户端数目：不限制         
+流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等         
+落地ip数量： 60+         
+ChatGPT/OpenAI解锁: 全解锁         
+大陆外能使用：是，购买套餐包括海外直连节点。新疆也用他家直连试试         
+墙外新闻网站屏蔽情况：基本未屏蔽         
+SSH端口屏蔽：未屏蔽22端口         
+邮件传统协议smtp/pop3/imap：未禁止         
+节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、德国、阿根廷、土耳其、阿根廷、印度、马来西亚、泰国、菲律宾、俄罗斯         
+落地：HKT、Vultr、OVH、Hinet、Sakura等         
+TG频道和群组：有，在套餐内，频道关注人数2000+         
+付款方式：支付宝、虚拟币USDT、信用卡         
+套餐价格是否包含手续费：支付宝不包含(大概3%费率)
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。点【重置】付费重置                
+<a href="https://jichangcesu.com/IEPL专线机场kycloud历史测速结果整合.html" target="_blank">kycloud教程、拓扑结构、ChatGPT解锁和流媒体检测和历史测速结果合集与用户评价</a>
+
+#### 套餐：
+套餐 |  流量 | 价格  
+:-:  | :-: | :-:   
+Mini | 10G/月 | 150/年，可做备用 
+Basic | 50G/月 | 75/季度 
+Silver | 100G/月 | 105/季  
+Platinum | 200G/年 | 60/月  
+Ultimate1 | 300G/年 | 195/季，598/年  
+Ultimate2 | 500G/年 | 285/季，798/年
+Team1 | 1T/月 | 510/季度  
+Team2 | 2T/月 | 885/季度 
+
+#### 测速：
+<details>
+<summary>测速图和流媒体，点击展开</summary>
+测试网络：电信1000M家宽，晚高峰测速。
+<img src="https://jichangcesu.com/uploads/vpn/kycloud.webp"  width = "90%"  align=center  alt="Kycloud机场晚高峰电信1000M家宽测速" />
+</details>
 
 
 
