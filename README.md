@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-11-21    
+最后更新时间：2026-11-23    
 
 这里整理了我目前觉得值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等，会持续更新。
 
@@ -23,7 +23,6 @@
     - E-IX机场
     - 365VPN
     - 海獭机场
-    - 灯塔加速器
     - web3加速器
     - Kycloud机场
     - 山海机场
@@ -542,7 +541,7 @@ TG频道和群组：无
 
 
 
-<a name="八灯塔加速器30/月120G"></a>
+<!-- <a name="八灯塔加速器30/月120G"></a>
 
 ### 八、灯塔加速器(专线|Vless|30/月120G)
 
@@ -586,12 +585,12 @@ TG频道和群组：无
  <summary>测速图，点击展开</summary>
 <img src="https://jichangcesu.com/uploads/vpn/dengta.webp"  width = "90%"  align=center  alt="灯塔加速器晚高峰测速" />
 </details>
+ -->
 
 
+<a name="八海獭机场中转Trojan25元每季50G每月"></a>
 
-<a name="九海獭机场中转Trojan25元每季50G每月"></a>
-
-### 九、海獭机场(中转|Trojan|25元/季50G/月)
+### 八、海獭机场(中转|Trojan|25元/季50G/月)
 
 **一句话评价：**
 
@@ -649,9 +648,9 @@ SSH端口屏蔽：22端口未屏蔽
 
 
 
-<a name="十web3加速器机场IEPLAnytls25每月200G)"></a>
+<a name="九web3加速器机场IEPLAnytls25每月200G)"></a>
 
-### 十、web3加速器机场(IEPL|Anytls|25/月200G)   
+### 九、web3加速器机场(IEPL|Anytls|25/月200G)   
 
 **一句话评价：**
 
@@ -710,9 +709,9 @@ vip3:800G/月| 880/年
 
 
 
-<a name="十一kycloud机场iepl专线ss150年120g"></a>
+<a name="十kycloud机场iepl专线ss150年120g"></a>
 
-### 十一、Kycloud机场(IEPL专线|Anytls|150元/年10G/月)          
+### 十、Kycloud机场(IEPL专线|Anytls|150元/年10G/月)          
 
 **一句话评价：**
 
@@ -776,10 +775,10 @@ Team2 | 2T/月 | 885/季度
 
 
 
-<a name="十二老猫云机场海外中转Anytls45每季50G每月)"></a>
+<a name="十一老猫云机场海外中转Anytls45每季50G每月)"></a>
 
  
-### 十二、老猫云机场(海外中转|Anytls|45/季50G/月)
+### 十一、老猫云机场(海外中转|Anytls|45/季50G/月)
 
 **一句话评价：**
 
@@ -832,10 +831,10 @@ TG频道和群：无
 
 
 
-<a name="十三山海机场直连与中转Anytls15块每月128G"></a>
+<a name="十二山海机场直连与中转Anytls15块每月128G"></a>
 
 
-### 十三、山海机场(直连与中转|Anytls|15块/月128G)
+### 十二、山海机场(直连与中转|Anytls|15块/月128G)
 
 **一句话评价：**
 
@@ -897,10 +896,10 @@ TG电报频道和群：有
 </details>
 
 
-<a name="十四Just My Socks机场直连机场VLESS Reality 5.88美元/月500GB"></a>
+<a name="十三Just My Socks机场直连机场VLESS Reality 5.88美元/月500GB"></a>
 
 
-### 十四、Just My Socks机场(直连机场|VLESS Reality|5.88美元/月500GB)  
+### 十三、Just My Socks机场(直连机场|VLESS Reality|5.88美元/月500GB)  
 
 **一句话评价：**
 
