@@ -25,7 +25,6 @@
     - 海獭机场
     - web3加速器
     - Kycloud机场
-    - 山海机场
     - 老猫云机场
     - Just my sock机场
 - 如何选择适合自己的机场（快速筛选）
@@ -830,76 +829,12 @@ TG频道和群：无
 
 
 
+ 
 
-<a name="十二山海机场直连与中转Anytls15块每月128G"></a>
-
-
-### 十二、山海机场(直连与中转|Anytls|15块/月128G)
-
-**一句话评价：**
-
-山海是一家较早使用AnyTLS协议的直连与中转双线路机场。客户端为国内入口（2026-09-20）
-
-不同网络的直连体验会有差别，购买前要留意线路和客户端要求。也做了常见流媒体解锁，老板比较负责，买线路也积极。
-
-稳定性可能近期一般但是老板维护及时。  
-老板表示优先使用他家客户端，有优先保证稳定性和速度。第三方客户端不保证。
-
-**适合：**
-- 不介意使用他家官方客户端
-- 预算有限对稳定性要求不是非常高
-
-#### 官网：
-
-[山海官网1](https://shanhai.me/#/register?code=CbE2YfJJ)
-[山海官网2](https://shanhai.one/#/register?code=CbE2YfJJ)
-[山海官网3](https://shanhai.shs/#/register?code=CbE2YfJJ)
-[山海官网4](https://shanhai.cfd/#/register?code=CbE2YfJJ)
-[山海官网5](https://shanhai.click/#/register?code=CbE2YfJJ)
-[山海官网6](https://shanhai.you/#/register?code=CbE2YfJJ)
+<a name="十二Just My Socks机场直连机场VLESS Reality 5.88美元/月500GB"></a>
 
 
-
->老板肉身：澳洲     
-开业时长：2024.3之前     
-过境：国内入口（客户端才用）+通用客户端使用直连     
-协议：Anytls     
-UDP：支持     
-节点国家与地区：中转：香港、台湾、日本、美国、英国、越南、法国、德国、泰国、印度、埃及、新加坡、菲律宾、加拿大、澳洲、巴基斯坦、马来、韩国。 直连：香港、台湾、日本、美国、韩国、台湾、泰国、越南、新加坡、菲律宾、马来、澳洲     
-墙外新闻网站屏蔽情况：轮媒     
-SSH端口屏蔽：未屏蔽22端口     
-TG电报频道和群：有     
-只能中国内地使用：否，有海外入口，大陆外用户可用     
-面板:v2board     
-不限设备     
-<a href="./shanhai.html" target="_blank">山海拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
-
-
-#### 套餐：
-##### 月付套餐（中转 + 三网 IEPL 专线）
-
-| 月付价格 | 流量 |
-| ---- | ---- |
-| 15 元/月 | 128GB/月 |
-| 25 元/月 | 256GB/月 |
-| 45 元/月 | 512GB/月 |
-| 85 元/月 | 1024GB/月 |
-| 165 元/月 | 2048GB/月 |
-| 325 元/月 | 4096GB/月 |
-| 645 元/月 | 8192GB/月 |
-
-
-#### 测速：
-<details>
- <summary>测速图，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/shanhai.webp"  width = "90%"   align=center  alt="山海机场测速" />
-</details>
-
-
-<a name="十三Just My Socks机场直连机场VLESS Reality 5.88美元/月500GB"></a>
-
-
-### 十三、Just My Socks机场(直连机场|VLESS Reality|5.88美元/月500GB)  
+### 十二、Just My Socks机场(直连机场|VLESS Reality|5.88美元/月500GB)  
 
 **一句话评价：**
 
